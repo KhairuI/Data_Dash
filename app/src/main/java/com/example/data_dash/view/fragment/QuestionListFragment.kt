@@ -194,7 +194,10 @@ class QuestionListFragment : Fragment() {
     private fun showAlertDialogue(title:String,message:String) {
         val dialogue= DefaultDialogue(title,message,object :DefaultDialogue.OnClickListener{
             override fun onClick(status: String) {
-                if(status=="yes")  findNavController().navigate(QuestionListFragmentDirections.actionQuestionListFragmentToSplashFragment())
+                if(status=="yes"){
+                    for(i in 1..questionList.size) questionViewModel.update(i, null,false)
+                    findNavController().navigate(QuestionListFragmentDirections.actionQuestionListFragmentToSplashFragment())
+                }
             }
         })
         dialogue.show(childFragmentManager,"dialogue")

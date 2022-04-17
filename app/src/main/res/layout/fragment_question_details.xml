@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.fragment.QuestionDetailsFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutToolbar"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <include
+                android:id="@+id/topToolbar"
+                layout="@layout/custom_toolbar"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@+id/scrollQuestion"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toTopOf="@id/btnBack"
+            app:layout_constraintTop_toBottomOf="@id/layoutToolbar">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:animateLayoutChanges="true"
+                android:paddingBottom="32dp">
+
+                <TextView
+                    android:id="@+id/txtTimer"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    tools:text="Time Left: 00:15:17"
+                    android:gravity="end"
+                    android:textSize="14sp"
+                    android:fontFamily="@font/mulish_semi_bold"
+                    android:textColor="@color/color_orange_light"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginStart="16dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"/>
+
+                <TextView
+                    android:id="@+id/txtQuestion"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="What is your name?"
+                    android:textSize="14sp"
+                    android:fontFamily="@font/mulish_semi_bold"
+                    android:textColor="@color/color_txt_gray"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginTop="8dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/txtTimer"/>
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/txtInputQuestion"
+                    android:layout_width="0dp"
+                    android:layout_height="200dp"
+                    app:boxStrokeWidth="1dp"
+                    android:layout_marginTop="8dp"
+                    app:counterEnabled="true"
+                    app:counterMaxLength="250"
+                    app:errorEnabled="true"
+                    android:hint="@string/txt_hint"
+                    app:hintTextColor="@color/color_txt_gray"
+                    app:boxStrokeColor="@color/color_dark_gray"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    app:boxBackgroundColor="@color/color_light_gray"
+                    app:boxCornerRadiusBottomEnd="4dp"
+                    app:boxCornerRadiusTopEnd="4dp"
+                    app:boxCornerRadiusTopStart="4dp"
+                    app:boxCornerRadiusBottomStart="4dp"
+                    app:layout_constraintStart_toStartOf="@id/txtQuestion"
+                    app:layout_constraintEnd_toEndOf="@id/txtQuestion"
+                    app:layout_constraintTop_toBottomOf="@id/txtQuestion">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/edtQuestion"
+                        android:padding="8dp"
+                        android:gravity="top"
+                        android:fontFamily="@font/mulish_regular"
+                        android:textSize="14sp"
+                        android:maxLines="5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:inputType="textMultiLine" />
+
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:id="@+id/txtNote"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txt_note"
+                    android:textSize="12sp"
+                    android:fontFamily="@font/mulish_semi_bold"
+                    android:textColor="@color/color_txt_gray"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="16dp"
+                    android:justificationMode="inter_word"
+                    app:layout_constraintStart_toStartOf="@id/txtQuestion"
+                    app:layout_constraintEnd_toEndOf="@id/txtQuestion"
+                    app:layout_constraintTop_toBottomOf="@id/txtInputQuestion"
+                    tools:ignore="UnusedAttribute" />
+
+
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnBack"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:text="@string/txt_back"
+            android:insetBottom="0dp"
+            android:insetTop="0dp"
+            app:backgroundTint="@color/color_semi_light_gray"
+            android:textColor="@color/color_light_black"
+            android:textAllCaps="false"
+            android:textSize="14sp"
+            app:cornerRadius="0dp"
+            android:elevation="0dp"
+            app:rippleColor="@color/white"
+            android:fontFamily="@font/mulish_bold"
+            android:layout_marginBottom="16dp"
+            android:layout_marginStart="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/btnNext"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:ignore="RtlSymmetry" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnNext"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:text="@string/txt_next"
+            android:insetBottom="0dp"
+            android:insetTop="0dp"
+            app:backgroundTint="@color/color_orange_deep"
+            android:textColor="@color/white"
+            android:textAllCaps="false"
+            android:textSize="14sp"
+            app:cornerRadius="0dp"
+            android:elevation="0dp"
+            app:rippleColor="@color/white"
+            android:fontFamily="@font/mulish_bold"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            app:layout_constraintStart_toEndOf="@id/btnBack"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:ignore="RtlSymmetry" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

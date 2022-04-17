@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.fragment.SplashFragment">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/txtWelcome"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_welcome"
+        android:gravity="center_horizontal"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/mulish_bold"
+        android:layout_marginTop="80dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:src="@drawable/logo_data_dash"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtWelcome"/>
+
+    <TextView
+        android:id="@+id/txtThanks"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_thanks"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/mulish_bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imgLogo"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnStart"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:text="@string/txt_start_task"
+        android:insetBottom="0dp"
+        android:insetTop="0dp"
+        app:cornerRadius="0dp"
+        app:rippleColor="@color/white"
+        app:backgroundTint="@color/color_orange_deep"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textSize="12sp"
+        android:fontFamily="@font/mulish_bold"
+        android:layout_marginTop="32dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/txtThanks"
+        tools:ignore="RtlSymmetry" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

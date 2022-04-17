@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rowLayout"
+    android:background="@color/color_orange_bg"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/rowInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/txtNumber"
+            android:text="#1"
+            android:textSize="12sp"
+            android:fontFamily="@font/mulish_bold"
+            android:textColor="@color/color_txt_gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+        <TextView
+            android:id="@+id/txtQuestion"
+            android:text="What is your name?"
+            android:textSize="16sp"
+            android:fontFamily="@font/mulish_semi_bold"
+            android:textColor="@color/color_txt_gray"
+            android:layout_width="0dp"
+            android:justificationMode="inter_word"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginEnd="12dp"
+            app:layout_constraintStart_toEndOf="@id/txtNumber"
+            app:layout_constraintEnd_toStartOf="@id/imgArrow"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/txtType"
+            android:text="*Required"
+            android:textSize="12sp"
+            android:fontFamily="@font/mulish_semi_bold"
+            android:textColor="@color/color_txt_gray"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:layout_constraintStart_toStartOf="@id/txtQuestion"
+            app:layout_constraintEnd_toEndOf="@id/txtQuestion"
+            app:layout_constraintTop_toBottomOf="@id/txtQuestion" />
+
+        <ImageView
+            android:id="@+id/imgArrow"
+            android:src="@drawable/ic_arrow_forward"
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@color/color_txt_gray"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".view.fragment.QuestionListFragment">
+
+   <androidx.constraintlayout.widget.ConstraintLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <androidx.constraintlayout.widget.ConstraintLayout
+           android:id="@+id/layoutToolbar"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintTop_toTopOf="parent"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+           <include
+               android:id="@+id/topToolbar"
+               layout="@layout/custom_toolbar"/>
+
+       </androidx.constraintlayout.widget.ConstraintLayout>
+
+       <androidx.core.widget.NestedScrollView
+           android:id="@+id/scrollQuestion"
+           android:layout_width="0dp"
+           android:layout_height="0dp"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintBottom_toTopOf="@id/btnSubmit"
+           app:layout_constraintTop_toBottomOf="@id/layoutToolbar">
+
+           <androidx.constraintlayout.widget.ConstraintLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:animateLayoutChanges="true"
+               android:paddingBottom="32dp">
+
+               <TextView
+                   android:id="@+id/txtTimer"
+                   android:layout_width="0dp"
+                   android:layout_height="wrap_content"
+                   android:gravity="end"
+                   android:textSize="14sp"
+                   tools:text="Time Left: 00:15:17"
+                   android:fontFamily="@font/mulish_semi_bold"
+                   android:textColor="@color/color_orange_light"
+                   android:layout_marginEnd="16dp"
+                   android:layout_marginStart="16dp"
+                   app:layout_constraintStart_toStartOf="parent"
+                   app:layout_constraintEnd_toEndOf="parent"
+                   app:layout_constraintTop_toTopOf="parent"/>
+
+
+               <com.google.android.material.card.MaterialCardView
+                   android:layout_width="0dp"
+                   android:layout_height="wrap_content"
+                   android:layout_marginStart="16dp"
+                   android:layout_marginEnd="16dp"
+                   android:layout_marginTop="8dp"
+                   app:cardCornerRadius="8dp"
+                   app:strokeWidth="0.8dp"
+                   app:strokeColor="@color/color_txt_gray"
+                   app:cardElevation="0dp"
+                   app:layout_constraintStart_toStartOf="parent"
+                   app:layout_constraintEnd_toEndOf="parent"
+                   app:layout_constraintTop_toBottomOf="@id/txtTimer">
+
+                   <androidx.constraintlayout.widget.ConstraintLayout
+                       android:layout_width="match_parent"
+                       android:layout_height="match_parent">
+
+                       <androidx.recyclerview.widget.RecyclerView
+                           android:id="@+id/rvQuestion"
+                           android:layout_width="0dp"
+                           android:layout_height="wrap_content"
+                           android:clipToPadding="false"
+                           tools:itemCount="4"
+                           app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                           app:layout_constraintEnd_toEndOf="parent"
+                           app:layout_constraintStart_toStartOf="parent"
+                           app:layout_constraintTop_toTopOf="parent"
+                           app:reverseLayout="false"
+                           tools:listitem="@layout/row_question" />
+
+                   </androidx.constraintlayout.widget.ConstraintLayout>
+
+               </com.google.android.material.card.MaterialCardView>
+
+
+           </androidx.constraintlayout.widget.ConstraintLayout>
+
+       </androidx.core.widget.NestedScrollView>
+
+       <com.google.android.material.button.MaterialButton
+           android:id="@+id/btnSubmit"
+           style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+           android:layout_width="0dp"
+           android:layout_height="48dp"
+           android:text="@string/txt_submit"
+           android:insetBottom="0dp"
+           android:insetTop="0dp"
+           app:cornerRadius="4dp"
+           app:backgroundTint="@color/color_orange_deep"
+           android:textColor="@color/white"
+           android:textAllCaps="false"
+           android:textSize="14sp"
+           app:rippleColor="@color/white"
+           android:fontFamily="@font/mulish_bold"
+           android:layout_marginBottom="16dp"
+           android:layout_marginStart="24dp"
+           android:layout_marginEnd="24dp"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintBottom_toBottomOf="parent"
+           tools:ignore="RtlSymmetry" />
+
+   </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

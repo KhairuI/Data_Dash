@@ -1,0 +1,10838 @@
+[
+    {
+        "id": 1,
+        "slang": "Alien"
+    },
+    {
+        "id": 2,
+        "slang": "Martian"
+    },
+    {
+        "id": 3,
+        "slang": "Alien"
+    },
+    {
+        "id": 4,
+        "slang": "Angel"
+    },
+    {
+        "id": 5,
+        "slang": "Angry"
+    },
+    {
+        "id": 6,
+        "slang": "Anime Sweat Drop"
+    },
+    {
+        "id": 7,
+        "slang": "Asleep"
+    },
+    {
+        "id": 8,
+        "slang": "Baby"
+    },
+    {
+        "id": 9,
+        "slang": "Band-Aid"
+    },
+    {
+        "id": 10,
+        "slang": "Baseball Player"
+    },
+    {
+        "id": 11,
+        "slang": "Bat"
+    },
+    {
+        "id": 12,
+        "slang": "Beat Up"
+    },
+    {
+        "id": 13,
+        "slang": "Bed Head"
+    },
+    {
+        "id": 14,
+        "slang": "Big-Nosed Dunce"
+    },
+    {
+        "id": 15,
+        "slang": "Bird"
+    },
+    {
+        "id": 16,
+        "slang": "Blushing"
+    },
+    {
+        "id": 17,
+        "slang": "Bored"
+    },
+    {
+        "id": 18,
+        "slang": "Broken Heart"
+    },
+    {
+        "id": 20,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 21,
+        "slang": "Butterfly"
+    },
+    {
+        "id": 22,
+        "slang": "Cap"
+    },
+    {
+        "id": 23,
+        "slang": "Cat Face"
+    },
+    {
+        "id": 24,
+        "slang": "Cat"
+    },
+    {
+        "id": 25,
+        "slang": "Cat"
+    },
+    {
+        "id": 26,
+        "slang": "Cat"
+    },
+    {
+        "id": 27,
+        "slang": "Chinese Hat"
+    },
+    {
+        "id": 28,
+        "slang": "Chubby Face"
+    },
+    {
+        "id": 29,
+        "slang": "Clam"
+    },
+    {
+        "id": 30,
+        "slang": "Clown"
+    },
+    {
+        "id": 31,
+        "slang": "Confused"
+    },
+    {
+        "id": 32,
+        "slang": "Cool"
+    },
+    {
+        "id": 33,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 34,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 35,
+        "slang": "Cowgirl"
+    },
+    {
+        "id": 36,
+        "slang": "Crazy"
+    },
+    {
+        "id": 37,
+        "slang": "Crying"
+    },
+    {
+        "id": 38,
+        "slang": "Crying"
+    },
+    {
+        "id": 39,
+        "slang": "Crying"
+    },
+    {
+        "id": 40,
+        "slang": "Cup"
+    },
+    {
+        "id": 41,
+        "slang": "Cup of Coffee"
+    },
+    {
+        "id": 42,
+        "slang": "Cup of Coffee"
+    },
+    {
+        "id": 43,
+        "slang": "Curly Hair"
+    },
+    {
+        "id": 44,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 45,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 46,
+        "slang": "Dancing"
+    },
+    {
+        "id": 47,
+        "slang": "Dazed"
+    },
+    {
+        "id": 48,
+        "slang": "DJ"
+    },
+    {
+        "id": 49,
+        "slang": "Clown"
+    },
+    {
+        "id": 50,
+        "slang": "Dog"
+    },
+    {
+        "id": 51,
+        "slang": "Dog"
+    },
+    {
+        "id": 52,
+        "slang": "Dog"
+    },
+    {
+        "id": 53,
+        "slang": "Dog"
+    },
+    {
+        "id": 54,
+        "slang": "Dog Bone"
+    },
+    {
+        "id": 55,
+        "slang": "Drunk"
+    },
+    {
+        "id": 56,
+        "slang": "Elvis"
+    },
+    {
+        "id": 57,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 58,
+        "slang": "Eyeglasses"
+    },
+    {
+        "id": 59,
+        "slang": "Looking at You"
+    },
+    {
+        "id": 60,
+        "slang": "Fancy Hair"
+    },
+    {
+        "id": 61,
+        "slang": "Felix the Cat"
+    },
+    {
+        "id": 62,
+        "slang": "Fish"
+    },
+    {
+        "id": 63,
+        "slang": "Football"
+    },
+    {
+        "id": 64,
+        "slang": "Fox"
+    },
+    {
+        "id": 65,
+        "slang": "Frog"
+    },
+    {
+        "id": 66,
+        "slang": "Frog"
+    },
+    {
+        "id": 67,
+        "slang": "Frosty Mug"
+    },
+    {
+        "id": 68,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 69,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 70,
+        "slang": "Gag me"
+    },
+    {
+        "id": 71,
+        "slang": "Giraffe"
+    },
+    {
+        "id": 72,
+        "slang": "Golf"
+    },
+    {
+        "id": 73,
+        "slang": "Greedy"
+    },
+    {
+        "id": 74,
+        "slang": "Grin"
+    },
+    {
+        "id": 75,
+        "slang": "Guardian Angel"
+    },
+    {
+        "id": 76,
+        "slang": "Guy with a Toupee"
+    },
+    {
+        "id": 77,
+        "slang": "Happy"
+    },
+    {
+        "id": 78,
+        "slang": "Happy"
+    },
+    {
+        "id": 79,
+        "slang": "Harry Potter"
+    },
+    {
+        "id": 80,
+        "slang": "Harry Potter Snitch"
+    },
+    {
+        "id": 81,
+        "slang": "Harry Potter Wand"
+    },
+    {
+        "id": 82,
+        "slang": "Headache"
+    },
+    {
+        "id": 83,
+        "slang": "Heart"
+    },
+    {
+        "id": 84,
+        "slang": "Homer Simpson"
+    },
+    {
+        "id": 85,
+        "slang": "Hug"
+    },
+    {
+        "id": 86,
+        "slang": "Huggle"
+    },
+    {
+        "id": 87,
+        "slang": "Hugs"
+    },
+    {
+        "id": 88,
+        "slang": "Hugs and Kisses"
+    },
+    {
+        "id": 89,
+        "slang": "Hypnotized"
+    },
+    {
+        "id": 90,
+        "slang": "Ice Cream Cone"
+    },
+    {
+        "id": 91,
+        "slang": "Ichthus"
+    },
+    {
+        "id": 92,
+        "slang": "In a Nut Shell"
+    },
+    {
+        "id": 93,
+        "slang": "Indifferent"
+    },
+    {
+        "id": 94,
+        "slang": "John Lennon"
+    },
+    {
+        "id": 95,
+        "slang": "King"
+    },
+    {
+        "id": 96,
+        "slang": "Kiss"
+    },
+    {
+        "id": 97,
+        "slang": "Kiss"
+    },
+    {
+        "id": 98,
+        "slang": "Kitty"
+    },
+    {
+        "id": 99,
+        "slang": "Koala"
+    },
+    {
+        "id": 100,
+        "slang": "Ladybug"
+    },
+    {
+        "id": 101,
+        "slang": "Laughing Out Loud"
+    },
+    {
+        "id": 102,
+        "slang": "Liar Liar"
+    },
+    {
+        "id": 103,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 104,
+        "slang": "Long Nose"
+    },
+    {
+        "id": 105,
+        "slang": "Look at Me"
+    },
+    {
+        "id": 106,
+        "slang": "Looking"
+    },
+    {
+        "id": 107,
+        "slang": "Looking at You"
+    },
+    {
+        "id": 108,
+        "slang": "Lots of Lipstick"
+    },
+    {
+        "id": 109,
+        "slang": "M&Ms"
+    },
+    {
+        "id": 110,
+        "slang": "Mad"
+    },
+    {
+        "id": 111,
+        "slang": "Glasses"
+    },
+    {
+        "id": 112,
+        "slang": "Mustache"
+    },
+    {
+        "id": 113,
+        "slang": "Married"
+    },
+    {
+        "id": 114,
+        "slang": "Mog"
+    },
+    {
+        "id": 115,
+        "slang": "Money Eyes"
+    },
+    {
+        "id": 116,
+        "slang": "Monkey"
+    },
+    {
+        "id": 117,
+        "slang": "Monkey"
+    },
+    {
+        "id": 118,
+        "slang": "Mouse"
+    },
+    {
+        "id": 119,
+        "slang": "Mouse"
+    },
+    {
+        "id": 120,
+        "slang": "Mr. Magoo"
+    },
+    {
+        "id": 121,
+        "slang": "Napping"
+    },
+    {
+        "id": 122,
+        "slang": "Navy Lieutenant"
+    },
+    {
+        "id": 123,
+        "slang": "Navy Commander"
+    },
+    {
+        "id": 124,
+        "slang": "Navy Captain"
+    },
+    {
+        "id": 125,
+        "slang": "Navy Admiral"
+    },
+    {
+        "id": 126,
+        "slang": "Old Lady"
+    },
+    {
+        "id": 127,
+        "slang": "Overjoyed"
+    },
+    {
+        "id": 128,
+        "slang": "Owl"
+    },
+    {
+        "id": 129,
+        "slang": "Partying"
+    },
+    {
+        "id": 130,
+        "slang": "Partying Too Much"
+    },
+    {
+        "id": 131,
+        "slang": "Pato"
+    },
+    {
+        "id": 132,
+        "slang": "Peace"
+    },
+    {
+        "id": 133,
+        "slang": "Perplexed"
+    },
+    {
+        "id": 134,
+        "slang": "Pig"
+    },
+    {
+        "id": 135,
+        "slang": "Pilgrim"
+    },
+    {
+        "id": 136,
+        "slang": "Pope"
+    },
+    {
+        "id": 137,
+        "slang": "Pop-Tart"
+    },
+    {
+        "id": 138,
+        "slang": "Praying"
+    },
+    {
+        "id": 139,
+        "slang": "Princess"
+    },
+    {
+        "id": 140,
+        "slang": "Princess"
+    },
+    {
+        "id": 141,
+        "slang": "Queen"
+    },
+    {
+        "id": 142,
+        "slang": "Very Happy"
+    },
+    {
+        "id": 143,
+        "slang": "Crayon"
+    },
+    {
+        "id": 144,
+        "slang": "Reindeer"
+    },
+    {
+        "id": 145,
+        "slang": "Reproduction"
+    },
+    {
+        "id": 146,
+        "slang": "Ronald Reagan"
+    },
+    {
+        "id": 147,
+        "slang": "Rose"
+    },
+    {
+        "id": 148,
+        "slang": "Rose"
+    },
+    {
+        "id": 149,
+        "slang": "Sad"
+    },
+    {
+        "id": 150,
+        "slang": "Sailor"
+    },
+    {
+        "id": 151,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 152,
+        "slang": "Sarcastic"
+    },
+    {
+        "id": 153,
+        "slang": "Scholar"
+    },
+    {
+        "id": 154,
+        "slang": "Sea Horse"
+    },
+    {
+        "id": 155,
+        "slang": "Seeing Eye to Eye"
+    },
+    {
+        "id": 156,
+        "slang": "Shame on You"
+    },
+    {
+        "id": 157,
+        "slang": "Shocked"
+    },
+    {
+        "id": 158,
+        "slang": "Skateboarder"
+    },
+    {
+        "id": 159,
+        "slang": "Skateboarder"
+    },
+    {
+        "id": 160,
+        "slang": "Pizza"
+    },
+    {
+        "id": 161,
+        "slang": "Smoking"
+    },
+    {
+        "id": 162,
+        "slang": "Thinking"
+    },
+    {
+        "id": 163,
+        "slang": "Sour Face"
+    },
+    {
+        "id": 164,
+        "slang": "Star Gazed"
+    },
+    {
+        "id": 165,
+        "slang": "Staring at a Screen for Too Long"
+    },
+    {
+        "id": 166,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 167,
+        "slang": "Stunned"
+    },
+    {
+        "id": 168,
+        "slang": "Surprised"
+    },
+    {
+        "id": 169,
+        "slang": "Syringe"
+    },
+    {
+        "id": 170,
+        "slang": "Talking"
+    },
+    {
+        "id": 171,
+        "slang": "Tongue in Cheek"
+    },
+    {
+        "id": 172,
+        "slang": "Tongue in Cheek"
+    },
+    {
+        "id": 173,
+        "slang": "Tongue Tied"
+    },
+    {
+        "id": 174,
+        "slang": "Tower"
+    },
+    {
+        "id": 175,
+        "slang": "Undecided"
+    },
+    {
+        "id": 176,
+        "slang": "Vampire"
+    },
+    {
+        "id": 177,
+        "slang": "Vampiro"
+    },
+    {
+        "id": 178,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 179,
+        "slang": "Winking"
+    },
+    {
+        "id": 180,
+        "slang": "Witch"
+    },
+    {
+        "id": 181,
+        "slang": "Yacht"
+    },
+    {
+        "id": 182,
+        "slang": "Yawn"
+    },
+    {
+        "id": 183,
+        "slang": "Mooning"
+    },
+    {
+        "id": 184,
+        "slang": "Zorro"
+    },
+    {
+        "id": 185,
+        "slang": "Angel"
+    },
+    {
+        "id": 186,
+        "slang": "Braces"
+    },
+    {
+        "id": 187,
+        "slang": "Joking"
+    },
+    {
+        "id": 188,
+        "slang": "Looking Around"
+    },
+    {
+        "id": 189,
+        "slang": "Kirby"
+    },
+    {
+        "id": 190,
+        "slang": "Kirby"
+    },
+    {
+        "id": 191,
+        "slang": "Kirby"
+    },
+    {
+        "id": 192,
+        "slang": "Kirby"
+    },
+    {
+        "id": 193,
+        "slang": "United States Flag"
+    },
+    {
+        "id": 194,
+        "slang": "Pie Being Thrown"
+    },
+    {
+        "id": 195,
+        "slang": "Angry"
+    },
+    {
+        "id": 196,
+        "slang": "Gorilla"
+    },
+    {
+        "id": 197,
+        "slang": "Alarmed"
+    },
+    {
+        "id": 198,
+        "slang": "Ultraman"
+    },
+    {
+        "id": 199,
+        "slang": "Nerd"
+    },
+    {
+        "id": 200,
+        "slang": "Goatee"
+    },
+    {
+        "id": 201,
+        "slang": "Deja Vu"
+    },
+    {
+        "id": 202,
+        "slang": "Bizzare Comment"
+    },
+    {
+        "id": 203,
+        "slang": "Laughing Tears"
+    },
+    {
+        "id": 204,
+        "slang": "Smoking a Pipe"
+    },
+    {
+        "id": 205,
+        "slang": "Speak no Evil"
+    },
+    {
+        "id": 206,
+        "slang": "Poker Face"
+    },
+    {
+        "id": 207,
+        "slang": "Bunny"
+    },
+    {
+        "id": 208,
+        "slang": "Pineapple"
+    },
+    {
+        "id": 209,
+        "slang": "Slept Too Long"
+    },
+    {
+        "id": 210,
+        "slang": "Exhausted"
+    },
+    {
+        "id": 211,
+        "slang": "Left-handed Smiley Face"
+    },
+    {
+        "id": 212,
+        "slang": "Left-handed Sad Face"
+    },
+    {
+        "id": 213,
+        "slang": "Stock Broker"
+    },
+    {
+        "id": 214,
+        "slang": "Comb Stuck in the Hair"
+    },
+    {
+        "id": 215,
+        "slang": "Hung Over"
+    },
+    {
+        "id": 216,
+        "slang": "Very Drunk"
+    },
+    {
+        "id": 217,
+        "slang": "Beaten Up"
+    },
+    {
+        "id": 218,
+        "slang": "Broken Glasses"
+    },
+    {
+        "id": 219,
+        "slang": "Handsome"
+    },
+    {
+        "id": 220,
+        "slang": "Betty Boop"
+    },
+    {
+        "id": 221,
+        "slang": "Suave"
+    },
+    {
+        "id": 222,
+        "slang": "One Eyebrow"
+    },
+    {
+        "id": 223,
+        "slang": "Marine"
+    },
+    {
+        "id": 224,
+        "slang": "Wine Glass"
+    },
+    {
+        "id": 225,
+        "slang": "Shy"
+    },
+    {
+        "id": 226,
+        "slang": "In Love"
+    },
+    {
+        "id": 227,
+        "slang": "Happy"
+    },
+    {
+        "id": 228,
+        "slang": "Sad"
+    },
+    {
+        "id": 229,
+        "slang": "Jovial"
+    },
+    {
+        "id": 230,
+        "slang": "Despondent"
+    },
+    {
+        "id": 231,
+        "slang": "Indifferent"
+    },
+    {
+        "id": 232,
+        "slang": "Confused"
+    },
+    {
+        "id": 233,
+        "slang": "Incoherent"
+    },
+    {
+        "id": 234,
+        "slang": "Screaming"
+    },
+    {
+        "id": 235,
+        "slang": "Yawn"
+    },
+    {
+        "id": 236,
+        "slang": "Very Happy"
+    },
+    {
+        "id": 237,
+        "slang": "Very Sad"
+    },
+    {
+        "id": 238,
+        "slang": "Angry"
+    },
+    {
+        "id": 239,
+        "slang": "Kiss"
+    },
+    {
+        "id": 240,
+        "slang": "Skull"
+    },
+    {
+        "id": 241,
+        "slang": "Cow"
+    },
+    {
+        "id": 242,
+        "slang": "Four Leaf Clover"
+    },
+    {
+        "id": 243,
+        "slang": "Cup of Coffee"
+    },
+    {
+        "id": 244,
+        "slang": "Chicken"
+    },
+    {
+        "id": 245,
+        "slang": "Applause"
+    },
+    {
+        "id": 246,
+        "slang": "Doh!"
+    },
+    {
+        "id": 247,
+        "slang": "Trekkie"
+    },
+    {
+        "id": 248,
+        "slang": "Television"
+    },
+    {
+        "id": 249,
+        "slang": "Bald"
+    },
+    {
+        "id": 250,
+        "slang": "Charlie Chaplin"
+    },
+    {
+        "id": 251,
+        "slang": "Football Helmet"
+    },
+    {
+        "id": 252,
+        "slang": "Cross-Eyed"
+    },
+    {
+        "id": 253,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 254,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 255,
+        "slang": "Shouting"
+    },
+    {
+        "id": 256,
+        "slang": "Side Comment"
+    },
+    {
+        "id": 257,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 258,
+        "slang": "Whatever"
+    },
+    {
+        "id": 259,
+        "slang": "Drooling"
+    },
+    {
+        "id": 260,
+        "slang": "Loser"
+    },
+    {
+        "id": 261,
+        "slang": "Baseball Player"
+    },
+    {
+        "id": 262,
+        "slang": "Baseball Player"
+    },
+    {
+        "id": 263,
+        "slang": "Happy"
+    },
+    {
+        "id": 264,
+        "slang": "Sad"
+    },
+    {
+        "id": 265,
+        "slang": "Winking"
+    },
+    {
+        "id": 266,
+        "slang": "Big Grin"
+    },
+    {
+        "id": 267,
+        "slang": "Batting Eyelashes"
+    },
+    {
+        "id": 268,
+        "slang": "Big Hug"
+    },
+    {
+        "id": 269,
+        "slang": "Kirby"
+    },
+    {
+        "id": 270,
+        "slang": "Kitty"
+    },
+    {
+        "id": 271,
+        "slang": "Confused"
+    },
+    {
+        "id": 272,
+        "slang": "Love Struck"
+    },
+    {
+        "id": 273,
+        "slang": "Kiss"
+    },
+    {
+        "id": 274,
+        "slang": "Broken Heart"
+    },
+    {
+        "id": 275,
+        "slang": "Surprised"
+    },
+    {
+        "id": 276,
+        "slang": "Angry"
+    },
+    {
+        "id": 277,
+        "slang": "Smug"
+    },
+    {
+        "id": 278,
+        "slang": "Worried"
+    },
+    {
+        "id": 279,
+        "slang": "Devil"
+    },
+    {
+        "id": 280,
+        "slang": "Crying"
+    },
+    {
+        "id": 281,
+        "slang": "Laughing"
+    },
+    {
+        "id": 282,
+        "slang": "Straight face"
+    },
+    {
+        "id": 283,
+        "slang": "Raised Eyebrow"
+    },
+    {
+        "id": 284,
+        "slang": "Rolling on the Floor Laughing"
+    },
+    {
+        "id": 285,
+        "slang": "Angel"
+    },
+    {
+        "id": 286,
+        "slang": "Nerd"
+    },
+    {
+        "id": 287,
+        "slang": "Talk to the Hand"
+    },
+    {
+        "id": 288,
+        "slang": "Call Me"
+    },
+    {
+        "id": 289,
+        "slang": "On the Phone"
+    },
+    {
+        "id": 290,
+        "slang": "At Wits End"
+    },
+    {
+        "id": 291,
+        "slang": "Wave"
+    },
+    {
+        "id": 292,
+        "slang": "Time Out"
+    },
+    {
+        "id": 293,
+        "slang": "Daydreaming"
+    },
+    {
+        "id": 294,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 295,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 296,
+        "slang": "Sick"
+    },
+    {
+        "id": 297,
+        "slang": "Do Not Tell Anyone"
+    },
+    {
+        "id": 298,
+        "slang": "Not talking"
+    },
+    {
+        "id": 299,
+        "slang": "Dog"
+    },
+    {
+        "id": 300,
+        "slang": "Silly"
+    },
+    {
+        "id": 301,
+        "slang": "Party"
+    },
+    {
+        "id": 302,
+        "slang": "Tired"
+    },
+    {
+        "id": 303,
+        "slang": "Nailbiting"
+    },
+    {
+        "id": 304,
+        "slang": "Waiting"
+    },
+    {
+        "id": 305,
+        "slang": "Sigh"
+    },
+    {
+        "id": 306,
+        "slang": "Phbbbbt"
+    },
+    {
+        "id": 307,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 308,
+        "slang": "Butterfly"
+    },
+    {
+        "id": 309,
+        "slang": "Sarcastic"
+    },
+    {
+        "id": 310,
+        "slang": "Smile"
+    },
+    {
+        "id": 311,
+        "slang": "Smile"
+    },
+    {
+        "id": 312,
+        "slang": "Confused"
+    },
+    {
+        "id": 313,
+        "slang": "Confused"
+    },
+    {
+        "id": 314,
+        "slang": "Crying"
+    },
+    {
+        "id": 315,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 316,
+        "slang": "Nerd"
+    },
+    {
+        "id": 317,
+        "slang": "Secret Telling"
+    },
+    {
+        "id": 318,
+        "slang": "I Do Not Know"
+    },
+    {
+        "id": 319,
+        "slang": "Party"
+    },
+    {
+        "id": 324,
+        "slang": "Open-Mouthed Smile"
+    },
+    {
+        "id": 325,
+        "slang": "Open-Mouthed Smile"
+    },
+    {
+        "id": 328,
+        "slang": "Disappointed"
+    },
+    {
+        "id": 329,
+        "slang": "Disappointed"
+    },
+    {
+        "id": 330,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 331,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 332,
+        "slang": "Angry"
+    },
+    {
+        "id": 333,
+        "slang": "Angry"
+    },
+    {
+        "id": 335,
+        "slang": "Baring Teeth"
+    },
+    {
+        "id": 336,
+        "slang": "Sick"
+    },
+    {
+        "id": 337,
+        "slang": "Thinking"
+    },
+    {
+        "id": 338,
+        "slang": "Eye-Rolling"
+    },
+    {
+        "id": 345,
+        "slang": "Left Hug"
+    },
+    {
+        "id": 346,
+        "slang": "Right Hug"
+    },
+    {
+        "id": 347,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 348,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 349,
+        "slang": "Birthday Cake"
+    },
+    {
+        "id": 350,
+        "slang": "Filmstrip"
+    },
+    {
+        "id": 358,
+        "slang": "Cat Face"
+    },
+    {
+        "id": 359,
+        "slang": "Dog Face"
+    },
+    {
+        "id": 364,
+        "slang": "Star"
+    },
+    {
+        "id": 382,
+        "slang": "Frown"
+    },
+    {
+        "id": 383,
+        "slang": "Frown"
+    },
+    {
+        "id": 384,
+        "slang": "Uh-oh"
+    },
+    {
+        "id": 385,
+        "slang": "Yelling"
+    },
+    {
+        "id": 386,
+        "slang": "Big Grin"
+    },
+    {
+        "id": 387,
+        "slang": "Money Mouth"
+    },
+    {
+        "id": 388,
+        "slang": "Foot in Mouth"
+    },
+    {
+        "id": 389,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 390,
+        "slang": "Angel"
+    },
+    {
+        "id": 391,
+        "slang": "Hmmm"
+    },
+    {
+        "id": 392,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 393,
+        "slang": "Joe Cool"
+    },
+    {
+        "id": 395,
+        "slang": "Drooling"
+    },
+    {
+        "id": 396,
+        "slang": "Drooling"
+    },
+    {
+        "id": 399,
+        "slang": "Whining"
+    },
+    {
+        "id": 400,
+        "slang": "Whining"
+    },
+    {
+        "id": 403,
+        "slang": "Angel"
+    },
+    {
+        "id": 404,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 405,
+        "slang": "Hmmm"
+    },
+    {
+        "id": 406,
+        "slang": "Confused"
+    },
+    {
+        "id": 409,
+        "slang": "DJ"
+    },
+    {
+        "id": 413,
+        "slang": "Devil"
+    },
+    {
+        "id": 414,
+        "slang": "Rose"
+    },
+    {
+        "id": 415,
+        "slang": "Bomb"
+    },
+    {
+        "id": 419,
+        "slang": "Stick Man"
+    },
+    {
+        "id": 420,
+        "slang": "Stick Man"
+    },
+    {
+        "id": 421,
+        "slang": "Anime Sweat Drop"
+    },
+    {
+        "id": 424,
+        "slang": "Handcuffs"
+    },
+    {
+        "id": 429,
+        "slang": "Dog"
+    },
+    {
+        "id": 430,
+        "slang": "Chef"
+    },
+    {
+        "id": 431,
+        "slang": "Bowling"
+    },
+    {
+        "id": 432,
+        "slang": "Midget"
+    },
+    {
+        "id": 433,
+        "slang": "Pig"
+    },
+    {
+        "id": 434,
+        "slang": "Pizza"
+    },
+    {
+        "id": 435,
+        "slang": "Snail"
+    },
+    {
+        "id": 436,
+        "slang": "Rose"
+    },
+    {
+        "id": 437,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 438,
+        "slang": "Mooning You"
+    },
+    {
+        "id": 439,
+        "slang": "Scissors"
+    },
+    {
+        "id": 440,
+        "slang": "Mad"
+    },
+    {
+        "id": 441,
+        "slang": "Yoda"
+    },
+    {
+        "id": 442,
+        "slang": "Rose"
+    },
+    {
+        "id": 443,
+        "slang": "Laughing"
+    },
+    {
+        "id": 444,
+        "slang": "Lipstick"
+    },
+    {
+        "id": 445,
+        "slang": "Sword"
+    },
+    {
+        "id": 446,
+        "slang": "Eyepatch"
+    },
+    {
+        "id": 447,
+        "slang": "Happy"
+    },
+    {
+        "id": 448,
+        "slang": "Sad"
+    },
+    {
+        "id": 451,
+        "slang": "Angry"
+    },
+    {
+        "id": 452,
+        "slang": "Dog Bone"
+    },
+    {
+        "id": 453,
+        "slang": "Pinocchio"
+    },
+    {
+        "id": 454,
+        "slang": "Revenge"
+    },
+    {
+        "id": 455,
+        "slang": "Mad"
+    },
+    {
+        "id": 456,
+        "slang": "Irritated"
+    },
+    {
+        "id": 457,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 458,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 459,
+        "slang": "Cold Stare"
+    },
+    {
+        "id": 460,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 461,
+        "slang": "Yuck Face"
+    },
+    {
+        "id": 462,
+        "slang": "Happy"
+    },
+    {
+        "id": 463,
+        "slang": "Hugs"
+    },
+    {
+        "id": 464,
+        "slang": "Rose"
+    },
+    {
+        "id": 465,
+        "slang": "Pig"
+    },
+    {
+        "id": 466,
+        "slang": "Madonna"
+    },
+    {
+        "id": 467,
+        "slang": "Kisses"
+    },
+    {
+        "id": 468,
+        "slang": "Toes"
+    },
+    {
+        "id": 469,
+        "slang": "Smirk"
+    },
+    {
+        "id": 470,
+        "slang": "Monkey"
+    },
+    {
+        "id": 471,
+        "slang": "Dancing"
+    },
+    {
+        "id": 472,
+        "slang": "Dancing"
+    },
+    {
+        "id": 473,
+        "slang": "Dancing"
+    },
+    {
+        "id": 474,
+        "slang": "Shark"
+    },
+    {
+        "id": 475,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 476,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 477,
+        "slang": "Fish"
+    },
+    {
+        "id": 478,
+        "slang": "Fish"
+    },
+    {
+        "id": 479,
+        "slang": "Angry"
+    },
+    {
+        "id": 480,
+        "slang": "Anime Sweat Drop"
+    },
+    {
+        "id": 481,
+        "slang": "Whatever"
+    },
+    {
+        "id": 482,
+        "slang": "Shocked"
+    },
+    {
+        "id": 483,
+        "slang": "Marge Simpson"
+    },
+    {
+        "id": 484,
+        "slang": "Angry"
+    },
+    {
+        "id": 485,
+        "slang": "Upset"
+    },
+    {
+        "id": 486,
+        "slang": "Surprised"
+    },
+    {
+        "id": 487,
+        "slang": "Talking"
+    },
+    {
+        "id": 488,
+        "slang": "Smiling"
+    },
+    {
+        "id": 489,
+        "slang": "Smirking"
+    },
+    {
+        "id": 490,
+        "slang": "Upset"
+    },
+    {
+        "id": 491,
+        "slang": "Surprised"
+    },
+    {
+        "id": 492,
+        "slang": "Gorilla"
+    },
+    {
+        "id": 493,
+        "slang": "Indecisive"
+    },
+    {
+        "id": 494,
+        "slang": "Irritated"
+    },
+    {
+        "id": 495,
+        "slang": "Metal"
+    },
+    {
+        "id": 496,
+        "slang": "Emo"
+    },
+    {
+        "id": 497,
+        "slang": "Crying"
+    },
+    {
+        "id": 498,
+        "slang": "Kool"
+    },
+    {
+        "id": 499,
+        "slang": "Kirby Dance"
+    },
+    {
+        "id": 500,
+        "slang": "Frowning"
+    },
+    {
+        "id": 501,
+        "slang": "Angry"
+    },
+    {
+        "id": 502,
+        "slang": "Bird"
+    },
+    {
+        "id": 503,
+        "slang": "Skateboarder"
+    },
+    {
+        "id": 504,
+        "slang": "Bicycle"
+    },
+    {
+        "id": 505,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 506,
+        "slang": "Love"
+    },
+    {
+        "id": 507,
+        "slang": "Martian"
+    },
+    {
+        "id": 508,
+        "slang": "Inadequate"
+    },
+    {
+        "id": 509,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 510,
+        "slang": "Flirty"
+    },
+    {
+        "id": 511,
+        "slang": "Horror"
+    },
+    {
+        "id": 512,
+        "slang": "Crying"
+    },
+    {
+        "id": 513,
+        "slang": "Fish"
+    },
+    {
+        "id": 514,
+        "slang": "Kiss"
+    },
+    {
+        "id": 515,
+        "slang": "Bunny"
+    },
+    {
+        "id": 516,
+        "slang": "Crying"
+    },
+    {
+        "id": 517,
+        "slang": "Happy"
+    },
+    {
+        "id": 518,
+        "slang": "Crab"
+    },
+    {
+        "id": 519,
+        "slang": "Sad"
+    },
+    {
+        "id": 520,
+        "slang": "Kitty"
+    },
+    {
+        "id": 521,
+        "slang": "Person"
+    },
+    {
+        "id": 522,
+        "slang": "Davey Crockett"
+    },
+    {
+        "id": 523,
+        "slang": "Rocker"
+    },
+    {
+        "id": 524,
+        "slang": "Sorry"
+    },
+    {
+        "id": 525,
+        "slang": "Crying"
+    },
+    {
+        "id": 526,
+        "slang": "Hyper"
+    },
+    {
+        "id": 527,
+        "slang": "Dumb Person"
+    },
+    {
+        "id": 528,
+        "slang": "Blissful"
+    },
+    {
+        "id": 529,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 530,
+        "slang": "Bear"
+    },
+    {
+        "id": 531,
+        "slang": "Hockey Stick and Puck"
+    },
+    {
+        "id": 532,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 533,
+        "slang": "Surprised"
+    },
+    {
+        "id": 534,
+        "slang": "Fish"
+    },
+    {
+        "id": 535,
+        "slang": "Fish"
+    },
+    {
+        "id": 536,
+        "slang": "Devil"
+    },
+    {
+        "id": 537,
+        "slang": "Elephant"
+    },
+    {
+        "id": 538,
+        "slang": "Sour Face"
+    },
+    {
+        "id": 539,
+        "slang": "Lion"
+    },
+    {
+        "id": 540,
+        "slang": "Pig"
+    },
+    {
+        "id": 541,
+        "slang": "Cowbell"
+    },
+    {
+        "id": 542,
+        "slang": "Mustache"
+    },
+    {
+        "id": 543,
+        "slang": "Cheer"
+    },
+    {
+        "id": 544,
+        "slang": "Flower"
+    },
+    {
+        "id": 545,
+        "slang": "Confused"
+    },
+    {
+        "id": 546,
+        "slang": "Surprised"
+    },
+    {
+        "id": 547,
+        "slang": "Banana"
+    },
+    {
+        "id": 548,
+        "slang": "Fighting"
+    },
+    {
+        "id": 549,
+        "slang": "Owl"
+    },
+    {
+        "id": 550,
+        "slang": "Butt"
+    },
+    {
+        "id": 551,
+        "slang": "Mouse"
+    },
+    {
+        "id": 552,
+        "slang": "Upset"
+    },
+    {
+        "id": 553,
+        "slang": "Sad"
+    },
+    {
+        "id": 554,
+        "slang": "Mischievous"
+    },
+    {
+        "id": 555,
+        "slang": "Crying"
+    },
+    {
+        "id": 556,
+        "slang": "Homer"
+    },
+    {
+        "id": 557,
+        "slang": "Abraham Lincoln"
+    },
+    {
+        "id": 558,
+        "slang": "Victory"
+    },
+    {
+        "id": 559,
+        "slang": "Put Em Up"
+    },
+    {
+        "id": 560,
+        "slang": "Ladybug"
+    },
+    {
+        "id": 561,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 562,
+        "slang": "Emo"
+    },
+    {
+        "id": 563,
+        "slang": "Bunny"
+    },
+    {
+        "id": 564,
+        "slang": "Mouse"
+    },
+    {
+        "id": 565,
+        "slang": "Devil"
+    },
+    {
+        "id": 566,
+        "slang": "Smile"
+    },
+    {
+        "id": 567,
+        "slang": "Bunny"
+    },
+    {
+        "id": 568,
+        "slang": "Falcon Punch"
+    },
+    {
+        "id": 569,
+        "slang": "Boxing"
+    },
+    {
+        "id": 570,
+        "slang": "Sword"
+    },
+    {
+        "id": 571,
+        "slang": "Chef"
+    },
+    {
+        "id": 572,
+        "slang": "Mad"
+    },
+    {
+        "id": 573,
+        "slang": "Monkey"
+    },
+    {
+        "id": 574,
+        "slang": "Bed"
+    },
+    {
+        "id": 575,
+        "slang": "Excited"
+    },
+    {
+        "id": 576,
+        "slang": "Peace"
+    },
+    {
+        "id": 578,
+        "slang": "Pacman"
+    },
+    {
+        "id": 579,
+        "slang": "Looking"
+    },
+    {
+        "id": 580,
+        "slang": "Looking"
+    },
+    {
+        "id": 581,
+        "slang": "Later"
+    },
+    {
+        "id": 582,
+        "slang": "Rock On"
+    },
+    {
+        "id": 583,
+        "slang": "Rocking"
+    },
+    {
+        "id": 584,
+        "slang": "Pacman"
+    },
+    {
+        "id": 585,
+        "slang": "Guitar"
+    },
+    {
+        "id": 586,
+        "slang": "Skater"
+    },
+    {
+        "id": 587,
+        "slang": "Black Eye"
+    },
+    {
+        "id": 588,
+        "slang": "Shoulder Shrug"
+    },
+    {
+        "id": 589,
+        "slang": "Yoda"
+    },
+    {
+        "id": 590,
+        "slang": "Vampire"
+    },
+    {
+        "id": 591,
+        "slang": "Huge"
+    },
+    {
+        "id": 592,
+        "slang": "Pikachu"
+    },
+    {
+        "id": 593,
+        "slang": "Pikachu"
+    },
+    {
+        "id": 594,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 595,
+        "slang": "Concentrating"
+    },
+    {
+        "id": 596,
+        "slang": "Glasses"
+    },
+    {
+        "id": 597,
+        "slang": "Glasses"
+    },
+    {
+        "id": 598,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 599,
+        "slang": "Kissing"
+    },
+    {
+        "id": 600,
+        "slang": "Winking"
+    },
+    {
+        "id": 601,
+        "slang": "Cheerleader"
+    },
+    {
+        "id": 602,
+        "slang": "Stressed"
+    },
+    {
+        "id": 603,
+        "slang": "Christmas Tree"
+    },
+    {
+        "id": 604,
+        "slang": "Diamond Ring"
+    },
+    {
+        "id": 605,
+        "slang": "Partying"
+    },
+    {
+        "id": 606,
+        "slang": "Kiss"
+    },
+    {
+        "id": 607,
+        "slang": "Singing"
+    },
+    {
+        "id": 608,
+        "slang": "Singing"
+    },
+    {
+        "id": 609,
+        "slang": "Turkey"
+    },
+    {
+        "id": 610,
+        "slang": "Baring Teeth"
+    },
+    {
+        "id": 611,
+        "slang": "Monkey"
+    },
+    {
+        "id": 612,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 613,
+        "slang": "Kissing"
+    },
+    {
+        "id": 614,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 615,
+        "slang": "Kissing"
+    },
+    {
+        "id": 616,
+        "slang": "Rat"
+    },
+    {
+        "id": 617,
+        "slang": "Rat"
+    },
+    {
+        "id": 618,
+        "slang": "Rat"
+    },
+    {
+        "id": 619,
+        "slang": "Sunshine"
+    },
+    {
+        "id": 620,
+        "slang": "Sunshine"
+    },
+    {
+        "id": 621,
+        "slang": "Devil"
+    },
+    {
+        "id": 622,
+        "slang": "Dinosaur"
+    },
+    {
+        "id": 623,
+        "slang": "Heart"
+    },
+    {
+        "id": 624,
+        "slang": "Surfer"
+    },
+    {
+        "id": 625,
+        "slang": "Mickey Mouse"
+    },
+    {
+        "id": 626,
+        "slang": "Mickey Mouse"
+    },
+    {
+        "id": 627,
+        "slang": "Sad"
+    },
+    {
+        "id": 628,
+        "slang": "Sad"
+    },
+    {
+        "id": 629,
+        "slang": "Betty Boop"
+    },
+    {
+        "id": 630,
+        "slang": "Birthday Hat"
+    },
+    {
+        "id": 631,
+        "slang": "Emo"
+    },
+    {
+        "id": 632,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 633,
+        "slang": "Elvis"
+    },
+    {
+        "id": 634,
+        "slang": "Pacman"
+    },
+    {
+        "id": 635,
+        "slang": "Sour Face"
+    },
+    {
+        "id": 636,
+        "slang": "French Kiss"
+    },
+    {
+        "id": 637,
+        "slang": "Hug"
+    },
+    {
+        "id": 638,
+        "slang": "Alien"
+    },
+    {
+        "id": 639,
+        "slang": "Hug"
+    },
+    {
+        "id": 640,
+        "slang": "Friends"
+    },
+    {
+        "id": 641,
+        "slang": "Love"
+    },
+    {
+        "id": 642,
+        "slang": "Baring Teeth"
+    },
+    {
+        "id": 643,
+        "slang": "Rocking"
+    },
+    {
+        "id": 644,
+        "slang": "Mad"
+    },
+    {
+        "id": 645,
+        "slang": "Baby"
+    },
+    {
+        "id": 646,
+        "slang": "Bunny"
+    },
+    {
+        "id": 647,
+        "slang": "Beard"
+    },
+    {
+        "id": 648,
+        "slang": "Smile"
+    },
+    {
+        "id": 649,
+        "slang": "Disappointed"
+    },
+    {
+        "id": 650,
+        "slang": "Disappointed"
+    },
+    {
+        "id": 651,
+        "slang": "Disgusted"
+    },
+    {
+        "id": 652,
+        "slang": "Wink"
+    },
+    {
+        "id": 653,
+        "slang": "Wink"
+    },
+    {
+        "id": 654,
+        "slang": "Bear"
+    },
+    {
+        "id": 655,
+        "slang": "Flower"
+    },
+    {
+        "id": 656,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 657,
+        "slang": "Mouse"
+    },
+    {
+        "id": 658,
+        "slang": "Rocking Out"
+    },
+    {
+        "id": 659,
+        "slang": "Chimp"
+    },
+    {
+        "id": 660,
+        "slang": "Chimp"
+    },
+    {
+        "id": 661,
+        "slang": "Chimp"
+    },
+    {
+        "id": 662,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 663,
+        "slang": "Mustache"
+    },
+    {
+        "id": 664,
+        "slang": "Sad"
+    },
+    {
+        "id": 665,
+        "slang": "Clown"
+    },
+    {
+        "id": 666,
+        "slang": "Fangs"
+    },
+    {
+        "id": 667,
+        "slang": "Fangs"
+    },
+    {
+        "id": 668,
+        "slang": "Vampire"
+    },
+    {
+        "id": 669,
+        "slang": "Doh"
+    },
+    {
+        "id": 670,
+        "slang": "Bear"
+    },
+    {
+        "id": 671,
+        "slang": "King"
+    },
+    {
+        "id": 672,
+        "slang": "Bunny"
+    },
+    {
+        "id": 673,
+        "slang": "Prince"
+    },
+    {
+        "id": 674,
+        "slang": "Clown"
+    },
+    {
+        "id": 675,
+        "slang": "Bunny"
+    },
+    {
+        "id": 676,
+        "slang": "Eyebrows"
+    },
+    {
+        "id": 677,
+        "slang": "Mustache"
+    },
+    {
+        "id": 678,
+        "slang": "Blushing"
+    },
+    {
+        "id": 679,
+        "slang": "Cat"
+    },
+    {
+        "id": 680,
+        "slang": "Undecided"
+    },
+    {
+        "id": 681,
+        "slang": "Homer"
+    },
+    {
+        "id": 682,
+        "slang": "Smile"
+    },
+    {
+        "id": 683,
+        "slang": "Smiling"
+    },
+    {
+        "id": 684,
+        "slang": "Smiling"
+    },
+    {
+        "id": 685,
+        "slang": "PSP"
+    },
+    {
+        "id": 686,
+        "slang": "Joyful"
+    },
+    {
+        "id": 687,
+        "slang": "Kiss"
+    },
+    {
+        "id": 688,
+        "slang": "Happy"
+    },
+    {
+        "id": 689,
+        "slang": "Kitty"
+    },
+    {
+        "id": 690,
+        "slang": "Grateful Dead"
+    },
+    {
+        "id": 691,
+        "slang": "Distraught"
+    },
+    {
+        "id": 692,
+        "slang": "Girl"
+    },
+    {
+        "id": 693,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 694,
+        "slang": "Oops"
+    },
+    {
+        "id": 695,
+        "slang": "Surprised"
+    },
+    {
+        "id": 696,
+        "slang": "Smile"
+    },
+    {
+        "id": 697,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 698,
+        "slang": "One-Eyed Smile"
+    },
+    {
+        "id": 699,
+        "slang": "One-Eyed Smile"
+    },
+    {
+        "id": 700,
+        "slang": "Rocking"
+    },
+    {
+        "id": 701,
+        "slang": "Crying"
+    },
+    {
+        "id": 702,
+        "slang": "Silly"
+    },
+    {
+        "id": 703,
+        "slang": "Bunny"
+    },
+    {
+        "id": 704,
+        "slang": "Hollywood"
+    },
+    {
+        "id": 705,
+        "slang": "Tired"
+    },
+    {
+        "id": 706,
+        "slang": "Monster"
+    },
+    {
+        "id": 707,
+        "slang": "Emo"
+    },
+    {
+        "id": 708,
+        "slang": "Fish"
+    },
+    {
+        "id": 709,
+        "slang": "Old Man"
+    },
+    {
+        "id": 710,
+        "slang": "Cat"
+    },
+    {
+        "id": 711,
+        "slang": "Happy"
+    },
+    {
+        "id": 712,
+        "slang": "Guitar"
+    },
+    {
+        "id": 713,
+        "slang": "Band-Aid"
+    },
+    {
+        "id": 714,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 715,
+        "slang": "Scuba Diver"
+    },
+    {
+        "id": 716,
+        "slang": "Depressed"
+    },
+    {
+        "id": 717,
+        "slang": "Depressed"
+    },
+    {
+        "id": 718,
+        "slang": "Rooster"
+    },
+    {
+        "id": 719,
+        "slang": "Cobbler"
+    },
+    {
+        "id": 720,
+        "slang": "Horny"
+    },
+    {
+        "id": 721,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 722,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 723,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 724,
+        "slang": "Happy"
+    },
+    {
+        "id": 725,
+        "slang": "Mischievous"
+    },
+    {
+        "id": 726,
+        "slang": "One-Eyed Smile"
+    },
+    {
+        "id": 727,
+        "slang": "One-Eyed Smile"
+    },
+    {
+        "id": 728,
+        "slang": "Ghetto"
+    },
+    {
+        "id": 729,
+        "slang": "Pig"
+    },
+    {
+        "id": 730,
+        "slang": "Dog"
+    },
+    {
+        "id": 731,
+        "slang": "Cat"
+    },
+    {
+        "id": 732,
+        "slang": "Robot"
+    },
+    {
+        "id": 733,
+        "slang": "Duck"
+    },
+    {
+        "id": 735,
+        "slang": "Perplexed"
+    },
+    {
+        "id": 736,
+        "slang": "Mug"
+    },
+    {
+        "id": 737,
+        "slang": "Snake"
+    },
+    {
+        "id": 738,
+        "slang": "Grouchy"
+    },
+    {
+        "id": 739,
+        "slang": "Afraid"
+    },
+    {
+        "id": 740,
+        "slang": "Rocker"
+    },
+    {
+        "id": 741,
+        "slang": "Dragon"
+    },
+    {
+        "id": 742,
+        "slang": "Scratching Head"
+    },
+    {
+        "id": 743,
+        "slang": "Translate"
+    },
+    {
+        "id": 744,
+        "slang": "Money"
+    },
+    {
+        "id": 745,
+        "slang": "Rose"
+    },
+    {
+        "id": 746,
+        "slang": "Angry"
+    },
+    {
+        "id": 747,
+        "slang": "Mad"
+    },
+    {
+        "id": 748,
+        "slang": "Emo"
+    },
+    {
+        "id": 749,
+        "slang": "Stick Man"
+    },
+    {
+        "id": 750,
+        "slang": "Kissing"
+    },
+    {
+        "id": 751,
+        "slang": "Bald"
+    },
+    {
+        "id": 752,
+        "slang": "Bee"
+    },
+    {
+        "id": 753,
+        "slang": "Pinocchio"
+    },
+    {
+        "id": 754,
+        "slang": "Punk"
+    },
+    {
+        "id": 755,
+        "slang": "Baseball Player"
+    },
+    {
+        "id": 756,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 757,
+        "slang": "Painful"
+    },
+    {
+        "id": 758,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 759,
+        "slang": "Tongue in Cheek"
+    },
+    {
+        "id": 760,
+        "slang": "Witch"
+    },
+    {
+        "id": 761,
+        "slang": "Truck"
+    },
+    {
+        "id": 762,
+        "slang": "Heart"
+    },
+    {
+        "id": 763,
+        "slang": "Dog"
+    },
+    {
+        "id": 764,
+        "slang": "Snowman"
+    },
+    {
+        "id": 765,
+        "slang": "Marshmallow"
+    },
+    {
+        "id": 766,
+        "slang": "Vampire"
+    },
+    {
+        "id": 767,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 768,
+        "slang": "Piano"
+    },
+    {
+        "id": 769,
+        "slang": "Sarcastic"
+    },
+    {
+        "id": 770,
+        "slang": "Bunny"
+    },
+    {
+        "id": 771,
+        "slang": "Waffle"
+    },
+    {
+        "id": 772,
+        "slang": "Rocker"
+    },
+    {
+        "id": 773,
+        "slang": "Scared"
+    },
+    {
+        "id": 774,
+        "slang": "Waffle"
+    },
+    {
+        "id": 775,
+        "slang": "Pig"
+    },
+    {
+        "id": 776,
+        "slang": "Surprised"
+    },
+    {
+        "id": 777,
+        "slang": "Hug"
+    },
+    {
+        "id": 778,
+        "slang": "Frown"
+    },
+    {
+        "id": 779,
+        "slang": "Lame"
+    },
+    {
+        "id": 780,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 781,
+        "slang": "Toad"
+    },
+    {
+        "id": 782,
+        "slang": "Evil Grin"
+    },
+    {
+        "id": 783,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 784,
+        "slang": "Shy"
+    },
+    {
+        "id": 785,
+        "slang": "Bewildered"
+    },
+    {
+        "id": 786,
+        "slang": "Tigger"
+    },
+    {
+        "id": 787,
+        "slang": "Walrus"
+    },
+    {
+        "id": 788,
+        "slang": "Happy"
+    },
+    {
+        "id": 789,
+        "slang": "Sombrero"
+    },
+    {
+        "id": 790,
+        "slang": "Cross-Eyed"
+    },
+    {
+        "id": 791,
+        "slang": "Guilty"
+    },
+    {
+        "id": 792,
+        "slang": "Kid"
+    },
+    {
+        "id": 793,
+        "slang": "Penguin"
+    },
+    {
+        "id": 794,
+        "slang": "Elf"
+    },
+    {
+        "id": 795,
+        "slang": "Cat Face"
+    },
+    {
+        "id": 796,
+        "slang": "Rat"
+    },
+    {
+        "id": 797,
+        "slang": "Man"
+    },
+    {
+        "id": 798,
+        "slang": "Woman"
+    },
+    {
+        "id": 799,
+        "slang": "Zombie"
+    },
+    {
+        "id": 800,
+        "slang": "Smile"
+    },
+    {
+        "id": 801,
+        "slang": "Rocking"
+    },
+    {
+        "id": 802,
+        "slang": "Snail"
+    },
+    {
+        "id": 803,
+        "slang": "Shark Attack"
+    },
+    {
+        "id": 804,
+        "slang": "Penguin"
+    },
+    {
+        "id": 805,
+        "slang": "Bird"
+    },
+    {
+        "id": 807,
+        "slang": "Funny"
+    },
+    {
+        "id": 808,
+        "slang": "Falcon Punch"
+    },
+    {
+        "id": 809,
+        "slang": "Walrus"
+    },
+    {
+        "id": 810,
+        "slang": "Elvis"
+    },
+    {
+        "id": 811,
+        "slang": "Rocker"
+    },
+    {
+        "id": 812,
+        "slang": "Mustache"
+    },
+    {
+        "id": 813,
+        "slang": "Mustache"
+    },
+    {
+        "id": 814,
+        "slang": "Rocker"
+    },
+    {
+        "id": 815,
+        "slang": "Wonder Twins"
+    },
+    {
+        "id": 816,
+        "slang": "Angel"
+    },
+    {
+        "id": 817,
+        "slang": "Unsure"
+    },
+    {
+        "id": 818,
+        "slang": "Stoked"
+    },
+    {
+        "id": 819,
+        "slang": "Upset"
+    },
+    {
+        "id": 820,
+        "slang": "Bird"
+    },
+    {
+        "id": 821,
+        "slang": "Vampire"
+    },
+    {
+        "id": 822,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 823,
+        "slang": "Smile"
+    },
+    {
+        "id": 824,
+        "slang": "Smile"
+    },
+    {
+        "id": 825,
+        "slang": "Dragon"
+    },
+    {
+        "id": 826,
+        "slang": "Eating"
+    },
+    {
+        "id": 827,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 828,
+        "slang": "Angry"
+    },
+    {
+        "id": 829,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 830,
+        "slang": "Mad"
+    },
+    {
+        "id": 831,
+        "slang": "Flute"
+    },
+    {
+        "id": 832,
+        "slang": "Shocked"
+    },
+    {
+        "id": 833,
+        "slang": "Grin"
+    },
+    {
+        "id": 834,
+        "slang": "Wink"
+    },
+    {
+        "id": 835,
+        "slang": "Dead"
+    },
+    {
+        "id": 836,
+        "slang": "Grin"
+    },
+    {
+        "id": 837,
+        "slang": "Rock On"
+    },
+    {
+        "id": 838,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 839,
+        "slang": "Awkward"
+    },
+    {
+        "id": 840,
+        "slang": "Laughing Out Loud"
+    },
+    {
+        "id": 841,
+        "slang": "Angel"
+    },
+    {
+        "id": 842,
+        "slang": "Chips and Dip"
+    },
+    {
+        "id": 843,
+        "slang": "Crab"
+    },
+    {
+        "id": 844,
+        "slang": "Robot"
+    },
+    {
+        "id": 845,
+        "slang": "Shark"
+    },
+    {
+        "id": 846,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 847,
+        "slang": "Robot"
+    },
+    {
+        "id": 848,
+        "slang": "Robot"
+    },
+    {
+        "id": 849,
+        "slang": "Metal"
+    },
+    {
+        "id": 850,
+        "slang": "Vampire"
+    },
+    {
+        "id": 851,
+        "slang": "Crab"
+    },
+    {
+        "id": 852,
+        "slang": "Crying"
+    },
+    {
+        "id": 853,
+        "slang": "Boy"
+    },
+    {
+        "id": 854,
+        "slang": "Emo"
+    },
+    {
+        "id": 855,
+        "slang": "Emo"
+    },
+    {
+        "id": 856,
+        "slang": "Emo"
+    },
+    {
+        "id": 857,
+        "slang": "Eating"
+    },
+    {
+        "id": 858,
+        "slang": "Rose"
+    },
+    {
+        "id": 859,
+        "slang": "Glass"
+    },
+    {
+        "id": 860,
+        "slang": "Barfing"
+    },
+    {
+        "id": 861,
+        "slang": "Ghost"
+    },
+    {
+        "id": 862,
+        "slang": "Balloon"
+    },
+    {
+        "id": 863,
+        "slang": "Monster"
+    },
+    {
+        "id": 864,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 865,
+        "slang": "Laughing"
+    },
+    {
+        "id": 866,
+        "slang": "Geezer"
+    },
+    {
+        "id": 867,
+        "slang": "Xbox"
+    },
+    {
+        "id": 868,
+        "slang": "Hug"
+    },
+    {
+        "id": 869,
+        "slang": "Euphonium"
+    },
+    {
+        "id": 870,
+        "slang": "Blushing"
+    },
+    {
+        "id": 871,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 872,
+        "slang": "Mouse"
+    },
+    {
+        "id": 873,
+        "slang": "Kitten"
+    },
+    {
+        "id": 874,
+        "slang": "Cold"
+    },
+    {
+        "id": 875,
+        "slang": "Dog"
+    },
+    {
+        "id": 876,
+        "slang": "Dog"
+    },
+    {
+        "id": 877,
+        "slang": "Santa"
+    },
+    {
+        "id": 878,
+        "slang": "Bunny"
+    },
+    {
+        "id": 879,
+        "slang": "Upset"
+    },
+    {
+        "id": 880,
+        "slang": "Bear"
+    },
+    {
+        "id": 881,
+        "slang": "Alien"
+    },
+    {
+        "id": 882,
+        "slang": "Dumb"
+    },
+    {
+        "id": 883,
+        "slang": "Penguin"
+    },
+    {
+        "id": 884,
+        "slang": "Penguin"
+    },
+    {
+        "id": 885,
+        "slang": "Alien"
+    },
+    {
+        "id": 886,
+        "slang": "Unhappy"
+    },
+    {
+        "id": 887,
+        "slang": "Hat"
+    },
+    {
+        "id": 888,
+        "slang": "Peace"
+    },
+    {
+        "id": 889,
+        "slang": "Cute"
+    },
+    {
+        "id": 890,
+        "slang": "Speechless"
+    },
+    {
+        "id": 891,
+        "slang": "Ice Cream"
+    },
+    {
+        "id": 892,
+        "slang": "Ice Cream"
+    },
+    {
+        "id": 893,
+        "slang": "Angel"
+    },
+    {
+        "id": 894,
+        "slang": "Stick Man"
+    },
+    {
+        "id": 895,
+        "slang": "Smile"
+    },
+    {
+        "id": 896,
+        "slang": "Shaka"
+    },
+    {
+        "id": 897,
+        "slang": "Pirate"
+    },
+    {
+        "id": 898,
+        "slang": "Pirate"
+    },
+    {
+        "id": 899,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 900,
+        "slang": "Fish"
+    },
+    {
+        "id": 901,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 902,
+        "slang": "Nerd"
+    },
+    {
+        "id": 903,
+        "slang": "Bunny"
+    },
+    {
+        "id": 904,
+        "slang": "Angry"
+    },
+    {
+        "id": 905,
+        "slang": "Butt"
+    },
+    {
+        "id": 906,
+        "slang": "Squinting"
+    },
+    {
+        "id": 907,
+        "slang": "Cool"
+    },
+    {
+        "id": 908,
+        "slang": "Watching"
+    },
+    {
+        "id": 909,
+        "slang": "Dead"
+    },
+    {
+        "id": 910,
+        "slang": "Surprised"
+    },
+    {
+        "id": 911,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 912,
+        "slang": "Indifferent"
+    },
+    {
+        "id": 913,
+        "slang": "Confused"
+    },
+    {
+        "id": 914,
+        "slang": "Surprised"
+    },
+    {
+        "id": 915,
+        "slang": "Sad"
+    },
+    {
+        "id": 916,
+        "slang": "Proud"
+    },
+    {
+        "id": 917,
+        "slang": "Paranoid"
+    },
+    {
+        "id": 918,
+        "slang": "Surprised"
+    },
+    {
+        "id": 919,
+        "slang": "Begging"
+    },
+    {
+        "id": 920,
+        "slang": "Sad"
+    },
+    {
+        "id": 921,
+        "slang": "Scared"
+    },
+    {
+        "id": 922,
+        "slang": "Monkey"
+    },
+    {
+        "id": 923,
+        "slang": "Listening to Music"
+    },
+    {
+        "id": 924,
+        "slang": "Kirby"
+    },
+    {
+        "id": 925,
+        "slang": "Blissful"
+    },
+    {
+        "id": 926,
+        "slang": "Bee"
+    },
+    {
+        "id": 927,
+        "slang": "Happy"
+    },
+    {
+        "id": 928,
+        "slang": "Blah"
+    },
+    {
+        "id": 929,
+        "slang": "Kiss"
+    },
+    {
+        "id": 930,
+        "slang": "Mad"
+    },
+    {
+        "id": 931,
+        "slang": "Sad"
+    },
+    {
+        "id": 932,
+        "slang": "Surprised"
+    },
+    {
+        "id": 933,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 934,
+        "slang": "Kiss"
+    },
+    {
+        "id": 935,
+        "slang": "FML"
+    },
+    {
+        "id": 936,
+        "slang": "Sock"
+    },
+    {
+        "id": 937,
+        "slang": "Lollipop"
+    },
+    {
+        "id": 938,
+        "slang": "Lollipop"
+    },
+    {
+        "id": 939,
+        "slang": "Dufus"
+    },
+    {
+        "id": 940,
+        "slang": "Frankenstein"
+    },
+    {
+        "id": 941,
+        "slang": "Exasperated"
+    },
+    {
+        "id": 942,
+        "slang": "Monkey"
+    },
+    {
+        "id": 943,
+        "slang": "Unimpressed"
+    },
+    {
+        "id": 944,
+        "slang": "Bored"
+    },
+    {
+        "id": 945,
+        "slang": "Bored"
+    },
+    {
+        "id": 946,
+        "slang": "Crayon"
+    },
+    {
+        "id": 947,
+        "slang": "Person"
+    },
+    {
+        "id": 948,
+        "slang": "Arrow"
+    },
+    {
+        "id": 949,
+        "slang": "Party Hat"
+    },
+    {
+        "id": 950,
+        "slang": "Fist Bump"
+    },
+    {
+        "id": 951,
+        "slang": "Butterfly"
+    },
+    {
+        "id": 952,
+        "slang": "Mixed Feelings"
+    },
+    {
+        "id": 953,
+        "slang": "Confused"
+    },
+    {
+        "id": 954,
+        "slang": "Elephant"
+    },
+    {
+        "id": 955,
+        "slang": "Female"
+    },
+    {
+        "id": 956,
+        "slang": "Evil Grin"
+    },
+    {
+        "id": 957,
+        "slang": "Girl"
+    },
+    {
+        "id": 958,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 959,
+        "slang": "Pen"
+    },
+    {
+        "id": 960,
+        "slang": "Vampire"
+    },
+    {
+        "id": 961,
+        "slang": "Alien"
+    },
+    {
+        "id": 962,
+        "slang": "Happy"
+    },
+    {
+        "id": 963,
+        "slang": "Smoking"
+    },
+    {
+        "id": 964,
+        "slang": "Martini Glass"
+    },
+    {
+        "id": 965,
+        "slang": "Beer Mug"
+    },
+    {
+        "id": 966,
+        "slang": "Penguin"
+    },
+    {
+        "id": 967,
+        "slang": "Shrugging"
+    },
+    {
+        "id": 968,
+        "slang": "Mad"
+    },
+    {
+        "id": 969,
+        "slang": "Half Smile"
+    },
+    {
+        "id": 970,
+        "slang": "Vomit"
+    },
+    {
+        "id": 971,
+        "slang": "Rocking Out"
+    },
+    {
+        "id": 972,
+        "slang": "Blushing"
+    },
+    {
+        "id": 973,
+        "slang": "Snowman"
+    },
+    {
+        "id": 974,
+        "slang": "Tuxedo"
+    },
+    {
+        "id": 975,
+        "slang": "Ninja"
+    },
+    {
+        "id": 976,
+        "slang": "Four Leaf Clover"
+    },
+    {
+        "id": 977,
+        "slang": "Stealie"
+    },
+    {
+        "id": 978,
+        "slang": "Teasing"
+    },
+    {
+        "id": 979,
+        "slang": "Depressed"
+    },
+    {
+        "id": 980,
+        "slang": "Waffle"
+    },
+    {
+        "id": 981,
+        "slang": "Flirting"
+    },
+    {
+        "id": 982,
+        "slang": "Crying"
+    },
+    {
+        "id": 983,
+        "slang": "Crying"
+    },
+    {
+        "id": 984,
+        "slang": "Crying"
+    },
+    {
+        "id": 985,
+        "slang": "Conan"
+    },
+    {
+        "id": 986,
+        "slang": "Puke"
+    },
+    {
+        "id": 988,
+        "slang": "Listening to Music"
+    },
+    {
+        "id": 989,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 990,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 991,
+        "slang": "Confused"
+    },
+    {
+        "id": 992,
+        "slang": "Crying"
+    },
+    {
+        "id": 993,
+        "slang": "Rose"
+    },
+    {
+        "id": 994,
+        "slang": "Devil"
+    },
+    {
+        "id": 995,
+        "slang": "I Love You"
+    },
+    {
+        "id": 996,
+        "slang": "Bunny"
+    },
+    {
+        "id": 997,
+        "slang": "Licking"
+    },
+    {
+        "id": 998,
+        "slang": "Gangster"
+    },
+    {
+        "id": 999,
+        "slang": "Crying"
+    },
+    {
+        "id": 1000,
+        "slang": "Hungry"
+    },
+    {
+        "id": 1001,
+        "slang": "Ghost"
+    },
+    {
+        "id": 1002,
+        "slang": "Anime Smile"
+    },
+    {
+        "id": 1003,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 1004,
+        "slang": "Monster"
+    },
+    {
+        "id": 1005,
+        "slang": "Sour"
+    },
+    {
+        "id": 1006,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 1007,
+        "slang": "Rose"
+    },
+    {
+        "id": 1008,
+        "slang": "Ninja"
+    },
+    {
+        "id": 1009,
+        "slang": "Dead"
+    },
+    {
+        "id": 1010,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 1011,
+        "slang": "Evil Smile"
+    },
+    {
+        "id": 1012,
+        "slang": "Touched"
+    },
+    {
+        "id": 1013,
+        "slang": "Turban"
+    },
+    {
+        "id": 1014,
+        "slang": "Cup of Coffee"
+    },
+    {
+        "id": 1015,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 1016,
+        "slang": "Talking"
+    },
+    {
+        "id": 1017,
+        "slang": "Biting"
+    },
+    {
+        "id": 1018,
+        "slang": "Shovel"
+    },
+    {
+        "id": 1019,
+        "slang": "Rose"
+    },
+    {
+        "id": 1020,
+        "slang": "Listening to Music"
+    },
+    {
+        "id": 1021,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 1022,
+        "slang": "Love"
+    },
+    {
+        "id": 1023,
+        "slang": "Mixed Feelings"
+    },
+    {
+        "id": 1024,
+        "slang": "Insane"
+    },
+    {
+        "id": 1025,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1026,
+        "slang": "Bird"
+    },
+    {
+        "id": 1027,
+        "slang": "Bunny"
+    },
+    {
+        "id": 1028,
+        "slang": "Elephant"
+    },
+    {
+        "id": 1029,
+        "slang": "Kirby"
+    },
+    {
+        "id": 1030,
+        "slang": "Emo"
+    },
+    {
+        "id": 1031,
+        "slang": "Smile"
+    },
+    {
+        "id": 1032,
+        "slang": "Pig"
+    },
+    {
+        "id": 1033,
+        "slang": "Ice Cream Cone"
+    },
+    {
+        "id": 1034,
+        "slang": "Uncle Sam"
+    },
+    {
+        "id": 1035,
+        "slang": "Ice Cream Cone"
+    },
+    {
+        "id": 1036,
+        "slang": "Double Chin"
+    },
+    {
+        "id": 1037,
+        "slang": "Hair"
+    },
+    {
+        "id": 1038,
+        "slang": "Hair"
+    },
+    {
+        "id": 1039,
+        "slang": "Goatee"
+    },
+    {
+        "id": 1040,
+        "slang": "Fish"
+    },
+    {
+        "id": 1041,
+        "slang": "Fail"
+    },
+    {
+        "id": 1042,
+        "slang": "Jealous"
+    },
+    {
+        "id": 1043,
+        "slang": "Nerd"
+    },
+    {
+        "id": 1044,
+        "slang": "Upward Lick"
+    },
+    {
+        "id": 1045,
+        "slang": "Kleenex"
+    },
+    {
+        "id": 1046,
+        "slang": "Bird"
+    },
+    {
+        "id": 1047,
+        "slang": "Oddball"
+    },
+    {
+        "id": 1048,
+        "slang": "Rose"
+    },
+    {
+        "id": 1049,
+        "slang": "Owl"
+    },
+    {
+        "id": 1050,
+        "slang": "PSP"
+    },
+    {
+        "id": 1051,
+        "slang": "Hypnotist"
+    },
+    {
+        "id": 1052,
+        "slang": "Yin Yang"
+    },
+    {
+        "id": 1053,
+        "slang": "Vampire"
+    },
+    {
+        "id": 1054,
+        "slang": "Crying"
+    },
+    {
+        "id": 1055,
+        "slang": "Drunk"
+    },
+    {
+        "id": 1056,
+        "slang": "In Love"
+    },
+    {
+        "id": 1057,
+        "slang": "Smile"
+    },
+    {
+        "id": 1058,
+        "slang": "Bug"
+    },
+    {
+        "id": 1059,
+        "slang": "Secret"
+    },
+    {
+        "id": 1060,
+        "slang": "Humbled"
+    },
+    {
+        "id": 1061,
+        "slang": "Headphones"
+    },
+    {
+        "id": 1062,
+        "slang": "Cute"
+    },
+    {
+        "id": 1063,
+        "slang": "Sword"
+    },
+    {
+        "id": 1064,
+        "slang": "Christmas Tree"
+    },
+    {
+        "id": 1065,
+        "slang": "Clown"
+    },
+    {
+        "id": 1066,
+        "slang": "Clown"
+    },
+    {
+        "id": 1067,
+        "slang": "Clown"
+    },
+    {
+        "id": 1068,
+        "slang": "Clown"
+    },
+    {
+        "id": 1069,
+        "slang": "Clown"
+    },
+    {
+        "id": 1070,
+        "slang": "Drooling"
+    },
+    {
+        "id": 1071,
+        "slang": "Homer"
+    },
+    {
+        "id": 1072,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1073,
+        "slang": "Dancing"
+    },
+    {
+        "id": 1074,
+        "slang": "Looking"
+    },
+    {
+        "id": 1075,
+        "slang": "Flexing"
+    },
+    {
+        "id": 1076,
+        "slang": "Emo"
+    },
+    {
+        "id": 1077,
+        "slang": "Angry"
+    },
+    {
+        "id": 1078,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 1079,
+        "slang": "Vampire"
+    },
+    {
+        "id": 1080,
+        "slang": "Vampire"
+    },
+    {
+        "id": 1081,
+        "slang": "Armadillo"
+    },
+    {
+        "id": 1082,
+        "slang": "Mustache Man"
+    },
+    {
+        "id": 1083,
+        "slang": "Evil Laugh"
+    },
+    {
+        "id": 1084,
+        "slang": "Upside Down"
+    },
+    {
+        "id": 1085,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1086,
+        "slang": "Sorry"
+    },
+    {
+        "id": 1087,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1088,
+        "slang": "Yelling"
+    },
+    {
+        "id": 1089,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 1090,
+        "slang": "Aang"
+    },
+    {
+        "id": 1091,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 1092,
+        "slang": "Winking"
+    },
+    {
+        "id": 1093,
+        "slang": "Headphones"
+    },
+    {
+        "id": 1094,
+        "slang": "Playful"
+    },
+    {
+        "id": 1095,
+        "slang": "Bucktooth"
+    },
+    {
+        "id": 1096,
+        "slang": "Car"
+    },
+    {
+        "id": 1097,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 1098,
+        "slang": "Troublemaker"
+    },
+    {
+        "id": 1099,
+        "slang": "Cow"
+    },
+    {
+        "id": 1100,
+        "slang": "Doubtful"
+    },
+    {
+        "id": 1101,
+        "slang": "Butterfly"
+    },
+    {
+        "id": 1102,
+        "slang": "Confused"
+    },
+    {
+        "id": 1103,
+        "slang": "Wondering"
+    },
+    {
+        "id": 1104,
+        "slang": "South African Flag"
+    },
+    {
+        "id": 1105,
+        "slang": "Pirate"
+    },
+    {
+        "id": 1106,
+        "slang": "Alligator"
+    },
+    {
+        "id": 1107,
+        "slang": "Pig"
+    },
+    {
+        "id": 1108,
+        "slang": "Skateboard"
+    },
+    {
+        "id": 1109,
+        "slang": "Stickfigure"
+    },
+    {
+        "id": 1110,
+        "slang": "Graduate"
+    },
+    {
+        "id": 1111,
+        "slang": "Happy Birthday"
+    },
+    {
+        "id": 1112,
+        "slang": "Spider"
+    },
+    {
+        "id": 1113,
+        "slang": "Shark"
+    },
+    {
+        "id": 1114,
+        "slang": "Top Hat"
+    },
+    {
+        "id": 1115,
+        "slang": "Propeller Hat"
+    },
+    {
+        "id": 1116,
+        "slang": "Alien"
+    },
+    {
+        "id": 1117,
+        "slang": "Happy Tears"
+    },
+    {
+        "id": 1118,
+        "slang": "Bird"
+    },
+    {
+        "id": 1119,
+        "slang": "Spaced Out"
+    },
+    {
+        "id": 1120,
+        "slang": "Kirby"
+    },
+    {
+        "id": 1121,
+        "slang": "Ninja"
+    },
+    {
+        "id": 1122,
+        "slang": "Shark"
+    },
+    {
+        "id": 1123,
+        "slang": "Happy"
+    },
+    {
+        "id": 1124,
+        "slang": "Spider"
+    },
+    {
+        "id": 1125,
+        "slang": "Zebra"
+    },
+    {
+        "id": 1126,
+        "slang": "Guy"
+    },
+    {
+        "id": 1127,
+        "slang": "Bear"
+    },
+    {
+        "id": 1128,
+        "slang": "Angry"
+    },
+    {
+        "id": 1129,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 1130,
+        "slang": "Hair"
+    },
+    {
+        "id": 1131,
+        "slang": "Crying"
+    },
+    {
+        "id": 1132,
+        "slang": "Beard"
+    },
+    {
+        "id": 1133,
+        "slang": "Tired"
+    },
+    {
+        "id": 1134,
+        "slang": "Black Eye"
+    },
+    {
+        "id": 1135,
+        "slang": "Blinking"
+    },
+    {
+        "id": 1136,
+        "slang": "Smile"
+    },
+    {
+        "id": 1137,
+        "slang": "Mustache"
+    },
+    {
+        "id": 1138,
+        "slang": "Homer Simpson"
+    },
+    {
+        "id": 1139,
+        "slang": "Marge Simpson"
+    },
+    {
+        "id": 1140,
+        "slang": "Marge Simpson"
+    },
+    {
+        "id": 1141,
+        "slang": "ZZ Top"
+    },
+    {
+        "id": 1142,
+        "slang": "Cindy Crawford"
+    },
+    {
+        "id": 1143,
+        "slang": "Condescending"
+    },
+    {
+        "id": 1144,
+        "slang": "Dizzy"
+    },
+    {
+        "id": 1145,
+        "slang": "Smile"
+    },
+    {
+        "id": 1146,
+        "slang": "Football Player"
+    },
+    {
+        "id": 1147,
+        "slang": "Frank Zappa"
+    },
+    {
+        "id": 1148,
+        "slang": "Soldier"
+    },
+    {
+        "id": 1149,
+        "slang": "Fuzzy"
+    },
+    {
+        "id": 1150,
+        "slang": "Grin"
+    },
+    {
+        "id": 1151,
+        "slang": "Sniffling"
+    },
+    {
+        "id": 1152,
+        "slang": "Penguin"
+    },
+    {
+        "id": 1153,
+        "slang": "Pinnochio"
+    },
+    {
+        "id": 1154,
+        "slang": "Pope"
+    },
+    {
+        "id": 1155,
+        "slang": "Priest"
+    },
+    {
+        "id": 1156,
+        "slang": "Robot"
+    },
+    {
+        "id": 1157,
+        "slang": "Rudolph"
+    },
+    {
+        "id": 1158,
+        "slang": "Turtle"
+    },
+    {
+        "id": 1159,
+        "slang": "Shocked"
+    },
+    {
+        "id": 1160,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1161,
+        "slang": "Sweating"
+    },
+    {
+        "id": 1162,
+        "slang": "Hope"
+    },
+    {
+        "id": 1163,
+        "slang": "Ghost"
+    },
+    {
+        "id": 1164,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1165,
+        "slang": "Teletubby"
+    },
+    {
+        "id": 1166,
+        "slang": "Tongue Touching Nose"
+    },
+    {
+        "id": 1167,
+        "slang": "Uncertain"
+    },
+    {
+        "id": 1168,
+        "slang": "Hair"
+    },
+    {
+        "id": 1169,
+        "slang": "Headphones"
+    },
+    {
+        "id": 1170,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1171,
+        "slang": "Whatever"
+    },
+    {
+        "id": 1172,
+        "slang": "Wizard"
+    },
+    {
+        "id": 1173,
+        "slang": "Yelling"
+    },
+    {
+        "id": 1174,
+        "slang": "Beaver"
+    },
+    {
+        "id": 1175,
+        "slang": "Buckteeth"
+    },
+    {
+        "id": 1176,
+        "slang": "Dunce"
+    },
+    {
+        "id": 1177,
+        "slang": "Robocop"
+    },
+    {
+        "id": 1178,
+        "slang": "Skeptical"
+    },
+    {
+        "id": 1179,
+        "slang": "Skeptical"
+    },
+    {
+        "id": 1180,
+        "slang": "Smirking"
+    },
+    {
+        "id": 1181,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1182,
+        "slang": "Snake"
+    },
+    {
+        "id": 1183,
+        "slang": "Scuba Diver"
+    },
+    {
+        "id": 1184,
+        "slang": "Uncle Sam"
+    },
+    {
+        "id": 1185,
+        "slang": "Unibrow"
+    },
+    {
+        "id": 1186,
+        "slang": "Vampire"
+    },
+    {
+        "id": 1187,
+        "slang": "Walrus"
+    },
+    {
+        "id": 1188,
+        "slang": "Toupee"
+    },
+    {
+        "id": 1189,
+        "slang": "Whistling"
+    },
+    {
+        "id": 1190,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1191,
+        "slang": "Lipstick"
+    },
+    {
+        "id": 1192,
+        "slang": "Toupee"
+    },
+    {
+        "id": 1193,
+        "slang": "Toupee"
+    },
+    {
+        "id": 1194,
+        "slang": "Sour"
+    },
+    {
+        "id": 1195,
+        "slang": "Snobby"
+    },
+    {
+        "id": 1196,
+        "slang": "Mohawk"
+    },
+    {
+        "id": 1197,
+        "slang": "Scuba Diver"
+    },
+    {
+        "id": 1198,
+        "slang": "Spitting"
+    },
+    {
+        "id": 1199,
+        "slang": "Dunce"
+    },
+    {
+        "id": 1200,
+        "slang": "Candle"
+    },
+    {
+        "id": 1201,
+        "slang": "Candle"
+    },
+    {
+        "id": 1202,
+        "slang": "Braces"
+    },
+    {
+        "id": 1203,
+        "slang": "Devil"
+    },
+    {
+        "id": 1204,
+        "slang": "Pacman"
+    },
+    {
+        "id": 1205,
+        "slang": "Frankenstein"
+    },
+    {
+        "id": 1206,
+        "slang": "Abraham Lincoln"
+    },
+    {
+        "id": 1207,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 1208,
+        "slang": "Snowman"
+    },
+    {
+        "id": 1209,
+        "slang": "Batman"
+    },
+    {
+        "id": 1210,
+        "slang": "Skater"
+    },
+    {
+        "id": 1211,
+        "slang": "Skater"
+    },
+    {
+        "id": 1212,
+        "slang": "Alien"
+    },
+    {
+        "id": 1213,
+        "slang": "Wizard"
+    },
+    {
+        "id": 1214,
+        "slang": "Big Mac"
+    },
+    {
+        "id": 1215,
+        "slang": "Robin Hood"
+    },
+    {
+        "id": 1216,
+        "slang": "Tin Man"
+    },
+    {
+        "id": 1217,
+        "slang": "Spy"
+    },
+    {
+        "id": 1218,
+        "slang": "Snail"
+    },
+    {
+        "id": 1219,
+        "slang": "Bowing"
+    },
+    {
+        "id": 1220,
+        "slang": "Woman"
+    },
+    {
+        "id": 1221,
+        "slang": "Grandma"
+    },
+    {
+        "id": 1222,
+        "slang": "Truck"
+    },
+    {
+        "id": 1223,
+        "slang": "Hat"
+    },
+    {
+        "id": 1224,
+        "slang": "Cassette Tape"
+    },
+    {
+        "id": 1225,
+        "slang": "Sick"
+    },
+    {
+        "id": 1226,
+        "slang": "Totem Pole"
+    },
+    {
+        "id": 1227,
+        "slang": "Dead"
+    },
+    {
+        "id": 1228,
+        "slang": "Flat Top"
+    },
+    {
+        "id": 1229,
+        "slang": "General"
+    },
+    {
+        "id": 1230,
+        "slang": "Clown"
+    },
+    {
+        "id": 1231,
+        "slang": "Knight"
+    },
+    {
+        "id": 1232,
+        "slang": "Candle"
+    },
+    {
+        "id": 1233,
+        "slang": "Knight"
+    },
+    {
+        "id": 1234,
+        "slang": "Mountain"
+    },
+    {
+        "id": 1235,
+        "slang": "Mountain"
+    },
+    {
+        "id": 1236,
+        "slang": "Sword"
+    },
+    {
+        "id": 1237,
+        "slang": "Bow Tie"
+    },
+    {
+        "id": 1238,
+        "slang": "Tuxedo"
+    },
+    {
+        "id": 1239,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 1240,
+        "slang": "Tuxedo"
+    },
+    {
+        "id": 1241,
+        "slang": "Tie"
+    },
+    {
+        "id": 1242,
+        "slang": "Bow Tie"
+    },
+    {
+        "id": 1243,
+        "slang": "Salesman"
+    },
+    {
+        "id": 1244,
+        "slang": "Wizard"
+    },
+    {
+        "id": 1245,
+        "slang": "Magician"
+    },
+    {
+        "id": 1246,
+        "slang": "Waves"
+    },
+    {
+        "id": 1247,
+        "slang": "Nose"
+    },
+    {
+        "id": 1248,
+        "slang": "Bishop"
+    },
+    {
+        "id": 1249,
+        "slang": "Diplomat"
+    },
+    {
+        "id": 1250,
+        "slang": "Sock"
+    },
+    {
+        "id": 1251,
+        "slang": "Salesman"
+    },
+    {
+        "id": 1252,
+        "slang": "Businessman"
+    },
+    {
+        "id": 1253,
+        "slang": "Turban"
+    },
+    {
+        "id": 1254,
+        "slang": "Gardener"
+    },
+    {
+        "id": 1255,
+        "slang": "Sheriff"
+    },
+    {
+        "id": 1256,
+        "slang": "Graduate"
+    },
+    {
+        "id": 1257,
+        "slang": "Salute"
+    },
+    {
+        "id": 1258,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 1259,
+        "slang": "Graduate"
+    },
+    {
+        "id": 1260,
+        "slang": "Praise The Lord"
+    },
+    {
+        "id": 1261,
+        "slang": "Nurse"
+    },
+    {
+        "id": 1262,
+        "slang": "Mountain"
+    },
+    {
+        "id": 1263,
+        "slang": "Skateboarder"
+    },
+    {
+        "id": 1264,
+        "slang": "Happy"
+    },
+    {
+        "id": 1265,
+        "slang": "Owl"
+    },
+    {
+        "id": 1266,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 1267,
+        "slang": "Winking"
+    },
+    {
+        "id": 1268,
+        "slang": "Mean"
+    },
+    {
+        "id": 1269,
+        "slang": "Terminator"
+    },
+    {
+        "id": 1270,
+        "slang": "Innocent"
+    },
+    {
+        "id": 1271,
+        "slang": "Innocent"
+    },
+    {
+        "id": 1272,
+        "slang": "Tuba"
+    },
+    {
+        "id": 1273,
+        "slang": "Chef"
+    },
+    {
+        "id": 1274,
+        "slang": "Big Laugh"
+    },
+    {
+        "id": 1275,
+        "slang": "Rocking Out"
+    },
+    {
+        "id": 1276,
+        "slang": "Snowman"
+    },
+    {
+        "id": 1277,
+        "slang": "John Lennon"
+    },
+    {
+        "id": 1278,
+        "slang": "Vampire Bite"
+    },
+    {
+        "id": 1279,
+        "slang": "Silly"
+    },
+    {
+        "id": 1280,
+        "slang": "Braces"
+    },
+    {
+        "id": 1281,
+        "slang": "Beat Up"
+    },
+    {
+        "id": 1282,
+        "slang": "Crying"
+    },
+    {
+        "id": 1283,
+        "slang": "Emo"
+    },
+    {
+        "id": 1284,
+        "slang": "Monster"
+    },
+    {
+        "id": 1285,
+        "slang": "Giggle"
+    },
+    {
+        "id": 1286,
+        "slang": "Sheep"
+    },
+    {
+        "id": 1287,
+        "slang": "Disgusted"
+    },
+    {
+        "id": 1288,
+        "slang": "Big Lips"
+    },
+    {
+        "id": 1289,
+        "slang": "Overjoyed"
+    },
+    {
+        "id": 1290,
+        "slang": "Hug"
+    },
+    {
+        "id": 1291,
+        "slang": "Angel"
+    },
+    {
+        "id": 1292,
+        "slang": "Rain"
+    },
+    {
+        "id": 1293,
+        "slang": "Acne"
+    },
+    {
+        "id": 1294,
+        "slang": "Hair"
+    },
+    {
+        "id": 1295,
+        "slang": "Mustache"
+    },
+    {
+        "id": 1296,
+        "slang": "Bully"
+    },
+    {
+        "id": 1297,
+        "slang": "Smirk"
+    },
+    {
+        "id": 1298,
+        "slang": "Boy"
+    },
+    {
+        "id": 1299,
+        "slang": "Blabber Mouth"
+    },
+    {
+        "id": 1300,
+        "slang": "Drooling"
+    },
+    {
+        "id": 1301,
+        "slang": "Egghead"
+    },
+    {
+        "id": 1302,
+        "slang": "Frog"
+    },
+    {
+        "id": 1303,
+        "slang": "Licking"
+    },
+    {
+        "id": 1304,
+        "slang": "Meditating"
+    },
+    {
+        "id": 1305,
+        "slang": "Accountant"
+    },
+    {
+        "id": 1306,
+        "slang": "Mesmerized"
+    },
+    {
+        "id": 1307,
+        "slang": "Baboon"
+    },
+    {
+        "id": 1308,
+        "slang": "Hair"
+    },
+    {
+        "id": 1309,
+        "slang": "Bicycle"
+    },
+    {
+        "id": 1310,
+        "slang": "Bird"
+    },
+    {
+        "id": 1311,
+        "slang": "Hat"
+    },
+    {
+        "id": 1312,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1313,
+        "slang": "Bored"
+    },
+    {
+        "id": 1314,
+        "slang": "Nose"
+    },
+    {
+        "id": 1315,
+        "slang": "Caterpillar"
+    },
+    {
+        "id": 1316,
+        "slang": "Cup"
+    },
+    {
+        "id": 1317,
+        "slang": "Cup"
+    },
+    {
+        "id": 1318,
+        "slang": "Teapot"
+    },
+    {
+        "id": 1319,
+        "slang": "Teapot"
+    },
+    {
+        "id": 1320,
+        "slang": "Darth Vader"
+    },
+    {
+        "id": 1321,
+        "slang": "Dead"
+    },
+    {
+        "id": 1322,
+        "slang": "Zombie"
+    },
+    {
+        "id": 1323,
+        "slang": "Dracula"
+    },
+    {
+        "id": 1324,
+        "slang": "James Bond"
+    },
+    {
+        "id": 1325,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1326,
+        "slang": "Hair"
+    },
+    {
+        "id": 1327,
+        "slang": "Mug"
+    },
+    {
+        "id": 1328,
+        "slang": "Frog"
+    },
+    {
+        "id": 1329,
+        "slang": "Cursing"
+    },
+    {
+        "id": 1330,
+        "slang": "Pumpkin"
+    },
+    {
+        "id": 1331,
+        "slang": "Operator"
+    },
+    {
+        "id": 1332,
+        "slang": "Dimple"
+    },
+    {
+        "id": 1333,
+        "slang": "Hockey Stick"
+    },
+    {
+        "id": 1334,
+        "slang": "Rich"
+    },
+    {
+        "id": 1335,
+        "slang": "Mad"
+    },
+    {
+        "id": 1336,
+        "slang": "Ace Ventura"
+    },
+    {
+        "id": 1337,
+        "slang": "Kiss my Butt"
+    },
+    {
+        "id": 1338,
+        "slang": "Mouseketeer"
+    },
+    {
+        "id": 1339,
+        "slang": "Owl"
+    },
+    {
+        "id": 1340,
+        "slang": "Popeye"
+    },
+    {
+        "id": 1341,
+        "slang": "Praise The Lord"
+    },
+    {
+        "id": 1342,
+        "slang": "Fighter"
+    },
+    {
+        "id": 1343,
+        "slang": "Robot"
+    },
+    {
+        "id": 1344,
+        "slang": "Sad"
+    },
+    {
+        "id": 1345,
+        "slang": "Charlie Brown"
+    },
+    {
+        "id": 1346,
+        "slang": "Frightened"
+    },
+    {
+        "id": 1347,
+        "slang": "Hands Up"
+    },
+    {
+        "id": 1348,
+        "slang": "Headband"
+    },
+    {
+        "id": 1349,
+        "slang": "Wink"
+    },
+    {
+        "id": 1350,
+        "slang": "Wizard"
+    },
+    {
+        "id": 1351,
+        "slang": "Snoring"
+    },
+    {
+        "id": 1352,
+        "slang": "Duck"
+    },
+    {
+        "id": 1353,
+        "slang": "Devil"
+    },
+    {
+        "id": 1354,
+        "slang": "Smacked"
+    },
+    {
+        "id": 1355,
+        "slang": "Brain Dead"
+    },
+    {
+        "id": 1356,
+        "slang": "Siamese Twins"
+    },
+    {
+        "id": 1357,
+        "slang": "Nose"
+    },
+    {
+        "id": 1358,
+        "slang": "Wink"
+    },
+    {
+        "id": 1359,
+        "slang": "Gag Me"
+    },
+    {
+        "id": 1360,
+        "slang": "Doctor"
+    },
+    {
+        "id": 1361,
+        "slang": "Mutant"
+    },
+    {
+        "id": 1362,
+        "slang": "Hands Up"
+    },
+    {
+        "id": 1363,
+        "slang": "Tight Lipped"
+    },
+    {
+        "id": 1364,
+        "slang": "Nose"
+    },
+    {
+        "id": 1365,
+        "slang": "Shouting"
+    },
+    {
+        "id": 1366,
+        "slang": "Smile"
+    },
+    {
+        "id": 1367,
+        "slang": "Nose"
+    },
+    {
+        "id": 1368,
+        "slang": "Clown"
+    },
+    {
+        "id": 1369,
+        "slang": "Genie"
+    },
+    {
+        "id": 1370,
+        "slang": "Snoring"
+    },
+    {
+        "id": 1371,
+        "slang": "Genie"
+    },
+    {
+        "id": 1372,
+        "slang": "Blind"
+    },
+    {
+        "id": 1373,
+        "slang": "Kid"
+    },
+    {
+        "id": 1374,
+        "slang": "Monk"
+    },
+    {
+        "id": 1375,
+        "slang": "Kid"
+    },
+    {
+        "id": 1376,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 1377,
+        "slang": "Cool"
+    },
+    {
+        "id": 1378,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1379,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1380,
+        "slang": "Greeting"
+    },
+    {
+        "id": 1381,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 1382,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 1383,
+        "slang": "High Five"
+    },
+    {
+        "id": 1384,
+        "slang": "Wink"
+    },
+    {
+        "id": 1385,
+        "slang": "Thumbs Down"
+    },
+    {
+        "id": 1386,
+        "slang": "Shaking Fist"
+    },
+    {
+        "id": 1387,
+        "slang": "Shaking Fist"
+    },
+    {
+        "id": 1388,
+        "slang": "Bunny Ears"
+    },
+    {
+        "id": 1389,
+        "slang": "Swollen Eye"
+    },
+    {
+        "id": 1390,
+        "slang": "Pirate"
+    },
+    {
+        "id": 1391,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 1392,
+        "slang": "Thumbs Down"
+    },
+    {
+        "id": 1393,
+        "slang": "Hurry Up"
+    },
+    {
+        "id": 1394,
+        "slang": "Whew"
+    },
+    {
+        "id": 1395,
+        "slang": "Confused"
+    },
+    {
+        "id": 1396,
+        "slang": "Not Listening"
+    },
+    {
+        "id": 1397,
+        "slang": "Pumpkin"
+    },
+    {
+        "id": 1398,
+        "slang": "Idea"
+    },
+    {
+        "id": 1399,
+        "slang": "Bug"
+    },
+    {
+        "id": 1400,
+        "slang": "Alien"
+    },
+    {
+        "id": 1401,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 1402,
+        "slang": "Bring it On"
+    },
+    {
+        "id": 1403,
+        "slang": "Chatterbox"
+    },
+    {
+        "id": 1404,
+        "slang": "Not Worthy"
+    },
+    {
+        "id": 1405,
+        "slang": "Oh Go On"
+    },
+    {
+        "id": 1406,
+        "slang": "Hiro"
+    },
+    {
+        "id": 1407,
+        "slang": "Billy"
+    },
+    {
+        "id": 1408,
+        "slang": "April"
+    },
+    {
+        "id": 1409,
+        "slang": "Transformer"
+    },
+    {
+        "id": 1410,
+        "slang": "Bee"
+    },
+    {
+        "id": 1411,
+        "slang": "Evil Cuteness"
+    },
+    {
+        "id": 1412,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 1413,
+        "slang": "Dreaming"
+    },
+    {
+        "id": 1414,
+        "slang": "Pacman"
+    },
+    {
+        "id": 1415,
+        "slang": "High Five"
+    },
+    {
+        "id": 1416,
+        "slang": "Monkey"
+    },
+    {
+        "id": 1417,
+        "slang": "Cat Nap"
+    },
+    {
+        "id": 1418,
+        "slang": "Glaring"
+    },
+    {
+        "id": 1419,
+        "slang": "Monkey"
+    },
+    {
+        "id": 1420,
+        "slang": "Guitar"
+    },
+    {
+        "id": 1421,
+        "slang": "Christmas Tree"
+    },
+    {
+        "id": 1422,
+        "slang": "Surprised"
+    },
+    {
+        "id": 1423,
+        "slang": "Road"
+    },
+    {
+        "id": 1424,
+        "slang": "Snowman"
+    },
+    {
+        "id": 1425,
+        "slang": "Cat"
+    },
+    {
+        "id": 1426,
+        "slang": "Piggy"
+    },
+    {
+        "id": 1427,
+        "slang": "Umbrella"
+    },
+    {
+        "id": 1428,
+        "slang": "Shocked"
+    },
+    {
+        "id": 1429,
+        "slang": "Worried"
+    },
+    {
+        "id": 1430,
+        "slang": "Suspicious"
+    },
+    {
+        "id": 1431,
+        "slang": "Girl"
+    },
+    {
+        "id": 1432,
+        "slang": "Bird"
+    },
+    {
+        "id": 1433,
+        "slang": "Pony"
+    },
+    {
+        "id": 1434,
+        "slang": "Confused"
+    },
+    {
+        "id": 1435,
+        "slang": "Sneezing"
+    },
+    {
+        "id": 1436,
+        "slang": "Shocked"
+    },
+    {
+        "id": 1437,
+        "slang": "Bowling"
+    },
+    {
+        "id": 1438,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1439,
+        "slang": "Pretzel"
+    },
+    {
+        "id": 1440,
+        "slang": "Surprised"
+    },
+    {
+        "id": 1441,
+        "slang": "Dead"
+    },
+    {
+        "id": 1442,
+        "slang": "Tired"
+    },
+    {
+        "id": 1443,
+        "slang": "Heart"
+    },
+    {
+        "id": 1444,
+        "slang": "Marge Simpson"
+    },
+    {
+        "id": 1445,
+        "slang": "Bart Simpson"
+    },
+    {
+        "id": 1446,
+        "slang": "Walrus"
+    },
+    {
+        "id": 1447,
+        "slang": "Metal"
+    },
+    {
+        "id": 1448,
+        "slang": "Broken Heart"
+    },
+    {
+        "id": 1449,
+        "slang": "So Wrong"
+    },
+    {
+        "id": 1450,
+        "slang": "Seahorse"
+    },
+    {
+        "id": 1451,
+        "slang": "Airplane"
+    },
+    {
+        "id": 1452,
+        "slang": "In Love"
+    },
+    {
+        "id": 1453,
+        "slang": "Dancing"
+    },
+    {
+        "id": 1454,
+        "slang": "Sick"
+    },
+    {
+        "id": 1455,
+        "slang": "Dead"
+    },
+    {
+        "id": 1456,
+        "slang": "Greedy"
+    },
+    {
+        "id": 1457,
+        "slang": "Excited"
+    },
+    {
+        "id": 1458,
+        "slang": "Crying"
+    },
+    {
+        "id": 1459,
+        "slang": "Fainting"
+    },
+    {
+        "id": 1460,
+        "slang": "Confused"
+    },
+    {
+        "id": 1461,
+        "slang": "Whatever"
+    },
+    {
+        "id": 1462,
+        "slang": "Fake Smile"
+    },
+    {
+        "id": 1463,
+        "slang": "Sad"
+    },
+    {
+        "id": 1464,
+        "slang": "Goodbye"
+    },
+    {
+        "id": 1465,
+        "slang": "Beaten Up"
+    },
+    {
+        "id": 1466,
+        "slang": "Kenny"
+    },
+    {
+        "id": 1467,
+        "slang": "Snubbing"
+    },
+    {
+        "id": 1468,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 1469,
+        "slang": "Peace"
+    },
+    {
+        "id": 1470,
+        "slang": "Annoyed"
+    },
+    {
+        "id": 1471,
+        "slang": "Furious"
+    },
+    {
+        "id": 1472,
+        "slang": "Incredulous"
+    },
+    {
+        "id": 1473,
+        "slang": "Drooling"
+    },
+    {
+        "id": 1474,
+        "slang": "Looking"
+    },
+    {
+        "id": 1475,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1476,
+        "slang": "Princess Leia"
+    },
+    {
+        "id": 1477,
+        "slang": "Exhausted"
+    },
+    {
+        "id": 1478,
+        "slang": "Kirby"
+    },
+    {
+        "id": 1479,
+        "slang": "Prayers"
+    },
+    {
+        "id": 1480,
+        "slang": "Robot"
+    },
+    {
+        "id": 1481,
+        "slang": "Curly Hair"
+    },
+    {
+        "id": 1482,
+        "slang": "Bunny"
+    },
+    {
+        "id": 1483,
+        "slang": "Weakling"
+    },
+    {
+        "id": 1484,
+        "slang": "Banker"
+    },
+    {
+        "id": 1485,
+        "slang": "Bandit"
+    },
+    {
+        "id": 1486,
+        "slang": "Hair"
+    },
+    {
+        "id": 1487,
+        "slang": "Grooving"
+    },
+    {
+        "id": 1488,
+        "slang": "Cool"
+    },
+    {
+        "id": 1489,
+        "slang": "Cat"
+    },
+    {
+        "id": 1490,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1491,
+        "slang": "DJ"
+    },
+    {
+        "id": 1492,
+        "slang": "Kirby"
+    },
+    {
+        "id": 1493,
+        "slang": "Glass"
+    },
+    {
+        "id": 1494,
+        "slang": "Puppy"
+    },
+    {
+        "id": 1495,
+        "slang": "Gasp"
+    },
+    {
+        "id": 1496,
+        "slang": "Hungry"
+    },
+    {
+        "id": 1497,
+        "slang": "Swearing"
+    },
+    {
+        "id": 1498,
+        "slang": "Pouting"
+    },
+    {
+        "id": 1499,
+        "slang": "Charlie Brown"
+    },
+    {
+        "id": 1500,
+        "slang": "Googly-Eyed"
+    },
+    {
+        "id": 1501,
+        "slang": "Nose"
+    },
+    {
+        "id": 1502,
+        "slang": "Shocked"
+    },
+    {
+        "id": 1503,
+        "slang": "Ronald Reagan"
+    },
+    {
+        "id": 1504,
+        "slang": "Forlorn"
+    },
+    {
+        "id": 1505,
+        "slang": "Scowling"
+    },
+    {
+        "id": 1506,
+        "slang": "Two-faced"
+    },
+    {
+        "id": 1507,
+        "slang": "Evil Face"
+    },
+    {
+        "id": 1508,
+        "slang": "Detective"
+    },
+    {
+        "id": 1509,
+        "slang": "Lieutenant LaForge"
+    },
+    {
+        "id": 1510,
+        "slang": "Duck"
+    },
+    {
+        "id": 1511,
+        "slang": "Cyborg"
+    },
+    {
+        "id": 1512,
+        "slang": "Eye Patch"
+    },
+    {
+        "id": 1513,
+        "slang": "Eye Patch"
+    },
+    {
+        "id": 1514,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 1515,
+        "slang": "Headlights"
+    },
+    {
+        "id": 1516,
+        "slang": "Keeping Quiet"
+    },
+    {
+        "id": 1517,
+        "slang": "Monk"
+    },
+    {
+        "id": 1518,
+        "slang": "Lizard"
+    },
+    {
+        "id": 1519,
+        "slang": "In a hurry"
+    },
+    {
+        "id": 1520,
+        "slang": "Folding Arms"
+    },
+    {
+        "id": 1521,
+        "slang": "Pointing"
+    },
+    {
+        "id": 1522,
+        "slang": "Stirring"
+    },
+    {
+        "id": 1523,
+        "slang": "Gorilla"
+    },
+    {
+        "id": 1524,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 1525,
+        "slang": "The Grinch"
+    },
+    {
+        "id": 1526,
+        "slang": "Sour"
+    },
+    {
+        "id": 1527,
+        "slang": "Spock"
+    },
+    {
+        "id": 1528,
+        "slang": "Wink"
+    },
+    {
+        "id": 1529,
+        "slang": "Wink"
+    },
+    {
+        "id": 1530,
+        "slang": "Crying"
+    },
+    {
+        "id": 1531,
+        "slang": "Wide-eyed"
+    },
+    {
+        "id": 1532,
+        "slang": "Drunk"
+    },
+    {
+        "id": 1533,
+        "slang": "Stern"
+    },
+    {
+        "id": 1534,
+        "slang": "Blubbering"
+    },
+    {
+        "id": 1535,
+        "slang": "Beard"
+    },
+    {
+        "id": 1536,
+        "slang": "Needs Haircut"
+    },
+    {
+        "id": 1537,
+        "slang": "Hairy"
+    },
+    {
+        "id": 1538,
+        "slang": "Swimming Trunks"
+    },
+    {
+        "id": 1539,
+        "slang": "Hat"
+    },
+    {
+        "id": 1540,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1541,
+        "slang": "Yay"
+    },
+    {
+        "id": 1542,
+        "slang": "Smoker"
+    },
+    {
+        "id": 1543,
+        "slang": "Smoker"
+    },
+    {
+        "id": 1544,
+        "slang": "Overweight"
+    },
+    {
+        "id": 1545,
+        "slang": "Viking"
+    },
+    {
+        "id": 1546,
+        "slang": "Tribesman"
+    },
+    {
+        "id": 1547,
+        "slang": "Headhunter"
+    },
+    {
+        "id": 1548,
+        "slang": "Witch Doctor"
+    },
+    {
+        "id": 1549,
+        "slang": "Swimmer"
+    },
+    {
+        "id": 1550,
+        "slang": "Skier"
+    },
+    {
+        "id": 1551,
+        "slang": "Miner"
+    },
+    {
+        "id": 1552,
+        "slang": "Doctor"
+    },
+    {
+        "id": 1553,
+        "slang": "Railroad Worker"
+    },
+    {
+        "id": 1554,
+        "slang": "Bull"
+    },
+    {
+        "id": 1555,
+        "slang": "Elephant"
+    },
+    {
+        "id": 1556,
+        "slang": "Elephant"
+    },
+    {
+        "id": 1557,
+        "slang": "The Swedish Chef"
+    },
+    {
+        "id": 1558,
+        "slang": "Cyrano de Bergerac"
+    },
+    {
+        "id": 1559,
+        "slang": "Frankenstein"
+    },
+    {
+        "id": 1560,
+        "slang": "Aunt Jemima"
+    },
+    {
+        "id": 1561,
+        "slang": "Abraham Lincoln"
+    },
+    {
+        "id": 1562,
+        "slang": "George Washington"
+    },
+    {
+        "id": 1563,
+        "slang": "Ghost"
+    },
+    {
+        "id": 1564,
+        "slang": "Pacman Trophy"
+    },
+    {
+        "id": 1565,
+        "slang": "Lying Down"
+    },
+    {
+        "id": 1566,
+        "slang": "Flamethrower"
+    },
+    {
+        "id": 1567,
+        "slang": "Electrocuted"
+    },
+    {
+        "id": 1568,
+        "slang": "Electrocuted"
+    },
+    {
+        "id": 1569,
+        "slang": "Warping"
+    },
+    {
+        "id": 1570,
+        "slang": "Rocket"
+    },
+    {
+        "id": 1571,
+        "slang": "Computer"
+    },
+    {
+        "id": 1572,
+        "slang": "Quartet"
+    },
+    {
+        "id": 1573,
+        "slang": "Tongue"
+    },
+    {
+        "id": 1574,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 1575,
+        "slang": "Pursing Lips"
+    },
+    {
+        "id": 1576,
+        "slang": "Straight Face"
+    },
+    {
+        "id": 1577,
+        "slang": "Whistling"
+    },
+    {
+        "id": 1578,
+        "slang": "Grim"
+    },
+    {
+        "id": 1579,
+        "slang": "Turkey"
+    },
+    {
+        "id": 1580,
+        "slang": "Nose"
+    },
+    {
+        "id": 1581,
+        "slang": "Yawn"
+    },
+    {
+        "id": 1582,
+        "slang": "Smiling"
+    },
+    {
+        "id": 1583,
+        "slang": "Bangs"
+    },
+    {
+        "id": 1584,
+        "slang": "Mohawk"
+    },
+    {
+        "id": 1585,
+        "slang": "Hair"
+    },
+    {
+        "id": 1586,
+        "slang": "Hat"
+    },
+    {
+        "id": 1587,
+        "slang": "Hat"
+    },
+    {
+        "id": 1588,
+        "slang": "Band-aid"
+    },
+    {
+        "id": 1589,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1590,
+        "slang": "Smug"
+    },
+    {
+        "id": 1591,
+        "slang": "Mischievous"
+    },
+    {
+        "id": 1592,
+        "slang": "Sad"
+    },
+    {
+        "id": 1593,
+        "slang": "Sick"
+    },
+    {
+        "id": 1594,
+        "slang": "Happy Birthday To You"
+    },
+    {
+        "id": 1595,
+        "slang": "Mick Jagger"
+    },
+    {
+        "id": 1596,
+        "slang": "Klingon"
+    },
+    {
+        "id": 1597,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1598,
+        "slang": "Ali G"
+    },
+    {
+        "id": 1599,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 1600,
+        "slang": "Cat"
+    },
+    {
+        "id": 1601,
+        "slang": "Bird"
+    },
+    {
+        "id": 1602,
+        "slang": "Drink"
+    },
+    {
+        "id": 1603,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1604,
+        "slang": "Kissing"
+    },
+    {
+        "id": 1605,
+        "slang": "Witch"
+    },
+    {
+        "id": 1606,
+        "slang": "Fuming"
+    },
+    {
+        "id": 1607,
+        "slang": "Livid"
+    },
+    {
+        "id": 1608,
+        "slang": "Alien"
+    },
+    {
+        "id": 1609,
+        "slang": "Native American"
+    },
+    {
+        "id": 1610,
+        "slang": "Undecided"
+    },
+    {
+        "id": 1611,
+        "slang": "Angel"
+    },
+    {
+        "id": 1612,
+        "slang": "Guardian Angel"
+    },
+    {
+        "id": 1613,
+        "slang": "Angel"
+    },
+    {
+        "id": 1614,
+        "slang": "Swearing"
+    },
+    {
+        "id": 1615,
+        "slang": "Apology"
+    },
+    {
+        "id": 1616,
+        "slang": "Archangel"
+    },
+    {
+        "id": 1617,
+        "slang": "Arrow"
+    },
+    {
+        "id": 1618,
+        "slang": "Asian"
+    },
+    {
+        "id": 1619,
+        "slang": "Grumpy"
+    },
+    {
+        "id": 1620,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1621,
+        "slang": "Troubled"
+    },
+    {
+        "id": 1622,
+        "slang": "Troubled"
+    },
+    {
+        "id": 1623,
+        "slang": "Crying"
+    },
+    {
+        "id": 1624,
+        "slang": "Shy"
+    },
+    {
+        "id": 1625,
+        "slang": "Grinning"
+    },
+    {
+        "id": 1626,
+        "slang": "Joyful"
+    },
+    {
+        "id": 1627,
+        "slang": "Surprised"
+    },
+    {
+        "id": 1628,
+        "slang": "Shy"
+    },
+    {
+        "id": 1629,
+        "slang": "Infatuated"
+    },
+    {
+        "id": 1630,
+        "slang": "Worried"
+    },
+    {
+        "id": 1631,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1632,
+        "slang": "Dissatisfied"
+    },
+    {
+        "id": 1633,
+        "slang": "Mellow"
+    },
+    {
+        "id": 1634,
+        "slang": "Laughing"
+    },
+    {
+        "id": 1635,
+        "slang": "Snubbing"
+    },
+    {
+        "id": 1636,
+        "slang": "Infatuated"
+    },
+    {
+        "id": 1637,
+        "slang": "Waving"
+    },
+    {
+        "id": 1638,
+        "slang": "Goodbye"
+    },
+    {
+        "id": 1639,
+        "slang": "Glad"
+    },
+    {
+        "id": 1640,
+        "slang": "Dancing"
+    },
+    {
+        "id": 1641,
+        "slang": "Discontent"
+    },
+    {
+        "id": 1642,
+        "slang": "Defeated"
+    },
+    {
+        "id": 1643,
+        "slang": "Hopeful"
+    },
+    {
+        "id": 1644,
+        "slang": "Surrender"
+    },
+    {
+        "id": 1645,
+        "slang": "Panda"
+    },
+    {
+        "id": 1647,
+        "slang": "Marshmallow"
+    },
+    {
+        "id": 1648,
+        "slang": "Bugs Bunny"
+    },
+    {
+        "id": 1649,
+        "slang": "Staring"
+    },
+    {
+        "id": 1650,
+        "slang": "Hug and Kiss"
+    },
+    {
+        "id": 1651,
+        "slang": "Gun"
+    },
+    {
+        "id": 1652,
+        "slang": "Gun"
+    },
+    {
+        "id": 1653,
+        "slang": "Headphones"
+    },
+    {
+        "id": 1654,
+        "slang": "Good Morning"
+    },
+    {
+        "id": 1655,
+        "slang": "Hello"
+    },
+    {
+        "id": 1656,
+        "slang": "Good Night"
+    },
+    {
+        "id": 1657,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 1658,
+        "slang": "Apology"
+    },
+    {
+        "id": 1659,
+        "slang": "Apology"
+    },
+    {
+        "id": 1660,
+        "slang": "Flower"
+    },
+    {
+        "id": 1661,
+        "slang": "Men"
+    },
+    {
+        "id": 1662,
+        "slang": "Female"
+    },
+    {
+        "id": 1663,
+        "slang": "Female"
+    },
+    {
+        "id": 1664,
+        "slang": "Horse"
+    },
+    {
+        "id": 1665,
+        "slang": "Broken Heart"
+    },
+    {
+        "id": 1666,
+        "slang": "Mad"
+    },
+    {
+        "id": 1667,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1668,
+        "slang": "Schizophrenic"
+    },
+    {
+        "id": 1669,
+        "slang": "Groucho Marx"
+    },
+    {
+        "id": 1670,
+        "slang": "Philosopher"
+    },
+    {
+        "id": 1671,
+        "slang": "Bureaucrat"
+    },
+    {
+        "id": 1672,
+        "slang": "Hema Employee"
+    },
+    {
+        "id": 1673,
+        "slang": "Doraemon"
+    },
+    {
+        "id": 1674,
+        "slang": "Dinosaur"
+    },
+    {
+        "id": 1675,
+        "slang": "Kirby"
+    },
+    {
+        "id": 1676,
+        "slang": "Horse"
+    },
+    {
+        "id": 1677,
+        "slang": "Horse"
+    },
+    {
+        "id": 1678,
+        "slang": "Cake"
+    },
+    {
+        "id": 1679,
+        "slang": "Tank"
+    },
+    {
+        "id": 1680,
+        "slang": "Tank"
+    },
+    {
+        "id": 1681,
+        "slang": "Poop"
+    },
+    {
+        "id": 1682,
+        "slang": "Egg"
+    },
+    {
+        "id": 1683,
+        "slang": "Egg"
+    },
+    {
+        "id": 1684,
+        "slang": "Crying"
+    },
+    {
+        "id": 1685,
+        "slang": "Sad"
+    },
+    {
+        "id": 1686,
+        "slang": "Shocked"
+    },
+    {
+        "id": 1687,
+        "slang": "Beaten Up"
+    },
+    {
+        "id": 1688,
+        "slang": "Running"
+    },
+    {
+        "id": 1689,
+        "slang": "Running"
+    },
+    {
+        "id": 1690,
+        "slang": "Tripping"
+    },
+    {
+        "id": 1691,
+        "slang": "Skipping"
+    },
+    {
+        "id": 1692,
+        "slang": "Tripping"
+    },
+    {
+        "id": 1693,
+        "slang": "Elated"
+    },
+    {
+        "id": 1694,
+        "slang": "Hiding"
+    },
+    {
+        "id": 1695,
+        "slang": "Married"
+    },
+    {
+        "id": 1696,
+        "slang": "Beer Mug"
+    },
+    {
+        "id": 1697,
+        "slang": "Duck"
+    },
+    {
+        "id": 1698,
+        "slang": "Duck"
+    },
+    {
+        "id": 1699,
+        "slang": "Antelope"
+    },
+    {
+        "id": 1700,
+        "slang": "Camel"
+    },
+    {
+        "id": 1701,
+        "slang": "Deer"
+    },
+    {
+        "id": 1702,
+        "slang": "Dog"
+    },
+    {
+        "id": 1703,
+        "slang": "Horse"
+    },
+    {
+        "id": 1704,
+        "slang": "Chicken"
+    },
+    {
+        "id": 1705,
+        "slang": "Chicken"
+    },
+    {
+        "id": 1706,
+        "slang": "Crocodile"
+    },
+    {
+        "id": 1707,
+        "slang": "Snail"
+    },
+    {
+        "id": 1708,
+        "slang": "Snail"
+    },
+    {
+        "id": 1709,
+        "slang": "Bird"
+    },
+    {
+        "id": 1710,
+        "slang": "Bull"
+    },
+    {
+        "id": 1711,
+        "slang": "Astronaut"
+    },
+    {
+        "id": 1712,
+        "slang": "Ballerina"
+    },
+    {
+        "id": 1713,
+        "slang": "Baby"
+    },
+    {
+        "id": 1714,
+        "slang": "Snowman"
+    },
+    {
+        "id": 1715,
+        "slang": "Snowman"
+    },
+    {
+        "id": 1716,
+        "slang": "Dancer"
+    },
+    {
+        "id": 1717,
+        "slang": "Pregnant"
+    },
+    {
+        "id": 1718,
+        "slang": "Police Officer"
+    },
+    {
+        "id": 1719,
+        "slang": "Parachute"
+    },
+    {
+        "id": 1720,
+        "slang": "Boxer"
+    },
+    {
+        "id": 1721,
+        "slang": "Rapper"
+    },
+    {
+        "id": 1722,
+        "slang": "Waiter"
+    },
+    {
+        "id": 1723,
+        "slang": "Cave Diver"
+    },
+    {
+        "id": 1724,
+        "slang": "Diabolical"
+    },
+    {
+        "id": 1725,
+        "slang": "TIE Fighter"
+    },
+    {
+        "id": 1726,
+        "slang": "Spaceship"
+    },
+    {
+        "id": 1727,
+        "slang": "King Arthur"
+    },
+    {
+        "id": 1728,
+        "slang": "Salvador Dali"
+    },
+    {
+        "id": 1729,
+        "slang": "Dracula"
+    },
+    {
+        "id": 1730,
+        "slang": "Napoleon"
+    },
+    {
+        "id": 1731,
+        "slang": "Bart Simpson"
+    },
+    {
+        "id": 1732,
+        "slang": "Meditating"
+    },
+    {
+        "id": 1733,
+        "slang": "Applause"
+    },
+    {
+        "id": 1734,
+        "slang": "Dueling"
+    },
+    {
+        "id": 1735,
+        "slang": "Weary"
+    },
+    {
+        "id": 1736,
+        "slang": "Joyful"
+    },
+    {
+        "id": 1737,
+        "slang": "Panicking"
+    },
+    {
+        "id": 1738,
+        "slang": "Blowfish"
+    },
+    {
+        "id": 1739,
+        "slang": "Pigtails"
+    },
+    {
+        "id": 1740,
+        "slang": "Monocle"
+    },
+    {
+        "id": 1741,
+        "slang": "Confused"
+    },
+    {
+        "id": 1742,
+        "slang": "Teleporting"
+    },
+    {
+        "id": 1743,
+        "slang": "Gift"
+    },
+    {
+        "id": 1744,
+        "slang": "Fish Bowl"
+    },
+    {
+        "id": 1745,
+        "slang": "Syringe"
+    },
+    {
+        "id": 1746,
+        "slang": "Video Projector"
+    },
+    {
+        "id": 1747,
+        "slang": "Pencil"
+    },
+    {
+        "id": 1748,
+        "slang": "Hamburger"
+    },
+    {
+        "id": 1749,
+        "slang": "Martini"
+    },
+    {
+        "id": 1750,
+        "slang": "Brazilian Flag"
+    },
+    {
+        "id": 1751,
+        "slang": "Wiping Tears"
+    },
+    {
+        "id": 1752,
+        "slang": "Earphones"
+    },
+    {
+        "id": 1753,
+        "slang": "Headphones"
+    },
+    {
+        "id": 1754,
+        "slang": "Rosie"
+    },
+    {
+        "id": 1755,
+        "slang": "Knuckles"
+    },
+    {
+        "id": 1756,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 1757,
+        "slang": "Nordic"
+    },
+    {
+        "id": 1758,
+        "slang": "Raver"
+    },
+    {
+        "id": 1759,
+        "slang": "Bug"
+    },
+    {
+        "id": 1760,
+        "slang": "Heart"
+    },
+    {
+        "id": 1761,
+        "slang": "Care Crowd"
+    },
+    {
+        "id": 1762,
+        "slang": "Death Star"
+    },
+    {
+        "id": 1763,
+        "slang": "X-Wing"
+    },
+    {
+        "id": 1764,
+        "slang": "Gun"
+    },
+    {
+        "id": 1765,
+        "slang": "Shark"
+    },
+    {
+        "id": 1766,
+        "slang": "Bat"
+    },
+    {
+        "id": 1767,
+        "slang": "Bowling"
+    },
+    {
+        "id": 1768,
+        "slang": "Firecracker"
+    },
+    {
+        "id": 1769,
+        "slang": "Dynamite"
+    },
+    {
+        "id": 1770,
+        "slang": "Penguin"
+    },
+    {
+        "id": 1771,
+        "slang": "Pig"
+    },
+    {
+        "id": 1772,
+        "slang": "Shooting"
+    },
+    {
+        "id": 1773,
+        "slang": "Darth Vader"
+    },
+    {
+        "id": 1774,
+        "slang": "Dollar"
+    },
+    {
+        "id": 1775,
+        "slang": "Owl"
+    },
+    {
+        "id": 1776,
+        "slang": "X-Wing"
+    },
+    {
+        "id": 1777,
+        "slang": "Ant"
+    },
+    {
+        "id": 1778,
+        "slang": "Pistol"
+    },
+    {
+        "id": 1779,
+        "slang": "Overboard"
+    },
+    {
+        "id": 1780,
+        "slang": "Armpit Hair"
+    },
+    {
+        "id": 1781,
+        "slang": "Trumpet"
+    },
+    {
+        "id": 1782,
+        "slang": "Run Over"
+    },
+    {
+        "id": 1783,
+        "slang": "Pie Fight"
+    },
+    {
+        "id": 1784,
+        "slang": "Scorpion"
+    },
+    {
+        "id": 1785,
+        "slang": "Highway"
+    },
+    {
+        "id": 1786,
+        "slang": "Guitar"
+    },
+    {
+        "id": 1787,
+        "slang": "Rock Paper Scissors"
+    },
+    {
+        "id": 1788,
+        "slang": "Mosquito"
+    },
+    {
+        "id": 1789,
+        "slang": "Heart Monitor"
+    },
+    {
+        "id": 1790,
+        "slang": "Kyubey"
+    },
+    {
+        "id": 1791,
+        "slang": "Bulldozer"
+    },
+    {
+        "id": 1792,
+        "slang": "Bicycle"
+    },
+    {
+        "id": 1793,
+        "slang": "Tug of War"
+    },
+    {
+        "id": 1794,
+        "slang": "Casket"
+    },
+    {
+        "id": 1795,
+        "slang": "Tight Rope"
+    },
+    {
+        "id": 1796,
+        "slang": "Pie Fight"
+    },
+    {
+        "id": 1797,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1798,
+        "slang": "Stretcher"
+    },
+    {
+        "id": 1799,
+        "slang": "Police Chase"
+    },
+    {
+        "id": 1800,
+        "slang": "Cowgirl"
+    },
+    {
+        "id": 1801,
+        "slang": "Teddy Bear"
+    },
+    {
+        "id": 1802,
+        "slang": "Robot"
+    },
+    {
+        "id": 1803,
+        "slang": "Belt"
+    },
+    {
+        "id": 1804,
+        "slang": "Weightlifting"
+    },
+    {
+        "id": 1805,
+        "slang": "Bored"
+    },
+    {
+        "id": 1806,
+        "slang": "Candy"
+    },
+    {
+        "id": 1807,
+        "slang": "Alien"
+    },
+    {
+        "id": 1808,
+        "slang": "Bow and Arrow"
+    },
+    {
+        "id": 1809,
+        "slang": "Mad"
+    },
+    {
+        "id": 1810,
+        "slang": "Undecided"
+    },
+    {
+        "id": 1811,
+        "slang": "Dancing"
+    },
+    {
+        "id": 1812,
+        "slang": "Rimshot"
+    },
+    {
+        "id": 1813,
+        "slang": "Worried"
+    },
+    {
+        "id": 1814,
+        "slang": "Evading"
+    },
+    {
+        "id": 1815,
+        "slang": "I Do Not Want to See"
+    },
+    {
+        "id": 1816,
+        "slang": "It Was Not Me"
+    },
+    {
+        "id": 1817,
+        "slang": "Whatever"
+    },
+    {
+        "id": 1823,
+        "slang": "Alien"
+    },
+    {
+        "id": 1826,
+        "slang": "Freezing"
+    },
+    {
+        "id": 1827,
+        "slang": "In Love"
+    },
+    {
+        "id": 1828,
+        "slang": "Princess"
+    },
+    {
+        "id": 1830,
+        "slang": "Punch"
+    },
+    {
+        "id": 1831,
+        "slang": "Punk"
+    },
+    {
+        "id": 1832,
+        "slang": "Steaming Mad"
+    },
+    {
+        "id": 1842,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1843,
+        "slang": "Mad"
+    },
+    {
+        "id": 1844,
+        "slang": "Crying"
+    },
+    {
+        "id": 1845,
+        "slang": "Gross"
+    },
+    {
+        "id": 1846,
+        "slang": "Smile"
+    },
+    {
+        "id": 1847,
+        "slang": "Sad"
+    },
+    {
+        "id": 1848,
+        "slang": "Unsure"
+    },
+    {
+        "id": 1849,
+        "slang": "Squinting"
+    },
+    {
+        "id": 1850,
+        "slang": "Upset"
+    },
+    {
+        "id": 1851,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1852,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1853,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1854,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1855,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1856,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1857,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 1858,
+        "slang": "Devil"
+    },
+    {
+        "id": 1861,
+        "slang": "Party"
+    },
+    {
+        "id": 1862,
+        "slang": "Bunny"
+    },
+    {
+        "id": 1863,
+        "slang": "Drumstick"
+    },
+    {
+        "id": 1864,
+        "slang": "Corn"
+    },
+    {
+        "id": 1865,
+        "slang": "Pie"
+    },
+    {
+        "id": 1866,
+        "slang": "Praying"
+    },
+    {
+        "id": 1867,
+        "slang": "Praying"
+    },
+    {
+        "id": 1868,
+        "slang": "Park Ranger"
+    },
+    {
+        "id": 1869,
+        "slang": "Salute"
+    },
+    {
+        "id": 1870,
+        "slang": "Flower"
+    },
+    {
+        "id": 1871,
+        "slang": "Cat"
+    },
+    {
+        "id": 1872,
+        "slang": "Money Mouth"
+    },
+    {
+        "id": 1873,
+        "slang": "Dog"
+    },
+    {
+        "id": 1874,
+        "slang": "Santa"
+    },
+    {
+        "id": 1875,
+        "slang": "Victory"
+    },
+    {
+        "id": 1876,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 1877,
+        "slang": "Fish Bone"
+    },
+    {
+        "id": 1878,
+        "slang": "Owl"
+    },
+    {
+        "id": 1879,
+        "slang": "Fork"
+    },
+    {
+        "id": 1880,
+        "slang": "Fox"
+    },
+    {
+        "id": 1881,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1882,
+        "slang": "Emo"
+    },
+    {
+        "id": 1883,
+        "slang": "Scuba Diver"
+    },
+    {
+        "id": 1884,
+        "slang": "Snail"
+    },
+    {
+        "id": 1885,
+        "slang": "Confused"
+    },
+    {
+        "id": 1886,
+        "slang": "Blushing"
+    },
+    {
+        "id": 1887,
+        "slang": "Evil Grin"
+    },
+    {
+        "id": 1888,
+        "slang": "Tea Cup"
+    },
+    {
+        "id": 1889,
+        "slang": "Coffee Cup"
+    },
+    {
+        "id": 1890,
+        "slang": "Bloodshot Eyes"
+    },
+    {
+        "id": 1891,
+        "slang": "Football Player"
+    },
+    {
+        "id": 1892,
+        "slang": "Deep Sea Diver"
+    },
+    {
+        "id": 1893,
+        "slang": "Side Cramp"
+    },
+    {
+        "id": 1894,
+        "slang": "Group"
+    },
+    {
+        "id": 1895,
+        "slang": "Indifferent"
+    },
+    {
+        "id": 1896,
+        "slang": "Confused"
+    },
+    {
+        "id": 1897,
+        "slang": "Tapeworm"
+    },
+    {
+        "id": 1898,
+        "slang": "Dazzled"
+    },
+    {
+        "id": 1899,
+        "slang": "Oh no!"
+    },
+    {
+        "id": 1900,
+        "slang": "Confused"
+    },
+    {
+        "id": 1901,
+        "slang": "Tired"
+    },
+    {
+        "id": 1902,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1903,
+        "slang": "Capture"
+    },
+    {
+        "id": 1904,
+        "slang": "Yin Yang"
+    },
+    {
+        "id": 1905,
+        "slang": "Live Long and Prosper"
+    },
+    {
+        "id": 1906,
+        "slang": "Motorcycle"
+    },
+    {
+        "id": 1907,
+        "slang": "Rocket"
+    },
+    {
+        "id": 1908,
+        "slang": "Starship Enterprise"
+    },
+    {
+        "id": 1909,
+        "slang": "Police Officer"
+    },
+    {
+        "id": 1910,
+        "slang": "Tennis Net"
+    },
+    {
+        "id": 1911,
+        "slang": "Volleyball Net"
+    },
+    {
+        "id": 1912,
+        "slang": "Boat"
+    },
+    {
+        "id": 1913,
+        "slang": "Candle"
+    },
+    {
+        "id": 1914,
+        "slang": "Coffee Cup"
+    },
+    {
+        "id": 1915,
+        "slang": "Disapproval"
+    },
+    {
+        "id": 1916,
+        "slang": "Squid"
+    },
+    {
+        "id": 1917,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1918,
+        "slang": "Waiter"
+    },
+    {
+        "id": 1919,
+        "slang": "Snake"
+    },
+    {
+        "id": 1920,
+        "slang": "Not quite love"
+    },
+    {
+        "id": 1921,
+        "slang": "Shooting Star"
+    },
+    {
+        "id": 1922,
+        "slang": "Bomb"
+    },
+    {
+        "id": 1923,
+        "slang": "Depressed"
+    },
+    {
+        "id": 1924,
+        "slang": "Dazed"
+    },
+    {
+        "id": 1925,
+        "slang": "Crying"
+    },
+    {
+        "id": 1926,
+        "slang": "Glasses"
+    },
+    {
+        "id": 1927,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1928,
+        "slang": "Octopus"
+    },
+    {
+        "id": 1929,
+        "slang": "Crying"
+    },
+    {
+        "id": 1930,
+        "slang": "Eye"
+    },
+    {
+        "id": 1931,
+        "slang": "Baseball Hat"
+    },
+    {
+        "id": 1932,
+        "slang": "Hug"
+    },
+    {
+        "id": 1933,
+        "slang": "Hug"
+    },
+    {
+        "id": 1934,
+        "slang": "Hashtag"
+    },
+    {
+        "id": 1935,
+        "slang": "Mention"
+    },
+    {
+        "id": 1936,
+        "slang": "Awkward"
+    },
+    {
+        "id": 1937,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 1938,
+        "slang": "Gun"
+    },
+    {
+        "id": 1939,
+        "slang": "Bat"
+    },
+    {
+        "id": 1940,
+        "slang": "Ghost"
+    },
+    {
+        "id": 1941,
+        "slang": "Edward Scissorhands"
+    },
+    {
+        "id": 1942,
+        "slang": "Koala"
+    },
+    {
+        "id": 1943,
+        "slang": "Sick"
+    },
+    {
+        "id": 1944,
+        "slang": "Phew"
+    },
+    {
+        "id": 1945,
+        "slang": "Snooper"
+    },
+    {
+        "id": 1946,
+        "slang": "Harp"
+    },
+    {
+        "id": 1947,
+        "slang": "Snail"
+    },
+    {
+        "id": 1948,
+        "slang": "Flipping Table"
+    },
+    {
+        "id": 1949,
+        "slang": "Dancing"
+    },
+    {
+        "id": 1950,
+        "slang": "Flipping Table"
+    },
+    {
+        "id": 1951,
+        "slang": "Nyan Cat"
+    },
+    {
+        "id": 1952,
+        "slang": "Nyan Cat"
+    },
+    {
+        "id": 1953,
+        "slang": "Zombie"
+    },
+    {
+        "id": 1954,
+        "slang": "Exhausted"
+    },
+    {
+        "id": 1955,
+        "slang": "Kiss"
+    },
+    {
+        "id": 1956,
+        "slang": "Shrugging"
+    },
+    {
+        "id": 1957,
+        "slang": "Angry"
+    },
+    {
+        "id": 1958,
+        "slang": "Whatever"
+    },
+    {
+        "id": 1959,
+        "slang": "Fed Up"
+    },
+    {
+        "id": 1960,
+        "slang": "Bear"
+    },
+    {
+        "id": 1961,
+        "slang": "Bear"
+    },
+    {
+        "id": 1962,
+        "slang": "Bear"
+    },
+    {
+        "id": 1963,
+        "slang": "Confused"
+    },
+    {
+        "id": 1964,
+        "slang": "Confused"
+    },
+    {
+        "id": 1965,
+        "slang": "Surrender"
+    },
+    {
+        "id": 1966,
+        "slang": "Dog"
+    },
+    {
+        "id": 1967,
+        "slang": "Waiter"
+    },
+    {
+        "id": 1968,
+        "slang": "Drinking"
+    },
+    {
+        "id": 1969,
+        "slang": "Caroling"
+    },
+    {
+        "id": 1970,
+        "slang": "High Five"
+    },
+    {
+        "id": 1971,
+        "slang": "Wait"
+    },
+    {
+        "id": 1972,
+        "slang": "Thank You"
+    },
+    {
+        "id": 1973,
+        "slang": "Poking"
+    },
+    {
+        "id": 1974,
+        "slang": "Bowling"
+    },
+    {
+        "id": 1975,
+        "slang": "Volleyball"
+    },
+    {
+        "id": 1976,
+        "slang": "Licking"
+    },
+    {
+        "id": 1977,
+        "slang": "Pig"
+    },
+    {
+        "id": 1978,
+        "slang": "Smooch"
+    },
+    {
+        "id": 1979,
+        "slang": "Huh"
+    },
+    {
+        "id": 1980,
+        "slang": "Freak Out"
+    },
+    {
+        "id": 1981,
+        "slang": "Shy"
+    },
+    {
+        "id": 1982,
+        "slang": "Yoo-Hoo"
+    },
+    {
+        "id": 1983,
+        "slang": "Headset"
+    },
+    {
+        "id": 1984,
+        "slang": "Seal"
+    },
+    {
+        "id": 1985,
+        "slang": "In a Hurry"
+    },
+    {
+        "id": 1986,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1987,
+        "slang": "Writing"
+    },
+    {
+        "id": 1988,
+        "slang": "Smoking"
+    },
+    {
+        "id": 1989,
+        "slang": "Scissor Kick"
+    },
+    {
+        "id": 1990,
+        "slang": "Header"
+    },
+    {
+        "id": 1991,
+        "slang": "Shooting"
+    },
+    {
+        "id": 1992,
+        "slang": "Imbecile"
+    },
+    {
+        "id": 1993,
+        "slang": "Flipping Table"
+    },
+    {
+        "id": 1994,
+        "slang": "Exorcism"
+    },
+    {
+        "id": 1995,
+        "slang": "Bow and Arrow"
+    },
+    {
+        "id": 1996,
+        "slang": "Kicking"
+    },
+    {
+        "id": 1997,
+        "slang": "Drowning"
+    },
+    {
+        "id": 1998,
+        "slang": "Bowing"
+    },
+    {
+        "id": 1999,
+        "slang": "Drunk"
+    },
+    {
+        "id": 2000,
+        "slang": "Crying"
+    },
+    {
+        "id": 2001,
+        "slang": "Zip It"
+    },
+    {
+        "id": 2002,
+        "slang": "Nonsense"
+    },
+    {
+        "id": 2003,
+        "slang": "Whatever"
+    },
+    {
+        "id": 2004,
+        "slang": "Bent Over"
+    },
+    {
+        "id": 2005,
+        "slang": "High Brow"
+    },
+    {
+        "id": 2006,
+        "slang": "Prayer"
+    },
+    {
+        "id": 2007,
+        "slang": "Yelling"
+    },
+    {
+        "id": 2008,
+        "slang": "Nintendo Controller"
+    },
+    {
+        "id": 2009,
+        "slang": "Crazy"
+    },
+    {
+        "id": 2010,
+        "slang": "Victory"
+    },
+    {
+        "id": 2011,
+        "slang": "Hiding"
+    },
+    {
+        "id": 2012,
+        "slang": "Mustache"
+    },
+    {
+        "id": 2015,
+        "slang": "Up In Arms"
+    },
+    {
+        "id": 2016,
+        "slang": "Bear"
+    },
+    {
+        "id": 2017,
+        "slang": "Dead"
+    },
+    {
+        "id": 2018,
+        "slang": "Scheming"
+    },
+    {
+        "id": 2019,
+        "slang": "Yummy"
+    },
+    {
+        "id": 2020,
+        "slang": "Shocked"
+    },
+    {
+        "id": 2021,
+        "slang": "Confused"
+    },
+    {
+        "id": 2022,
+        "slang": "Confused"
+    },
+    {
+        "id": 2023,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 2024,
+        "slang": "Mad"
+    },
+    {
+        "id": 2025,
+        "slang": "Mad"
+    },
+    {
+        "id": 2048,
+        "slang": "Smile"
+    },
+    {
+        "id": 2050,
+        "slang": "Sad"
+    },
+    {
+        "id": 2052,
+        "slang": "Big Grin"
+    },
+    {
+        "id": 2054,
+        "slang": "Cool"
+    },
+    {
+        "id": 2055,
+        "slang": "Cool"
+    },
+    {
+        "id": 2057,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2059,
+        "slang": "Winking"
+    },
+    {
+        "id": 2061,
+        "slang": "Crying"
+    },
+    {
+        "id": 2063,
+        "slang": "Sweating"
+    },
+    {
+        "id": 2065,
+        "slang": "Speechless"
+    },
+    {
+        "id": 2066,
+        "slang": "Speechless"
+    },
+    {
+        "id": 2067,
+        "slang": "Speechless"
+    },
+    {
+        "id": 2069,
+        "slang": "Kiss"
+    },
+    {
+        "id": 2071,
+        "slang": "Sticking Tongue Out"
+    },
+    {
+        "id": 2074,
+        "slang": "Blushing"
+    },
+    {
+        "id": 2075,
+        "slang": "Wondering"
+    },
+    {
+        "id": 2077,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 2079,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 2080,
+        "slang": "Dull"
+    },
+    {
+        "id": 2081,
+        "slang": "Dull"
+    },
+    {
+        "id": 2082,
+        "slang": "Dull"
+    },
+    {
+        "id": 2090,
+        "slang": "Angry"
+    },
+    {
+        "id": 2091,
+        "slang": "Angry"
+    },
+    {
+        "id": 2095,
+        "slang": "Worried"
+    },
+    {
+        "id": 2096,
+        "slang": "Worried"
+    },
+    {
+        "id": 2099,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2100,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2101,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2103,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2104,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2105,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 2106,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 2107,
+        "slang": "Lips are Sealed"
+    },
+    {
+        "id": 2123,
+        "slang": "Thinking"
+    },
+    {
+        "id": 2124,
+        "slang": "Thinking"
+    },
+    {
+        "id": 2175,
+        "slang": "Dancing"
+    },
+    {
+        "id": 2199,
+        "slang": "Bored"
+    },
+    {
+        "id": 2200,
+        "slang": "Laughing"
+    },
+    {
+        "id": 2201,
+        "slang": "Confused"
+    },
+    {
+        "id": 2202,
+        "slang": "Cool"
+    },
+    {
+        "id": 2203,
+        "slang": "Angry"
+    },
+    {
+        "id": 2204,
+        "slang": "Pirate"
+    },
+    {
+        "id": 2205,
+        "slang": "Excited"
+    },
+    {
+        "id": 2206,
+        "slang": "Cool"
+    },
+    {
+        "id": 2207,
+        "slang": "Skeptical"
+    },
+    {
+        "id": 2208,
+        "slang": "Drunk"
+    },
+    {
+        "id": 2209,
+        "slang": "Dazed"
+    },
+    {
+        "id": 2210,
+        "slang": "Adolf Hitler"
+    },
+    {
+        "id": 2211,
+        "slang": "Putting Table Back"
+    },
+    {
+        "id": 2212,
+        "slang": "Putting Table Back"
+    },
+    {
+        "id": 2213,
+        "slang": "Punching"
+    },
+    {
+        "id": 2214,
+        "slang": "Punching"
+    },
+    {
+        "id": 2215,
+        "slang": "Whistling"
+    },
+    {
+        "id": 2216,
+        "slang": "Angry"
+    },
+    {
+        "id": 2217,
+        "slang": "Infatuated"
+    },
+    {
+        "id": 2218,
+        "slang": "Monocle"
+    },
+    {
+        "id": 2219,
+        "slang": "Elvis"
+    },
+    {
+        "id": 2220,
+        "slang": "Vomiting"
+    },
+    {
+        "id": 2221,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2222,
+        "slang": "Stinky"
+    },
+    {
+        "id": 2223,
+        "slang": "TIE Fighter"
+    },
+    {
+        "id": 2224,
+        "slang": "Ivy League"
+    },
+    {
+        "id": 2225,
+        "slang": "Starship Enterprise"
+    },
+    {
+        "id": 2226,
+        "slang": "Caterpillar"
+    },
+    {
+        "id": 2227,
+        "slang": "Don King"
+    },
+    {
+        "id": 2228,
+        "slang": "Pigtails"
+    },
+    {
+        "id": 2229,
+        "slang": "Lying Down"
+    },
+    {
+        "id": 2230,
+        "slang": "Maggie Simpson"
+    },
+    {
+        "id": 2231,
+        "slang": "Joyful"
+    },
+    {
+        "id": 2232,
+        "slang": "Adolf Hitler"
+    },
+    {
+        "id": 2233,
+        "slang": "King"
+    },
+    {
+        "id": 2234,
+        "slang": "Ice Cream Cone"
+    },
+    {
+        "id": 2235,
+        "slang": "Umpire"
+    },
+    {
+        "id": 2236,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 2237,
+        "slang": "Sunset"
+    },
+    {
+        "id": 2238,
+        "slang": "Inch Worm"
+    },
+    {
+        "id": 2239,
+        "slang": "TIE Fighter"
+    },
+    {
+        "id": 2240,
+        "slang": "Boxer"
+    },
+    {
+        "id": 2241,
+        "slang": "Toes"
+    },
+    {
+        "id": 2242,
+        "slang": "Toes"
+    },
+    {
+        "id": 2243,
+        "slang": "Water Polo"
+    },
+    {
+        "id": 2244,
+        "slang": "Swimming"
+    },
+    {
+        "id": 2245,
+        "slang": "Turkey"
+    },
+    {
+        "id": 2246,
+        "slang": "Pig"
+    },
+    {
+        "id": 2247,
+        "slang": "Scorpion"
+    },
+    {
+        "id": 2248,
+        "slang": "Hockey Player"
+    },
+    {
+        "id": 2249,
+        "slang": "Earthquake"
+    },
+    {
+        "id": 2250,
+        "slang": "Art Critic"
+    },
+    {
+        "id": 2251,
+        "slang": "UFO"
+    },
+    {
+        "id": 2252,
+        "slang": "Klingon Bird of Prey"
+    },
+    {
+        "id": 2253,
+        "slang": "Dead"
+    },
+    {
+        "id": 2254,
+        "slang": "Race Car"
+    },
+    {
+        "id": 2255,
+        "slang": "Fish"
+    },
+    {
+        "id": 2256,
+        "slang": "Forklift"
+    },
+    {
+        "id": 2257,
+        "slang": "Bulldozer"
+    },
+    {
+        "id": 2258,
+        "slang": "Dragon"
+    },
+    {
+        "id": 2259,
+        "slang": "Sunglasses"
+    },
+    {
+        "id": 2260,
+        "slang": "Blissful"
+    },
+    {
+        "id": 2261,
+        "slang": "Running"
+    },
+    {
+        "id": 2262,
+        "slang": "Ashamed"
+    },
+    {
+        "id": 2263,
+        "slang": "Reluctant"
+    },
+    {
+        "id": 2264,
+        "slang": "Herp Derp"
+    },
+    {
+        "id": 2265,
+        "slang": "Scared"
+    },
+    {
+        "id": 2266,
+        "slang": "Wiping Tears"
+    },
+    {
+        "id": 2267,
+        "slang": "Sword Fighting"
+    },
+    {
+        "id": 2268,
+        "slang": "Giving Up"
+    },
+    {
+        "id": 2269,
+        "slang": "Facepalm"
+    },
+    {
+        "id": 2270,
+        "slang": "Help"
+    },
+    {
+        "id": 2271,
+        "slang": "Help"
+    },
+    {
+        "id": 2272,
+        "slang": "Big Grin"
+    },
+    {
+        "id": 2273,
+        "slang": "Dancing"
+    },
+    {
+        "id": 2274,
+        "slang": "Nerd"
+    },
+    {
+        "id": 2275,
+        "slang": "Nagato"
+    },
+    {
+        "id": 2276,
+        "slang": "Dumbfounded"
+    },
+    {
+        "id": 2277,
+        "slang": "Stunned"
+    },
+    {
+        "id": 2278,
+        "slang": "Bewildered"
+    },
+    {
+        "id": 2279,
+        "slang": "Bad Idea"
+    },
+    {
+        "id": 2280,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2281,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2282,
+        "slang": "Edward Scissorhands"
+    },
+    {
+        "id": 2283,
+        "slang": "Apology"
+    },
+    {
+        "id": 2284,
+        "slang": "Pout"
+    },
+    {
+        "id": 2285,
+        "slang": "Maximilian"
+    },
+    {
+        "id": 2286,
+        "slang": "Dancing"
+    },
+    {
+        "id": 2287,
+        "slang": "Dead"
+    },
+    {
+        "id": 2288,
+        "slang": "Dog"
+    },
+    {
+        "id": 2289,
+        "slang": "Upset"
+    },
+    {
+        "id": 2290,
+        "slang": "Fingers Crossed"
+    },
+    {
+        "id": 2291,
+        "slang": "Dancing"
+    },
+    {
+        "id": 2292,
+        "slang": "Applause"
+    },
+    {
+        "id": 2293,
+        "slang": "Depressed"
+    },
+    {
+        "id": 2294,
+        "slang": "Tired"
+    },
+    {
+        "id": 2295,
+        "slang": "Frantic"
+    },
+    {
+        "id": 2296,
+        "slang": "Angry"
+    },
+    {
+        "id": 2297,
+        "slang": "Pompous"
+    },
+    {
+        "id": 2298,
+        "slang": "Running"
+    },
+    {
+        "id": 2299,
+        "slang": "Wait"
+    },
+    {
+        "id": 2300,
+        "slang": "Painting"
+    },
+    {
+        "id": 2301,
+        "slang": "Throwing Away"
+    },
+    {
+        "id": 2302,
+        "slang": "Frantic"
+    },
+    {
+        "id": 2303,
+        "slang": "Yelling"
+    },
+    {
+        "id": 2304,
+        "slang": "Pointing"
+    },
+    {
+        "id": 2305,
+        "slang": "Praying"
+    },
+    {
+        "id": 2306,
+        "slang": "Friendly"
+    },
+    {
+        "id": 2307,
+        "slang": "Writing"
+    },
+    {
+        "id": 2308,
+        "slang": "Hiding"
+    },
+    {
+        "id": 2309,
+        "slang": "Whispering"
+    },
+    {
+        "id": 2310,
+        "slang": "Pointing"
+    },
+    {
+        "id": 2312,
+        "slang": "Kiss"
+    },
+    {
+        "id": 2313,
+        "slang": "Slapping"
+    },
+    {
+        "id": 2314,
+        "slang": "Kissing"
+    },
+    {
+        "id": 2315,
+        "slang": "Shy"
+    },
+    {
+        "id": 2316,
+        "slang": "Thumbs Up"
+    },
+    {
+        "id": 2317,
+        "slang": "Comforting"
+    },
+    {
+        "id": 2318,
+        "slang": "Mad"
+    },
+    {
+        "id": 2319,
+        "slang": "Clapping"
+    },
+    {
+        "id": 2320,
+        "slang": "Depressed"
+    },
+    {
+        "id": 2321,
+        "slang": "On The Phone"
+    },
+    {
+        "id": 2322,
+        "slang": "On The Phone"
+    },
+    {
+        "id": 2323,
+        "slang": "On The Phone"
+    },
+    {
+        "id": 2324,
+        "slang": "Bathtub"
+    },
+    {
+        "id": 2325,
+        "slang": "Dialing"
+    },
+    {
+        "id": 2326,
+        "slang": "Punching"
+    },
+    {
+        "id": 2327,
+        "slang": "Punching"
+    },
+    {
+        "id": 2328,
+        "slang": "Punching"
+    },
+    {
+        "id": 2329,
+        "slang": "Punching"
+    },
+    {
+        "id": 2330,
+        "slang": "Punched"
+    },
+    {
+        "id": 2331,
+        "slang": "Precious"
+    },
+    {
+        "id": 2332,
+        "slang": "Hitting"
+    },
+    {
+        "id": 2333,
+        "slang": "Magic Casting"
+    },
+    {
+        "id": 2334,
+        "slang": "Olympic Hammer Throw"
+    },
+    {
+        "id": 2335,
+        "slang": "Devil"
+    },
+    {
+        "id": 2336,
+        "slang": "Devil"
+    },
+    {
+        "id": 2337,
+        "slang": "Confounded"
+    },
+    {
+        "id": 2338,
+        "slang": "Pensive"
+    },
+    {
+        "id": 2339,
+        "slang": "In Love"
+    },
+    {
+        "id": 2340,
+        "slang": "Pouting"
+    },
+    {
+        "id": 2341,
+        "slang": "Open-Mouthed Smile"
+    },
+    {
+        "id": 2342,
+        "slang": "Nyan Cat"
+    },
+    {
+        "id": 2343,
+        "slang": "Blushing"
+    },
+    {
+        "id": 2344,
+        "slang": "Dog"
+    },
+    {
+        "id": 2345,
+        "slang": "Cat"
+    },
+    {
+        "id": 2346,
+        "slang": "Scared"
+    },
+    {
+        "id": 2347,
+        "slang": "Peering"
+    },
+    {
+        "id": 2348,
+        "slang": "How Should I Know"
+    },
+    {
+        "id": 2349,
+        "slang": "Giggling"
+    },
+    {
+        "id": 2350,
+        "slang": "Golf Clap"
+    },
+    {
+        "id": 2351,
+        "slang": "Freak Out"
+    },
+    {
+        "id": 2352,
+        "slang": "Dead"
+    },
+    {
+        "id": 2353,
+        "slang": "Snail"
+    },
+    {
+        "id": 2354,
+        "slang": "Chasing"
+    },
+    {
+        "id": 2355,
+        "slang": "Angry"
+    },
+    {
+        "id": 2356,
+        "slang": "Confused"
+    },
+    {
+        "id": 2357,
+        "slang": "Wait"
+    },
+    {
+        "id": 2358,
+        "slang": "Imbecile"
+    },
+    {
+        "id": 2359,
+        "slang": "Bawling"
+    },
+    {
+        "id": 2361,
+        "slang": "Heavy Metal"
+    },
+    {
+        "id": 2362,
+        "slang": "Head Banging"
+    },
+    {
+        "id": 2363,
+        "slang": "Smile"
+    },
+    {
+        "id": 2364,
+        "slang": "Worried"
+    },
+    {
+        "id": 2365,
+        "slang": "Rolling Eyes"
+    },
+    {
+        "id": 2366,
+        "slang": "Winking"
+    },
+    {
+        "id": 2367,
+        "slang": "Seal"
+    },
+    {
+        "id": 2368,
+        "slang": "Pleased"
+    },
+    {
+        "id": 2369,
+        "slang": "Devastated"
+    },
+    {
+        "id": 2370,
+        "slang": "Depressed"
+    },
+    {
+        "id": 2371,
+        "slang": "Gift"
+    },
+    {
+        "id": 2372,
+        "slang": "Dreaming"
+    },
+    {
+        "id": 2373,
+        "slang": "Eye Roll With Hands Up"
+    },
+    {
+        "id": 2374,
+        "slang": "Enamored"
+    },
+    {
+        "id": 2375,
+        "slang": "Spider"
+    },
+    {
+        "id": 2376,
+        "slang": "Table Flips You"
+    },
+    {
+        "id": 2377,
+        "slang": "Angry"
+    },
+    {
+        "id": 2378,
+        "slang": "But At What Cost"
+    },
+    {
+        "id": 2379,
+        "slang": "Puzzled"
+    },
+    {
+        "id": 2380,
+        "slang": "Panicking"
+    },
+    {
+        "id": 2381,
+        "slang": "Nodding"
+    },
+    {
+        "id": 2382,
+        "slang": "Shooting"
+    },
+    {
+        "id": 2383,
+        "slang": "Exorcism"
+    },
+    {
+        "id": 2384,
+        "slang": "Demon"
+    },
+    {
+        "id": 2385,
+        "slang": "Bible"
+    },
+    {
+        "id": 2386,
+        "slang": "Hug"
+    },
+    {
+        "id": 2387,
+        "slang": "Yikes"
+    },
+    {
+        "id": 2388,
+        "slang": "Smooch"
+    },
+    {
+        "id": 2389,
+        "slang": "Ashamed"
+    },
+    {
+        "id": 2390,
+        "slang": "Ashamed"
+    },
+    {
+        "id": 2391,
+        "slang": "Flower"
+    },
+    {
+        "id": 2392,
+        "slang": "Goatee"
+    },
+    {
+        "id": 2393,
+        "slang": "Angry"
+    },
+    {
+        "id": 2394,
+        "slang": "Peace"
+    },
+    {
+        "id": 2395,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 2396,
+        "slang": "Crying"
+    },
+    {
+        "id": 2397,
+        "slang": "Kiss"
+    },
+    {
+        "id": 2398,
+        "slang": "Bubbly Girl"
+    },
+    {
+        "id": 2399,
+        "slang": "Happy"
+    },
+    {
+        "id": 2400,
+        "slang": "Shocked"
+    },
+    {
+        "id": 2401,
+        "slang": "Skeptical"
+    },
+    {
+        "id": 2402,
+        "slang": "Joyful"
+    },
+    {
+        "id": 2403,
+        "slang": "Worshiping"
+    },
+    {
+        "id": 2404,
+        "slang": "Borg"
+    },
+    {
+        "id": 2405,
+        "slang": "Worried"
+    },
+    {
+        "id": 2406,
+        "slang": "Scary"
+    },
+    {
+        "id": 2407,
+        "slang": "Beaten Up"
+    },
+    {
+        "id": 2408,
+        "slang": "Beaten Up"
+    },
+    {
+        "id": 2409,
+        "slang": "Blowing a Kiss"
+    },
+    {
+        "id": 2410,
+        "slang": "Smoking"
+    },
+    {
+        "id": 2411,
+        "slang": "Running"
+    },
+    {
+        "id": 2412,
+        "slang": "Fish"
+    },
+    {
+        "id": 2413,
+        "slang": "Groggy"
+    },
+    {
+        "id": 2414,
+        "slang": "Scratching"
+    },
+    {
+        "id": 2415,
+        "slang": "Darth Vader"
+    },
+    {
+        "id": 2416,
+        "slang": "Looking"
+    },
+    {
+        "id": 2417,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 2418,
+        "slang": "Phone"
+    },
+    {
+        "id": 2419,
+        "slang": "Discarding"
+    },
+    {
+        "id": 2420,
+        "slang": "Spooked"
+    },
+    {
+        "id": 2421,
+        "slang": "Pigtails"
+    },
+    {
+        "id": 2422,
+        "slang": "Cyborg"
+    },
+    {
+        "id": 2423,
+        "slang": "Booing"
+    },
+    {
+        "id": 2424,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2425,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 2426,
+        "slang": "Table Tennis"
+    },
+    {
+        "id": 2427,
+        "slang": "Depressed"
+    },
+    {
+        "id": 2428,
+        "slang": "Staring"
+    },
+    {
+        "id": 2429,
+        "slang": "Whispering"
+    },
+    {
+        "id": 2430,
+        "slang": "Spider"
+    },
+    {
+        "id": 2431,
+        "slang": "Ninja Star"
+    },
+    {
+        "id": 2432,
+        "slang": "Shrug"
+    },
+    {
+        "id": 2433,
+        "slang": "Staring"
+    },
+    {
+        "id": 2434,
+        "slang": "Scaring"
+    },
+    {
+        "id": 2435,
+        "slang": "Tired"
+    },
+    {
+        "id": 2436,
+        "slang": "Peace"
+    },
+    {
+        "id": 2437,
+        "slang": "Laser"
+    },
+    {
+        "id": 2438,
+        "slang": "Chirping"
+    },
+    {
+        "id": 2439,
+        "slang": "Sniper"
+    },
+    {
+        "id": 2440,
+        "slang": "Chasing A Butterfly"
+    },
+    {
+        "id": 2441,
+        "slang": "Oh No!"
+    },
+    {
+        "id": 2442,
+        "slang": "Windows"
+    },
+    {
+        "id": 2443,
+        "slang": "Evil Laugh"
+    },
+    {
+        "id": 2444,
+        "slang": "Dog"
+    },
+    {
+        "id": 2445,
+        "slang": "Yawning"
+    },
+    {
+        "id": 2446,
+        "slang": "Chubby"
+    },
+    {
+        "id": 2447,
+        "slang": "Falling Asleep"
+    },
+    {
+        "id": 2448,
+        "slang": "Bird"
+    },
+    {
+        "id": 2449,
+        "slang": "Bawling"
+    },
+    {
+        "id": 2450,
+        "slang": "Oh No!"
+    },
+    {
+        "id": 2451,
+        "slang": "Skater"
+    },
+    {
+        "id": 2452,
+        "slang": "Sarcastic"
+    },
+    {
+        "id": 2454,
+        "slang": "Pill"
+    },
+    {
+        "id": 2455,
+        "slang": "Bipolar"
+    },
+    {
+        "id": 2456,
+        "slang": "Naughty Grin"
+    },
+    {
+        "id": 2457,
+        "slang": "Flirty Grin"
+    },
+    {
+        "id": 2458,
+        "slang": "Weeping"
+    },
+    {
+        "id": 2459,
+        "slang": "Laughing"
+    },
+    {
+        "id": 2460,
+        "slang": "Laughing"
+    },
+    {
+        "id": 2461,
+        "slang": "Cheerful"
+    },
+    {
+        "id": 2462,
+        "slang": "Cheerful"
+    },
+    {
+        "id": 2463,
+        "slang": "Cheerful"
+    },
+    {
+        "id": 2464,
+        "slang": "Tired"
+    },
+    {
+        "id": 2465,
+        "slang": "Worried"
+    },
+    {
+        "id": 2466,
+        "slang": "Happy"
+    },
+    {
+        "id": 2467,
+        "slang": "Happy"
+    },
+    {
+        "id": 2468,
+        "slang": "Happy"
+    },
+    {
+        "id": 2469,
+        "slang": "Exhausted"
+    },
+    {
+        "id": 2470,
+        "slang": "Sick"
+    },
+    {
+        "id": 2471,
+        "slang": "Adolf Hitler"
+    },
+    {
+        "id": 2472,
+        "slang": "Baby"
+    },
+    {
+        "id": 2473,
+        "slang": "Bad hair day"
+    },
+    {
+        "id": 2474,
+        "slang": "Batman"
+    },
+    {
+        "id": 2475,
+        "slang": "Bear"
+    },
+    {
+        "id": 2476,
+        "slang": "Bear"
+    },
+    {
+        "id": 2478,
+        "slang": "Owl"
+    },
+    {
+        "id": 2479,
+        "slang": "Greedy"
+    },
+    {
+        "id": 2480,
+        "slang": "Winking"
+    },
+    {
+        "id": 2481,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 2482,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2483,
+        "slang": "Listening to music"
+    },
+    {
+        "id": 2484,
+        "slang": "Listening to music"
+    },
+    {
+        "id": 2485,
+        "slang": "Prince"
+    },
+    {
+        "id": 2486,
+        "slang": "Cowboy"
+    },
+    {
+        "id": 2487,
+        "slang": "Mug"
+    },
+    {
+        "id": 2488,
+        "slang": "Can of Coke"
+    },
+    {
+        "id": 2489,
+        "slang": "Can of Pepsi"
+    },
+    {
+        "id": 2490,
+        "slang": "Beer Mug"
+    },
+    {
+        "id": 2491,
+        "slang": "Teasing"
+    },
+    {
+        "id": 2492,
+        "slang": "Teasing"
+    },
+    {
+        "id": 2493,
+        "slang": "Happy"
+    },
+    {
+        "id": 2494,
+        "slang": "Teasing"
+    },
+    {
+        "id": 2495,
+        "slang": "Disappointed"
+    },
+    {
+        "id": 2496,
+        "slang": "Hands"
+    },
+    {
+        "id": 2497,
+        "slang": "Hands"
+    },
+    {
+        "id": 2498,
+        "slang": "Sad"
+    },
+    {
+        "id": 2499,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2500,
+        "slang": "Unsure"
+    },
+    {
+        "id": 2501,
+        "slang": "Confused"
+    },
+    {
+        "id": 2502,
+        "slang": "Confused"
+    },
+    {
+        "id": 2503,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2504,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2505,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2506,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2507,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2508,
+        "slang": "Angry"
+    },
+    {
+        "id": 2509,
+        "slang": "Angry"
+    },
+    {
+        "id": 2510,
+        "slang": "Happy"
+    },
+    {
+        "id": 2511,
+        "slang": "Happy"
+    },
+    {
+        "id": 2512,
+        "slang": "Happy"
+    },
+    {
+        "id": 2513,
+        "slang": "Happy"
+    },
+    {
+        "id": 2514,
+        "slang": "Laughing"
+    },
+    {
+        "id": 2515,
+        "slang": "Mad"
+    },
+    {
+        "id": 2516,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2517,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2518,
+        "slang": "Disinterested"
+    },
+    {
+        "id": 2519,
+        "slang": "Chicken"
+    },
+    {
+        "id": 2520,
+        "slang": "Cow"
+    },
+    {
+        "id": 2521,
+        "slang": "Elvis Presley"
+    },
+    {
+        "id": 2522,
+        "slang": "Elvis Presley"
+    },
+    {
+        "id": 2523,
+        "slang": "Benjamin Franklin"
+    },
+    {
+        "id": 2524,
+        "slang": "Larry David"
+    },
+    {
+        "id": 2525,
+        "slang": "Woody Allen"
+    },
+    {
+        "id": 2526,
+        "slang": "Angry"
+    },
+    {
+        "id": 2527,
+        "slang": "John Lennon"
+    },
+    {
+        "id": 2528,
+        "slang": "Ringo Starr"
+    },
+    {
+        "id": 2529,
+        "slang": "Bad hair day"
+    },
+    {
+        "id": 2530,
+        "slang": "Dog"
+    },
+    {
+        "id": 2531,
+        "slang": "Koala"
+    },
+    {
+        "id": 2532,
+        "slang": "Teddy Bear"
+    },
+    {
+        "id": 2533,
+        "slang": "Cold"
+    },
+    {
+        "id": 2534,
+        "slang": "Kitten"
+    },
+    {
+        "id": 2535,
+        "slang": "Lobster"
+    },
+    {
+        "id": 2536,
+        "slang": "Puppy Love"
+    },
+    {
+        "id": 2537,
+        "slang": "Elton John"
+    },
+    {
+        "id": 2538,
+        "slang": "Panda"
+    },
+    {
+        "id": 2539,
+        "slang": "Emo"
+    },
+    {
+        "id": 2540,
+        "slang": "Bear"
+    },
+    {
+        "id": 2541,
+        "slang": "Geek"
+    },
+    {
+        "id": 2542,
+        "slang": "Livid"
+    },
+    {
+        "id": 2543,
+        "slang": "Bunny"
+    },
+    {
+        "id": 2544,
+        "slang": "Distressed"
+    },
+    {
+        "id": 2545,
+        "slang": "Defeated"
+    },
+    {
+        "id": 2546,
+        "slang": "Grandma"
+    },
+    {
+        "id": 2547,
+        "slang": "Owl"
+    },
+    {
+        "id": 2548,
+        "slang": "Spider"
+    },
+    {
+        "id": 2549,
+        "slang": "Muscular Person"
+    },
+    {
+        "id": 2550,
+        "slang": "Bear"
+    },
+    {
+        "id": 2551,
+        "slang": "Happy"
+    },
+    {
+        "id": 2552,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 2553,
+        "slang": "Jamming to music"
+    },
+    {
+        "id": 2554,
+        "slang": "Whatever"
+    },
+    {
+        "id": 2555,
+        "slang": "Cigarette"
+    },
+    {
+        "id": 2556,
+        "slang": "Kirby"
+    },
+    {
+        "id": 2557,
+        "slang": "Attentive"
+    },
+    {
+        "id": 2558,
+        "slang": "Suspicious"
+    },
+    {
+        "id": 2559,
+        "slang": "Dog"
+    },
+    {
+        "id": 2560,
+        "slang": "Bird"
+    },
+    {
+        "id": 2561,
+        "slang": "Porcupine"
+    },
+    {
+        "id": 2562,
+        "slang": "Content"
+    },
+    {
+        "id": 2563,
+        "slang": "Romantic"
+    },
+    {
+        "id": 2564,
+        "slang": "Frosty the Snowman"
+    },
+    {
+        "id": 2565,
+        "slang": "Playing in the snow"
+    },
+    {
+        "id": 2566,
+        "slang": "Bus"
+    },
+    {
+        "id": 2567,
+        "slang": "Winnie the Pooh"
+    },
+    {
+        "id": 2568,
+        "slang": "Zoidberg"
+    },
+    {
+        "id": 2569,
+        "slang": "Whoops"
+    },
+    {
+        "id": 2570,
+        "slang": "PlayStation Portable"
+    },
+    {
+        "id": 2571,
+        "slang": "Wizard"
+    },
+    {
+        "id": 2572,
+        "slang": "Bro Pound"
+    },
+    {
+        "id": 2573,
+        "slang": "Cat"
+    },
+    {
+        "id": 2574,
+        "slang": "Stereo"
+    },
+    {
+        "id": 2575,
+        "slang": "Eager"
+    },
+    {
+        "id": 2576,
+        "slang": "Sleepy"
+    },
+    {
+        "id": 2577,
+        "slang": "Abraham Lincoln"
+    },
+    {
+        "id": 2578,
+        "slang": "Tupac Shakur"
+    },
+    {
+        "id": 2579,
+        "slang": "Celebrate"
+    },
+    {
+        "id": 2580,
+        "slang": "Ping Pong table"
+    },
+    {
+        "id": 2581,
+        "slang": "Fish"
+    },
+    {
+        "id": 2582,
+        "slang": "Happy crying"
+    },
+    {
+        "id": 2583,
+        "slang": "Clown"
+    },
+    {
+        "id": 2584,
+        "slang": "Emo"
+    },
+    {
+        "id": 2585,
+        "slang": "Frog"
+    },
+    {
+        "id": 2586,
+        "slang": "Turntables"
+    },
+    {
+        "id": 2587,
+        "slang": "Banksy"
+    },
+    {
+        "id": 2588,
+        "slang": "Bread"
+    },
+    {
+        "id": 2589,
+        "slang": "Lifting weights"
+    },
+    {
+        "id": 2590,
+        "slang": "Hiding Easter eggs"
+    },
+    {
+        "id": 2591,
+        "slang": "Bat"
+    },
+    {
+        "id": 2592,
+        "slang": "Arm wrestle"
+    },
+    {
+        "id": 2593,
+        "slang": "Snowing"
+    },
+    {
+        "id": 2594,
+        "slang": "Weeping"
+    },
+    {
+        "id": 2595,
+        "slang": "Proposal"
+    },
+    {
+        "id": 2596,
+        "slang": "Dancing"
+    },
+    {
+        "id": 2597,
+        "slang": "Polar bear"
+    },
+    {
+        "id": 2598,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 2599,
+        "slang": "Santa Claus"
+    },
+    {
+        "id": 2600,
+        "slang": "Walrus"
+    },
+    {
+        "id": 2601,
+        "slang": "Singing"
+    },
+    {
+        "id": 2602,
+        "slang": "French Kiss"
+    },
+    {
+        "id": 2603,
+        "slang": "French Kiss"
+    },
+    {
+        "id": 2604,
+        "slang": "Wink"
+    },
+    {
+        "id": 2605,
+        "slang": "Wink"
+    },
+    {
+        "id": 2606,
+        "slang": "Winking"
+    },
+    {
+        "id": 2607,
+        "slang": "Winking"
+    },
+    {
+        "id": 2608,
+        "slang": "Celebrating"
+    },
+    {
+        "id": 2609,
+        "slang": "Accidental farting"
+    },
+    {
+        "id": 2610,
+        "slang": "Kiss my butt"
+    },
+    {
+        "id": 2611,
+        "slang": "Pucker up"
+    },
+    {
+        "id": 2612,
+        "slang": "Volkswagen Bug"
+    },
+    {
+        "id": 2613,
+        "slang": "Rooster"
+    },
+    {
+        "id": 2614,
+        "slang": "Bull"
+    },
+    {
+        "id": 2615,
+        "slang": "Raving"
+    },
+    {
+        "id": 2616,
+        "slang": "Koala"
+    },
+    {
+        "id": 2617,
+        "slang": "Perplexed"
+    },
+    {
+        "id": 2618,
+        "slang": "Tasty"
+    },
+    {
+        "id": 2619,
+        "slang": "Fighting"
+    },
+    {
+        "id": 2620,
+        "slang": "Neglected"
+    },
+    {
+        "id": 2621,
+        "slang": "Gleeful"
+    },
+    {
+        "id": 2622,
+        "slang": "Bear cub"
+    },
+    {
+        "id": 2623,
+        "slang": "Squid"
+    },
+    {
+        "id": 2624,
+        "slang": "Fish"
+    },
+    {
+        "id": 2625,
+        "slang": "Sobbing"
+    },
+    {
+        "id": 2626,
+        "slang": "Cutting a rug"
+    },
+    {
+        "id": 2627,
+        "slang": "Hug me"
+    },
+    {
+        "id": 2628,
+        "slang": "Crazed"
+    },
+    {
+        "id": 2629,
+        "slang": "Ashamed"
+    },
+    {
+        "id": 2630,
+        "slang": "Anticipation"
+    },
+    {
+        "id": 2631,
+        "slang": "Lady"
+    },
+    {
+        "id": 2632,
+        "slang": "Grooving"
+    },
+    {
+        "id": 2633,
+        "slang": "Deceased"
+    },
+    {
+        "id": 2634,
+        "slang": "Hipster"
+    },
+    {
+        "id": 2635,
+        "slang": "Shocked"
+    },
+    {
+        "id": 2636,
+        "slang": "Sobbing"
+    },
+    {
+        "id": 2637,
+        "slang": "Satan"
+    },
+    {
+        "id": 2638,
+        "slang": "SpongeBob SquarePants"
+    },
+    {
+        "id": 2639,
+        "slang": "Bird"
+    },
+    {
+        "id": 2640,
+        "slang": "Ghost"
+    },
+    {
+        "id": 2641,
+        "slang": "Smitten"
+    },
+    {
+        "id": 2642,
+        "slang": "Pig"
+    },
+    {
+        "id": 2643,
+        "slang": "Hiding"
+    },
+    {
+        "id": 2644,
+        "slang": "Dead"
+    },
+    {
+        "id": 2645,
+        "slang": "Feisty"
+    },
+    {
+        "id": 2646,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 2647,
+        "slang": "Puppy"
+    },
+    {
+        "id": 2648,
+        "slang": "Doggy"
+    },
+    {
+        "id": 2649,
+        "slang": "Psycho"
+    },
+    {
+        "id": 2650,
+        "slang": "Buddies"
+    },
+    {
+        "id": 2651,
+        "slang": "Hugging"
+    },
+    {
+        "id": 2652,
+        "slang": "Motorcycle"
+    },
+    {
+        "id": 2653,
+        "slang": "Motorbike"
+    },
+    {
+        "id": 2654,
+        "slang": "Lethargic"
+    },
+    {
+        "id": 2655,
+        "slang": "Writing"
+    },
+    {
+        "id": 2656,
+        "slang": "Doing Homework"
+    },
+    {
+        "id": 2657,
+        "slang": "Kirby Dance"
+    },
+    {
+        "id": 2658,
+        "slang": "Blushing"
+    },
+    {
+        "id": 2659,
+        "slang": "Boogie down"
+    },
+    {
+        "id": 2660,
+        "slang": "Pucker up"
+    },
+    {
+        "id": 2661,
+        "slang": "Unimpressed"
+    },
+    {
+        "id": 2662,
+        "slang": "Kitty"
+    },
+    {
+        "id": 2663,
+        "slang": "Bunny"
+    },
+    {
+        "id": 2664,
+        "slang": "Rabbit"
+    },
+    {
+        "id": 2665,
+        "slang": "Livid"
+    },
+    {
+        "id": 2666,
+        "slang": "Enraged"
+    },
+    {
+        "id": 2667,
+        "slang": "Excited"
+    },
+    {
+        "id": 2668,
+        "slang": "Best buddies"
+    },
+    {
+        "id": 2669,
+        "slang": "Bear cub"
+    },
+    {
+        "id": 2670,
+        "slang": "Frightened"
+    },
+    {
+        "id": 2671,
+        "slang": "Dead cat"
+    },
+    {
+        "id": 2672,
+        "slang": "Fish"
+    },
+    {
+        "id": 2673,
+        "slang": "Pumped up"
+    },
+    {
+        "id": 2674,
+        "slang": "Excited"
+    },
+    {
+        "id": 2675,
+        "slang": "Sonic the Hedgehog"
+    },
+    {
+        "id": 2676,
+        "slang": "Frosty the Snowman"
+    },
+    {
+        "id": 2677,
+        "slang": "Heartbroken"
+    },
+    {
+        "id": 2678,
+        "slang": "Lovestruck"
+    },
+    {
+        "id": 2679,
+        "slang": "Weeping"
+    },
+    {
+        "id": 2680,
+        "slang": "Kitty"
+    },
+    {
+        "id": 2681,
+        "slang": "Pucker up"
+    },
+    {
+        "id": 2682,
+        "slang": "Sprinting"
+    },
+    {
+        "id": 2683,
+        "slang": "Meh"
+    },
+    {
+        "id": 2684,
+        "slang": "Bird"
+    },
+    {
+        "id": 2685,
+        "slang": "Fu Manchu Man"
+    },
+    {
+        "id": 2686,
+        "slang": "Best Buds"
+    },
+    {
+        "id": 2687,
+        "slang": "Crab"
+    },
+    {
+        "id": 2688,
+        "slang": "Crab"
+    },
+    {
+        "id": 2689,
+        "slang": "Sword"
+    },
+    {
+        "id": 2690,
+        "slang": "Kiss me"
+    },
+    {
+        "id": 2691,
+        "slang": "Embarrassed"
+    },
+    {
+        "id": 2692,
+        "slang": "Bear"
+    },
+    {
+        "id": 2693,
+        "slang": "Bummed out"
+    },
+    {
+        "id": 2694,
+        "slang": "Poodle"
+    },
+    {
+        "id": 2695,
+        "slang": "Zombie"
+    },
+    {
+        "id": 2696,
+        "slang": "Grooving"
+    },
+    {
+        "id": 2697,
+        "slang": "Beefcake"
+    },
+    {
+        "id": 2698,
+        "slang": "Hipster"
+    },
+    {
+        "id": 2699,
+        "slang": "Monkey"
+    },
+    {
+        "id": 2700,
+        "slang": "Doing homework"
+    },
+    {
+        "id": 2701,
+        "slang": "Chameleon"
+    },
+    {
+        "id": 2702,
+        "slang": "Teddy bear"
+    },
+    {
+        "id": 2703,
+        "slang": "Hurt"
+    },
+    {
+        "id": 2704,
+        "slang": "Cunning"
+    },
+    {
+        "id": 2705,
+        "slang": "Raise the roof"
+    },
+    {
+        "id": 2706,
+        "slang": "Owl"
+    },
+    {
+        "id": 2707,
+        "slang": "Loving couple"
+    },
+    {
+        "id": 2708,
+        "slang": "Hug me"
+    },
+    {
+        "id": 2709,
+        "slang": "Frustrated"
+    },
+    {
+        "id": 2710,
+        "slang": "Ood"
+    },
+    {
+        "id": 2711,
+        "slang": "Kitty"
+    },
+    {
+        "id": 2712,
+        "slang": "Cat"
+    },
+    {
+        "id": 2713,
+        "slang": "Shy"
+    },
+    {
+        "id": 2714,
+        "slang": "Bird"
+    },
+    {
+        "id": 2715,
+        "slang": "Pumped"
+    },
+    {
+        "id": 2716,
+        "slang": "Dead person"
+    },
+    {
+        "id": 2717,
+        "slang": "Hat"
+    },
+    {
+        "id": 2718,
+        "slang": "Beard"
+    },
+    {
+        "id": 2719,
+        "slang": "Bawling"
+    },
+    {
+        "id": 2720,
+        "slang": "Piggy"
+    },
+    {
+        "id": 2721,
+        "slang": "Emo"
+    },
+    {
+        "id": 2722,
+        "slang": "Smooch"
+    },
+    {
+        "id": 2723,
+        "slang": "Teasing"
+    },
+    {
+        "id": 2724,
+        "slang": "Doggy"
+    },
+    {
+        "id": 2725,
+        "slang": "Giving up"
+    },
+    {
+        "id": 2726,
+        "slang": "Studying"
+    },
+    {
+        "id": 2727,
+        "slang": "Satisfied"
+    },
+    {
+        "id": 2728,
+        "slang": "Punch"
+    },
+    {
+        "id": 2729,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2730,
+        "slang": "Tearing up"
+    },
+    {
+        "id": 2731,
+        "slang": "Jubilant"
+    },
+    {
+        "id": 2732,
+        "slang": "Distraught"
+    },
+    {
+        "id": 2733,
+        "slang": "John Lennon"
+    },
+    {
+        "id": 2734,
+        "slang": "Bear cub"
+    },
+    {
+        "id": 2735,
+        "slang": "Kissing"
+    },
+    {
+        "id": 2736,
+        "slang": "Hurt"
+    },
+    {
+        "id": 2737,
+        "slang": "Flipping the bird"
+    },
+    {
+        "id": 2738,
+        "slang": "Bird"
+    },
+    {
+        "id": 2739,
+        "slang": "Accordion"
+    },
+    {
+        "id": 2740,
+        "slang": "Sobbing"
+    },
+    {
+        "id": 2741,
+        "slang": "Flipping Facebook"
+    },
+    {
+        "id": 2742,
+        "slang": "Superhero"
+    },
+    {
+        "id": 2743,
+        "slang": "Singing"
+    },
+    {
+        "id": 2744,
+        "slang": "Beat up"
+    },
+    {
+        "id": 2745,
+        "slang": "Smoking"
+    },
+    {
+        "id": 2746,
+        "slang": "Cheerleader"
+    },
+    {
+        "id": 2747,
+        "slang": "Skeptical"
+    },
+    {
+        "id": 2748,
+        "slang": "Thinking"
+    },
+    {
+        "id": 2749,
+        "slang": "Crayola crayon"
+    },
+    {
+        "id": 2750,
+        "slang": "Vampire bat"
+    },
+    {
+        "id": 2751,
+        "slang": "Owl"
+    },
+    {
+        "id": 2752,
+        "slang": "Darth Vader"
+    },
+    {
+        "id": 2753,
+        "slang": "Count Dracula"
+    },
+    {
+        "id": 2754,
+        "slang": "A dozen roses"
+    },
+    {
+        "id": 2755,
+        "slang": "Confused"
+    },
+    {
+        "id": 2756,
+        "slang": "Cat in the Hat"
+    },
+    {
+        "id": 2757,
+        "slang": "Hugged"
+    },
+    {
+        "id": 2758,
+        "slang": "Black eye"
+    },
+    {
+        "id": 2759,
+        "slang": "French kiss"
+    },
+    {
+        "id": 2760,
+        "slang": "Piggy"
+    },
+    {
+        "id": 2761,
+        "slang": "Chatterbox"
+    },
+    {
+        "id": 2762,
+        "slang": "Fish"
+    },
+    {
+        "id": 2763,
+        "slang": "Chubby cat"
+    },
+    {
+        "id": 2764,
+        "slang": "Abraham Lincoln"
+    },
+    {
+        "id": 2765,
+        "slang": "Magic Attack"
+    },
+    {
+        "id": 2766,
+        "slang": "Mesmerized"
+    },
+    {
+        "id": 2767,
+        "slang": "Put em up"
+    },
+    {
+        "id": 2768,
+        "slang": "Kiss me"
+    },
+    {
+        "id": 2769,
+        "slang": "Coffee"
+    },
+    {
+        "id": 2770,
+        "slang": "Drooling"
+    },
+    {
+        "id": 2771,
+        "slang": "Koala"
+    },
+    {
+        "id": 2772,
+        "slang": "Boxing"
+    },
+    {
+        "id": 2773,
+        "slang": "Boxing"
+    },
+    {
+        "id": 2774,
+        "slang": "Monocle"
+    },
+    {
+        "id": 2775,
+        "slang": "Kitty Cat"
+    },
+    {
+        "id": 2776,
+        "slang": "Kitten"
+    },
+    {
+        "id": 2777,
+        "slang": "Cat"
+    },
+    {
+        "id": 2778,
+        "slang": "Shark"
+    },
+    {
+        "id": 2779,
+        "slang": "Sword"
+    },
+    {
+        "id": 2780,
+        "slang": "Truck"
+    },
+    {
+        "id": 2781,
+        "slang": "Punk rocker"
+    },
+    {
+        "id": 2782,
+        "slang": "Bummed out"
+    },
+    {
+        "id": 2783,
+        "slang": "Marge Simpson"
+    },
+    {
+        "id": 2784,
+        "slang": "Hats off to you"
+    },
+    {
+        "id": 2785,
+        "slang": "Catcher"
+    },
+    {
+        "id": 2786,
+        "slang": "Shot between the eyes"
+    },
+    {
+        "id": 2787,
+        "slang": "Fighter"
+    },
+    {
+        "id": 2788,
+        "slang": "Crazily laughing"
+    },
+    {
+        "id": 2789,
+        "slang": "Evil aliens"
+    },
+    {
+        "id": 2790,
+        "slang": "Fangs"
+    },
+    {
+        "id": 2791,
+        "slang": "Clown"
+    },
+    {
+        "id": 2792,
+        "slang": "Screaming"
+    },
+    {
+        "id": 2793,
+        "slang": "Sword"
+    },
+    {
+        "id": 2794,
+        "slang": "Needle"
+    },
+    {
+        "id": 2795,
+        "slang": "John Lennon"
+    },
+    {
+        "id": 2796,
+        "slang": "Playful"
+    },
+    {
+        "id": 2797,
+        "slang": "Mustache Man"
+    },
+    {
+        "id": 2798,
+        "slang": "Tight-lipped"
+    },
+    {
+        "id": 2799,
+        "slang": "Turkey"
+    },
+    {
+        "id": 2800,
+        "slang": "Pleased"
+    },
+    {
+        "id": 2801,
+        "slang": "Playing Ping Pong"
+    },
+    {
+        "id": 2802,
+        "slang": "Grooving"
+    },
+    {
+        "id": 2803,
+        "slang": "Playful"
+    },
+    {
+        "id": 2804,
+        "slang": "Shouting"
+    },
+    {
+        "id": 2805,
+        "slang": "Pope"
+    },
+    {
+        "id": 2806,
+        "slang": "Perplexed"
+    },
+    {
+        "id": 2807,
+        "slang": "Suspense"
+    },
+    {
+        "id": 2808,
+        "slang": "Gleeful"
+    },
+    {
+        "id": 2809,
+        "slang": "Joyful"
+    },
+    {
+        "id": 2810,
+        "slang": "Blushing"
+    },
+    {
+        "id": 2811,
+        "slang": "Enraged"
+    },
+    {
+        "id": 2812,
+        "slang": "Lovestruck"
+    },
+    {
+        "id": 2813,
+        "slang": "Tongue Tied"
+    },
+    {
+        "id": 2814,
+        "slang": "Yum"
+    },
+    {
+        "id": 2815,
+        "slang": "Putting On Sunglasses"
+    },
+    {
+        "id": 2816,
+        "slang": "Smiling"
+    },
+    {
+        "id": 2817,
+        "slang": "Bat"
+    },
+    {
+        "id": 2818,
+        "slang": "Gavel"
+    },
+    {
+        "id": 2819,
+        "slang": "Alien"
+    },
+    {
+        "id": 2820,
+        "slang": "Alien"
+    },
+    {
+        "id": 2821,
+        "slang": "Bored"
+    },
+    {
+        "id": 2822,
+        "slang": "Kiss"
+    },
+    {
+        "id": 2823,
+        "slang": "Alien"
+    },
+    {
+        "id": 2824,
+        "slang": "Kirby"
+    },
+    {
+        "id": 2825,
+        "slang": "Mustache"
+    },
+    {
+        "id": 2826,
+        "slang": "Owl"
+    },
+    {
+        "id": 2827,
+        "slang": "Owl"
+    },
+    {
+        "id": 2828,
+        "slang": "Grateful Dead"
+    },
+    {
+        "id": 2829,
+        "slang": "Grateful Dead"
+    },
+    {
+        "id": 2830,
+        "slang": "Kirby"
+    },
+    {
+        "id": 2831,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2832,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 2833,
+        "slang": "Vampire"
+    },
+    {
+        "id": 2834,
+        "slang": "Cat"
+    },
+    {
+        "id": 2835,
+        "slang": "Female skateboarder"
+    },
+    {
+        "id": 2836,
+        "slang": "Cyclops"
+    },
+    {
+        "id": 2837,
+        "slang": "Raised eyebrows"
+    },
+    {
+        "id": 2838,
+        "slang": "Snowman"
+    },
+    {
+        "id": 2839,
+        "slang": "Homer Simpson"
+    },
+    {
+        "id": 2840,
+        "slang": "Homer Simpson"
+    },
+    {
+        "id": 2841,
+        "slang": "Skateboarder"
+    },
+    {
+        "id": 2842,
+        "slang": "Sleeping"
+    },
+    {
+        "id": 2843,
+        "slang": "Bee"
+    },
+    {
+        "id": 2844,
+        "slang": "Listening to music"
+    },
+    {
+        "id": 2845,
+        "slang": "Hug"
+    },
+    {
+        "id": 2846,
+        "slang": "Syringe"
+    },
+    {
+        "id": 2847,
+        "slang": "Grumpy cat"
+    },
+    {
+        "id": 2848,
+        "slang": "Surprised"
+    },
+    {
+        "id": 2849,
+        "slang": "Duck"
+    },
+    {
+        "id": 2850,
+        "slang": "Duck"
+    },
+    {
+        "id": 2851,
+        "slang": "Cat"
+    },
+    {
+        "id": 2852,
+        "slang": "Zombie"
+    },
+    {
+        "id": 2853,
+        "slang": "Praying"
+    },
+    {
+        "id": 2854,
+        "slang": "Wizard"
+    },
+    {
+        "id": 2855,
+        "slang": "Walrus"
+    },
+    {
+        "id": 2856,
+        "slang": "Snail"
+    },
+    {
+        "id": 2857,
+        "slang": "Walrus"
+    },
+    {
+        "id": 2859,
+        "slang": "Umbrella"
+    },
+    {
+        "id": 2860,
+        "slang": "Frank Zappa"
+    },
+    {
+        "id": 2861,
+        "slang": "Spider"
+    },
+    {
+        "id": 2862,
+        "slang": "3D Box"
+    },
+    {
+        "id": 2863,
+        "slang": "This guy"
+    },
+    {
+        "id": 2864,
+        "slang": "Uncle Sam"
+    },
+    {
+        "id": 2865,
+        "slang": "Flipping table"
+    },
+    {
+        "id": 2866,
+        "slang": "Flipping table"
+    },
+    {
+        "id": 2867,
+        "slang": "Deal with it"
+    },
+    {
+        "id": 2868,
+        "slang": "Fighting"
+    },
+    {
+        "id": 2869,
+        "slang": "Anger"
+    },
+    {
+        "id": 2870,
+        "slang": "Distraught"
+    },
+    {
+        "id": 2871,
+        "slang": "Gimme"
+    },
+    {
+        "id": 2872,
+        "slang": "Confused shrug"
+    },
+    {
+        "id": 2873,
+        "slang": "Shifty"
+    },
+    {
+        "id": 2874,
+        "slang": "Sad"
+    },
+    {
+        "id": 2875,
+        "slang": "Take my energy"
+    },
+    {
+        "id": 2876,
+        "slang": "Happy Anime Face"
+    },
+    {
+        "id": 2877,
+        "slang": "Happy monkey"
+    },
+    {
+        "id": 2878,
+        "slang": "Bird"
+    },
+    {
+        "id": 2879,
+        "slang": "Crab"
+    },
+    {
+        "id": 2880,
+        "slang": "Boxing Kirby"
+    },
+    {
+        "id": 2881,
+        "slang": "Sad"
+    },
+    {
+        "id": 2882,
+        "slang": "The Great Divider"
+    },
+    {
+        "id": 2883,
+        "slang": "Beer"
+    },
+    {
+        "id": 2884,
+        "slang": "Robot"
+    },
+    {
+        "id": 2885,
+        "slang": "Dog"
+    },
+    {
+        "id": 2886,
+        "slang": "Archer"
+    },
+    {
+        "id": 2887,
+        "slang": "Stick Man"
+    },
+    {
+        "id": 2888,
+        "slang": "Koala"
+    },
+    {
+        "id": 2889,
+        "slang": "Dachshund"
+    },
+    {
+        "id": 2890,
+        "slang": "Cat"
+    },
+    {
+        "id": 2891,
+        "slang": "Rudolph"
+    },
+    {
+        "id": 2892,
+        "slang": "Salute"
+    },
+    {
+        "id": 2893,
+        "slang": "Darth Vader"
+    },
+    {
+        "id": 2894,
+        "slang": "Sleeping Darth Vader"
+    },
+    {
+        "id": 2895,
+        "slang": "Dark Vadorin"
+    },
+    {
+        "id": 2896,
+        "slang": "Walrus"
+    },
+    {
+        "id": 2897,
+        "slang": "Dark Vadorin"
+    },
+    {
+        "id": 2898,
+        "slang": "Cat"
+    },
+    {
+        "id": 2899,
+        "slang": "Crying"
+    },
+    {
+        "id": 2900,
+        "slang": "Salute"
+    },
+    {
+        "id": 2901,
+        "slang": "Being Well Doing Good"
+    },
+    {
+        "id": 2902,
+        "slang": "Outlaw"
+    },
+    {
+        "id": 2903,
+        "slang": "Disgruntled"
+    },
+    {
+        "id": 2904,
+        "slang": "Intrigued"
+    },
+    {
+        "id": 2905,
+        "slang": "Unamused"
+    },
+    {
+        "id": 2906,
+        "slang": "Smug"
+    },
+    {
+        "id": 2907,
+        "slang": "Hippie"
+    },
+    {
+        "id": 2908,
+        "slang": "Loving"
+    },
+    {
+        "id": 2909,
+        "slang": "Pumped"
+    },
+    {
+        "id": 2910,
+        "slang": "Inquisitive"
+    },
+    {
+        "id": 2911,
+        "slang": "Devastated"
+    },
+    {
+        "id": 2912,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2913,
+        "slang": "Smile"
+    },
+    {
+        "id": 2914,
+        "slang": "Happy furry animal"
+    },
+    {
+        "id": 2915,
+        "slang": "Restrained Fury"
+    },
+    {
+        "id": 2916,
+        "slang": "Cat"
+    },
+    {
+        "id": 2917,
+        "slang": "Homer Simpson"
+    },
+    {
+        "id": 2918,
+        "slang": "Putting Facebook back after flipping it"
+    },
+    {
+        "id": 2919,
+        "slang": "Sleeping Kirby"
+    },
+    {
+        "id": 2920,
+        "slang": "Glasses"
+    },
+    {
+        "id": 2921,
+        "slang": "Sniper"
+    },
+    {
+        "id": 2922,
+        "slang": "Snake"
+    },
+    {
+        "id": 2923,
+        "slang": "Nyan Cat"
+    },
+    {
+        "id": 2924,
+        "slang": "Punching"
+    },
+    {
+        "id": 2925,
+        "slang": "Flexing"
+    },
+    {
+        "id": 2926,
+        "slang": "Cat"
+    },
+    {
+        "id": 2927,
+        "slang": "Happy"
+    },
+    {
+        "id": 2928,
+        "slang": "Magic casting"
+    },
+    {
+        "id": 2929,
+        "slang": "Angry"
+    },
+    {
+        "id": 2930,
+        "slang": "Happy wizard"
+    },
+    {
+        "id": 2931,
+        "slang": "Swordfish"
+    },
+    {
+        "id": 2932,
+        "slang": "Vampire Bat"
+    },
+    {
+        "id": 2933,
+        "slang": "Mouse"
+    },
+    {
+        "id": 2934,
+        "slang": "Excited"
+    },
+    {
+        "id": 2935,
+        "slang": "Cheeky"
+    },
+    {
+        "id": 2936,
+        "slang": "Fishing"
+    },
+    {
+        "id": 2937,
+        "slang": "Happy dog"
+    },
+    {
+        "id": 2938,
+        "slang": "Kitty"
+    },
+    {
+        "id": 2939,
+        "slang": "Dead Inside"
+    },
+    {
+        "id": 2940,
+        "slang": "Shot in the heart"
+    }
+]

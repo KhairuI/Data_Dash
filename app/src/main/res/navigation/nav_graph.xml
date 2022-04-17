@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.data_dash.view.fragment.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_questionListFragment"
+            app:destination="@id/questionListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/questionListFragment"
+        android:name="com.example.data_dash.view.fragment.QuestionListFragment"
+        android:label="fragment_question_list"
+        tools:layout="@layout/fragment_question_list" >
+        <action
+            android:id="@+id/action_questionListFragment_to_questionDetailsFragment"
+            app:destination="@id/questionDetailsFragment" />
+        <action
+            android:id="@+id/action_questionListFragment_to_splashFragment"
+            app:destination="@id/splashFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@id/nav_graph"/>
+    </fragment>
+    <fragment
+        android:id="@+id/questionDetailsFragment"
+        android:name="com.example.data_dash.view.fragment.QuestionDetailsFragment"
+        android:label="fragment_question_details"
+        tools:layout="@layout/fragment_question_details" >
+        <action
+            android:id="@+id/action_questionDetailsFragment_to_questionListFragment"
+            app:destination="@id/questionListFragment" />
+        <argument
+            android:name="question"
+            app:argType="com.example.data_dash.model.ModelQuestion"
+            app:nullable="true" />
+        <argument
+            android:name="total"
+            app:argType="integer"
+            android:defaultValue="0" />
+        <action
+            android:id="@+id/action_questionDetailsFragment_to_splashFragment"
+            app:destination="@id/splashFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@id/nav_graph"/>
+    </fragment>
+</navigation>

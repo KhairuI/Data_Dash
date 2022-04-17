@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Data_Dash</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_welcome">Welcome to</string>
+    <string name="txt_thanks">Thanks for using DataDash</string>
+    <string name="txt_start_task">Start Task</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_hint">Your answer here (max 250 words)</string>
+    <string name="txt_note">Note: You can not use any slang words in your answer. Otherwise you will be penalized.</string>
+    <string name="you_use">You use</string>
+    <string name="warning">Warning!</string>
+    <string name="alert">Alert</string>
+    <string name="quit">Do you want to quiz this quiz?</string>
+    <string name="do_not">Don’t Show</string>
+    <string name="ok">OK</string>
+    <string name="txt_alert">in your answer. It has been detected as inappropriate word for this question. Please change it or you will be penalized for this action.</string>
+</resources>

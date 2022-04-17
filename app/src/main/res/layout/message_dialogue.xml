@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rowLayout"
+    android:background="@color/color_orange_deep"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/rowInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+            android:id="@+id/txtWarning"
+            android:text="@string/warning"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/mulish_bold"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+
+        <TextView
+            android:id="@+id/txtMessage"
+            android:text="@string/txt_alert"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/mulish_semi_bold"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:justificationMode="inter_word"
+            android:layout_marginTop="8dp"
+            app:layout_constraintStart_toStartOf="@id/txtWarning"
+            app:layout_constraintEnd_toEndOf="@id/txtWarning"
+            app:layout_constraintTop_toBottomOf="@id/txtWarning"
+            tools:ignore="UnusedAttribute" />
+
+        <TextView
+            android:id="@+id/txtDoNotShow"
+            android:text="@string/do_not"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/mulish_bold"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@id/txtMessage"/>
+
+        <TextView
+            android:id="@+id/txtOK"
+            android:text="@string/ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/mulish_bold"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/txtMessage"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

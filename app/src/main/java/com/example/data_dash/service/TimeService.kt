@@ -17,7 +17,7 @@ class TimeService: Service() {
 
         Log.d("xxx", "start timer")
 
-        countDownTimer= object :CountDownTimer(60000,1000){
+        countDownTimer= object :CountDownTimer(600000,1000){
             override fun onTick(p0: Long) {
               //  Log.d("xxx", "time remaining: $p0")
                 intent.putExtra(QuestionUtils.COUNT_DOWN,p0)

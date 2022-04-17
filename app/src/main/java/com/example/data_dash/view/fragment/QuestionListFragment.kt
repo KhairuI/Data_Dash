@@ -81,7 +81,6 @@ class QuestionListFragment : Fragment() {
         override fun onReceive(context: Context, intent: Intent) {
 
             val value= intent.extras?.getLong(QuestionUtils.COUNT_DOWN)
-            Log.d("xxx", "value: $value")
             if(value!! < 1000){
                 binding.txtTimer.text="Time left: 00:00:00"
                 showQuitDialogue()
@@ -116,28 +115,21 @@ class QuestionListFragment : Fragment() {
 
     override fun onResume() {
         super.onResume()
-        Log.d("xxx", "onResume called")
-        Log.d("xxx", "register receiver")
         requireContext().registerReceiver(mTimeReceiver, IntentFilter(QuestionUtils.INTENT_TIMER))
     }
 
     override fun onPause() {
         super.onPause()
-        Log.d("xxx", "onPause called")
-        Log.d("xxx", "unregister receiver")
         requireContext().unregisterReceiver(mTimeReceiver)
     }
 
     override fun onDestroy() {
-        Log.d("xxx", "onDestroy called")
         requireContext().stopService(Intent(requireContext(),TimeService::class.java))
         super.onDestroy()
     }
 
     override fun onStop() {
         try {
-            Log.d("xxx", "onStop called")
-            Log.d("xxx", "unregister receiver")
             requireContext().unregisterReceiver(mTimeReceiver)
         } catch (e:Exception){
 
@@ -148,7 +140,6 @@ class QuestionListFragment : Fragment() {
     private fun observeQuestionList() {
         questionViewModel.getAllQuestionResponse.observe(viewLifecycleOwner){
             if(!it.isNullOrEmpty()){
-                Log.d("xxx", "question retrieve")
                 total= it.size
                 questionList= it
                 setData(questionList)
@@ -160,7 +151,6 @@ class QuestionListFragment : Fragment() {
 
         val questionAdapter= QuestionAdapter(requireContext(),object :QuestionAdapter.OnQuestionClickListener{
             override fun onClick(question: ModelQuestion?) {
-                Log.d("xxx", "question index: ${question?.id}")
                 val action = QuestionListFragmentDirections.actionQuestionListFragmentToQuestionDetailsFragment(question,total)
                 findNavController().navigate(action)
             }
@@ -212,7 +202,6 @@ class QuestionListFragment : Fragment() {
 
     private fun checkAnswer():Boolean{
         for(i in 0 until questionList.size){
-            Log.d("xxx", "clickEvent: $i")
             if(questionList[i].isAnswer==false){
                 Snackbar.make(requireView(),"Question #${i+1} answer is required",Snackbar.LENGTH_SHORT).show()
                 return false

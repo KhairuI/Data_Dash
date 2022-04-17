@@ -13,6 +13,7 @@ import android.view.ViewGroup
 import androidx.activity.OnBackPressedCallback
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
+import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
 import com.example.data_dash.R
@@ -105,7 +106,10 @@ class QuestionDetailsFragment : Fragment() {
     private fun showQuitDialogue() {
         val dialogue= QuitDialogue("Time's Up !!","You are unable for this Quiz",object : QuitDialogue.OnClickListener{
             override fun onClick(status: String) {
-                if(status=="yes")  findNavController().navigate(QuestionDetailsFragmentDirections.actionQuestionDetailsFragmentToSplashFragment())
+                if(status=="yes"){
+                    for(i in 1..total) questionViewModel.update(i, null,false)
+                    findNavController().navigate(QuestionDetailsFragmentDirections.actionQuestionDetailsFragmentToSplashFragment())
+                }
             }
         })
         dialogue.show(childFragmentManager,"dialogue")
@@ -113,13 +117,11 @@ class QuestionDetailsFragment : Fragment() {
 
     override fun onResume() {
         super.onResume()
-        Log.d("xxx", "register receiver")
         requireContext().registerReceiver(mTimeReceiver, IntentFilter(QuestionUtils.INTENT_TIMER))
     }
 
     override fun onPause() {
         super.onPause()
-        Log.d("xxx", "unregister receiver")
         requireContext().unregisterReceiver(mTimeReceiver)
     }
 
@@ -142,7 +144,6 @@ class QuestionDetailsFragment : Fragment() {
         val gson = Gson()
         val slangListType = object : TypeToken<MutableList<ModelSlang>>() {}.type
         slangList = gson.fromJson(jsonFileString, slangListType)
-       // slangList.forEachIndexed { idx, person -> Log.d("xxx", "> Item $idx:\n$person") }
     }
 
     private fun observeQuestion() {
@@ -171,9 +172,7 @@ class QuestionDetailsFragment : Fragment() {
     private fun setQuestion() {
         question= args.question!!
         total= args.total
-        Log.d("xxx", "total: $total")
         current= question.id!!
-        Log.d("xxx", "current set: $current")
         binding.topToolbar.txtName.text="Question #${question.id}"
         binding.txtQuestion.text= question.question
 
@@ -192,7 +191,6 @@ class QuestionDetailsFragment : Fragment() {
             else{
                 binding.edtQuestion.setText("")
                 current -= 1
-                Log.d("xxx", "current: $current")
                 questionViewModel.getQuestion(current)
             }
 
@@ -200,7 +198,7 @@ class QuestionDetailsFragment : Fragment() {
         binding.btnNext.setOnClickListener {
 
             if(isInputValid()) {
-                if(isHaveSlang()){
+                if(isHaveSlang()==0){
                     questionViewModel.update(current,binding.edtQuestion.text.toString(),true)
                     binding.edtQuestion.setText("")
                     navigateNext()
@@ -209,33 +207,34 @@ class QuestionDetailsFragment : Fragment() {
             else navigateNext()
 
         }
-        binding.txtTimer.setOnClickListener {
-            val dialogue= MessageDialogue("Alas")
-            dialogue.show(childFragmentManager,"dialogue")
-        }
     }
 
-    private fun isHaveSlang():Boolean{
+    private fun isHaveSlang():Int{
 
         val value= binding.edtQuestion.text.toString()
+        var flag=0
 
-        for(i in 0 until slangList.size){
+        lifecycleScope.launchWhenCreated {
 
-            if(value.contains(slangList[i].slang,ignoreCase = true)){
-                val dialogue= MessageDialogue(slangList[i].slang)
-                dialogue.show(childFragmentManager,"dialogue")
-                return false
+            for(i in 0 until slangList.size){
+
+                if(value.contains(slangList[i].slang,ignoreCase = true)){
+                    val dialogue= MessageDialogue(slangList[i].slang)
+                    dialogue.show(childFragmentManager,"dialogue")
+                    flag=1
+                    return@launchWhenCreated
+                }
             }
         }
 
-        return true
+        return flag
     }
 
     private fun navigateNext(){
         if(current==total)  findNavController().navigate(QuestionDetailsFragmentDirections.actionQuestionDetailsFragmentToQuestionListFragment())
         else{
             current += 1
-            Log.d("xxx", "current: $current")
+
             questionViewModel.getQuestion(current)
         }
     }
@@ -243,10 +242,6 @@ class QuestionDetailsFragment : Fragment() {
     private fun isInputValid() : Boolean {
         return when {
             binding.edtQuestion.text.isNullOrBlank() -> {
-              /*  binding.edtQuestion.apply {
-                    error = "Answer is required"
-                    requestFocus()
-                }*/
                 false
             }
             else -> true

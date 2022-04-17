@@ -48,7 +48,6 @@ class SplashFragment : Fragment() {
     private fun observeQuestionList() {
         questionViewModel.getAllQuestionResponse.observe(viewLifecycleOwner){
             if(!it.isNullOrEmpty()) {
-                Log.d("xxx", "observeQuestionList: list is not empty")
                 isEmpty= false
             }
         }
@@ -63,7 +62,6 @@ class SplashFragment : Fragment() {
     private fun clickEvent() {
         binding.btnStart.setOnClickListener {
             if(isEmpty){
-                Log.d("xxx", "insert question")
                 QuestionUtils.setQuestion().let {
                     it.forEach {
                         questionViewModel.insert(it)
